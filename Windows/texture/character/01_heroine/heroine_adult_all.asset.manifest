@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 475964512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe5b0be431c21f526db4016ebe7cf8ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_adult_all.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3445935087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b4f8a3f0c659d3690cf1393033e46c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_suit_350_konwaku.png
+Dependencies: []

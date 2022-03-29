@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3972430675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb1025dddc81a46e2178d86976f6a9cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/10_yoshiko/yoshiko_350_okoru.png
+Dependencies: []

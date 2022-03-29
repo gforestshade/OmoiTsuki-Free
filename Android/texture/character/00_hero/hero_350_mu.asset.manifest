@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1528439545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ff7342e3ad2bd446c377a743d711980
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_350_mu.png
+Dependencies: []

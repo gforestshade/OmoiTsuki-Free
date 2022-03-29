@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1342634919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74b62d2d9b8799ca20c20bc422d11754
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/218_earring/yearring_350.png
+Dependencies: []

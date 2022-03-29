@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3514922161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54f12c7ae56bb41a780e31f68a6399e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/10_yoshiko/yoshiko_photo_warainaki.png
+Dependencies: []

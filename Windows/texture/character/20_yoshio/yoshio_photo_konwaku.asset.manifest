@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3481368553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8a1d79d803853ac610f89b8bbb74798
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_photo_konwaku.png
+Dependencies: []

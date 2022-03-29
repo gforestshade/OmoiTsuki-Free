@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3205998232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43b409a808751e0c2b74f34e65a58cf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_photo_ikari.png
+Dependencies: []

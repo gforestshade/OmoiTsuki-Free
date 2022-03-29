@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3270623329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe2b45e1a200ffa72ff3b01e380dcde4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_all.png
+Dependencies: []

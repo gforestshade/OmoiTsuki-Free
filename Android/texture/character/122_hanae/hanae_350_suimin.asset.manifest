@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2927354267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565b60d8339d0a91f1d1af583948216b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_350_suimin.png
+Dependencies: []

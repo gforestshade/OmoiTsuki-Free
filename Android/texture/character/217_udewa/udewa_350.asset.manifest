@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3866114573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bfbfa7ef5a7357f12e347761dc300df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/217_udewa/udewa_350.png
+Dependencies: []

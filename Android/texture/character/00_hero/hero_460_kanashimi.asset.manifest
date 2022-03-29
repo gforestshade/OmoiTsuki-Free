@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3363752172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db4bc3449d9171dbc743dcef6a5d0286
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_460_kanashimi.png
+Dependencies: []

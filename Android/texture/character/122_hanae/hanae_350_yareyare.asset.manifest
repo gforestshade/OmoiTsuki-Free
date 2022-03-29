@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3182542409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6b506a0db21b344531cc97f270a5cc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_350_yareyare.png
+Dependencies: []

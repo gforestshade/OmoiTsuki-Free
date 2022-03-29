@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1616350060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9c08f272472458a77ef862e7ecb437a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_350_haji.png
+Dependencies: []

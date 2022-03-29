@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1635060681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aa7eb88863e6d4b6bdbbe3e83dde27f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_photo_namidame.png
+Dependencies: []

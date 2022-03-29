@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3507273424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 901503311597a8c77794989bd78f14ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_photo_burikko.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2876946497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f5106ff90c1dbd9c9f0ac219a167d37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_460_warai.png
+Dependencies: []

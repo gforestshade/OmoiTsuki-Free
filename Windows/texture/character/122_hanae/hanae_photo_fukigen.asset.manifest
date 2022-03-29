@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1480802918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92f936613177e270f21452609910a241
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_photo_fukigen.png
+Dependencies: []

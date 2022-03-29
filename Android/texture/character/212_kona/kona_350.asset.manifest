@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3379822630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6a32d7924850890c06647e5eb9216dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/212_kona/kona_350.png
+Dependencies: []

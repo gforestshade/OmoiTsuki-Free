@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 819337945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fee76560a53d1dffe11d5510bb676121
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/73_tenin/tenin_photo.png
+Dependencies: []

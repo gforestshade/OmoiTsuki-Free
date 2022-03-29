@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 326865958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409d6b4e527bec7e7412448f2884b0ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_photo_ibukashimu.png
+Dependencies: []

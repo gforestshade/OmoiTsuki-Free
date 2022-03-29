@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1631267916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c63b5d8ca945d653c225e15158c8401
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_odoroki.png
+Dependencies: []

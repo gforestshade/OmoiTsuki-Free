@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1980815091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7685a053f2b6fcc96bcfe3cb57891916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_photo_odoroki.png
+Dependencies: []

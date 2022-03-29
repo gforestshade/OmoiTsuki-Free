@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2765262195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cf816ea2b1e4ea8b4c1e69dddd94fdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/02_pacifico/pacifico_460_bouga.png
+Dependencies: []

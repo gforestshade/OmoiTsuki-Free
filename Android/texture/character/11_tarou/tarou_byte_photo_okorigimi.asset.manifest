@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3918220914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76761350ad4d723136af84e8bce5ba39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/11_tarou/tarou_byte_photo_okorigimi.png
+Dependencies: []

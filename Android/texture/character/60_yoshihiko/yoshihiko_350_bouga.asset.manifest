@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2793656894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cad9097bc059ebea57ecad91d06ea8d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_350_bouga.png
+Dependencies: []

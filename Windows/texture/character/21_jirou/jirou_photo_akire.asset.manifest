@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2411727542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f60bc75f49458652ca95aa5209cf72c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_photo_akire.png
+Dependencies: []

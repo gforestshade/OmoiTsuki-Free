@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2105513670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00ea9084b44d5dd395fea1bf373b0339
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_photo_kyoton.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1873358018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e0335d6afbc5f4b2791709ecba9d067
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_photo_odoroki.png
+Dependencies: []

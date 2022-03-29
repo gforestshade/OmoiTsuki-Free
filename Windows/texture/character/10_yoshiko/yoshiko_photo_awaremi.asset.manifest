@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2776564661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c52b65e183fbc49daeac644fa79ead09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/10_yoshiko/yoshiko_photo_awaremi.png
+Dependencies: []

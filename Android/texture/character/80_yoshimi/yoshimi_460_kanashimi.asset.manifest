@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2734661243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565d2cc0195e3e2f7a8afd44134216f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_460_kanashimi.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1195879123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edbb150f79ff12d5ca9735e2a271707c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_350_yakedokakushi.png
+Dependencies: []

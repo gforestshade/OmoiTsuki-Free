@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1166562010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67f075c4950b782206e75e89da4c17d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/22_mimamima/mimamima_350.png
+Dependencies: []

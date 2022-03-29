@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4075806132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0688e8b4e10735638de13e9491e7eef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_350_bisho.png
+Dependencies: []

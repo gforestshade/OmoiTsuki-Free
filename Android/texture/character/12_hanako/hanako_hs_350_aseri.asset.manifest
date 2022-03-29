@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 473478709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad1fc05dcf47c98eef62bf600b58ac15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_hs_350_aseri.png
+Dependencies: []

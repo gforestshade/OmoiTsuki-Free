@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2822443571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c407239f08d22a3e3f598c1999685528
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_chase_350.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 962100141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86c95919375843474f346e7d66700de2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/62_gorou/gorou_350_hatena.png
+Dependencies: []

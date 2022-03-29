@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3837502608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 892efc401a33a7ea8bed1dd574da1db4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/03_hayashi/hayashi_350.png
+Dependencies: []

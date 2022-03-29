@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 254157294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04226e6a206aa171cfcb46da2bf47104
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/40_yoshimune/yoshimune_350.png
+Dependencies: []

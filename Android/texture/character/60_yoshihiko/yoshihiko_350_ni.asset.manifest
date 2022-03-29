@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1288298849
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08af049730af2c52cc8532a6bde212f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_350_ni.png
+Dependencies: []

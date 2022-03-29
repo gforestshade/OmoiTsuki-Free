@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3879638146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a1d7d4bd9bb291d77d7423af6bb2bb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_photo.png
+Dependencies: []

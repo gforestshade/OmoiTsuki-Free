@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 286152571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dda37a2993387d4e439664c1bbc9cbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/10_yoshiko/yoshiko_photo_warau.png
+Dependencies: []

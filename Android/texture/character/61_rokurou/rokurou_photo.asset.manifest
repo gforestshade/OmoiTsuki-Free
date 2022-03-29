@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1683384383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a1053fdda1214e0c3e469f70ec31bee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/61_rokurou/rokurou_photo.png
+Dependencies: []

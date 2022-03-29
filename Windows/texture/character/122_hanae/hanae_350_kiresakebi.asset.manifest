@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3376243613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19c81b2e155e99413ae43131c81e79c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_350_kiresakebi.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3629816604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9da3e030255cbf20f95d48db0476fa75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_460_konwaku.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1548229515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e24273e67f2c155cf591359868772c4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_460_aseri.png
+Dependencies: []

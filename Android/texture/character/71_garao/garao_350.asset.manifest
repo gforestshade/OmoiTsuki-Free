@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2015552827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5de53b0fc7d8d4fe2f5c8c55e9780b1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/71_garao/garao_350.png
+Dependencies: []

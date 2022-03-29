@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2625464899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9568e354bc6e19d8344793ffa78ddfcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/120_shirou/shirou_350_komari.png
+Dependencies: []

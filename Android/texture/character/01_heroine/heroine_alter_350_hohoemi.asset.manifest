@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1981046247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b0bb5f147725465f3da473585c13da2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_350_hohoemi.png
+Dependencies: []

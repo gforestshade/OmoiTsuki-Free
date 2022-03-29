@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 970478563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 482ec4c16f1bb56d026fe25d4cd13d9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_photo_shinpai.png
+Dependencies: []

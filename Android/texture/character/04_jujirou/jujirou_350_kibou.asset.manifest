@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1716429914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0553e0998dcd2a8d2d708a3886e2265e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_350_kibou.png
+Dependencies: []

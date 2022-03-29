@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2395174941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02c01710dc3f285193d69e2899c7584a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/209_kennyou/209_kennyou.png
+Dependencies: []

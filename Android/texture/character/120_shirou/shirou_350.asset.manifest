@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 710945846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8f8b9e96b6a4871bafd1636d87a5990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/120_shirou/shirou_350.png
+Dependencies: []

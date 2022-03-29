@@ -1,7 +1,2497 @@
 ManifestFileVersion: 0
-CRC: 1075469961
+CRC: 1273405107
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: omitsukifree.scenarios.asset
+      Dependencies: {}
+    Info_1:
+      Name: texture/character/00_hero/hero_350.asset
+      Dependencies: {}
+    Info_2:
+      Name: texture/character/00_hero/hero_350_aimai.asset
+      Dependencies: {}
+    Info_3:
+      Name: texture/character/00_hero/hero_350_bisho.asset
+      Dependencies: {}
+    Info_4:
+      Name: texture/character/00_hero/hero_350_bouda.asset
+      Dependencies: {}
+    Info_5:
+      Name: texture/character/00_hero/hero_350_chinmoku.asset
+      Dependencies: {}
+    Info_6:
+      Name: texture/character/00_hero/hero_350_hatena.asset
+      Dependencies: {}
+    Info_7:
+      Name: texture/character/00_hero/hero_350_jodan.asset
+      Dependencies: {}
+    Info_8:
+      Name: texture/character/00_hero/hero_350_kanashimi.asset
+      Dependencies: {}
+    Info_9:
+      Name: texture/character/00_hero/hero_350_konwaku.asset
+      Dependencies: {}
+    Info_10:
+      Name: texture/character/00_hero/hero_350_kurushisou.asset
+      Dependencies: {}
+    Info_11:
+      Name: texture/character/00_hero/hero_350_mu.asset
+      Dependencies: {}
+    Info_12:
+      Name: texture/character/00_hero/hero_350_odoroki.asset
+      Dependencies: {}
+    Info_13:
+      Name: texture/character/00_hero/hero_350_reisei.asset
+      Dependencies: {}
+    Info_14:
+      Name: texture/character/00_hero/hero_350_sakebu.asset
+      Dependencies: {}
+    Info_15:
+      Name: texture/character/00_hero/hero_350_silhouette.asset
+      Dependencies: {}
+    Info_16:
+      Name: texture/character/00_hero/hero_350_tanoshisa.asset
+      Dependencies: {}
+    Info_17:
+      Name: texture/character/00_hero/hero_350_warai.asset
+      Dependencies: {}
+    Info_18:
+      Name: texture/character/00_hero/hero_350_yasashisa.asset
+      Dependencies: {}
+    Info_19:
+      Name: texture/character/00_hero/hero_460.asset
+      Dependencies: {}
+    Info_20:
+      Name: texture/character/00_hero/hero_460_aimai.asset
+      Dependencies: {}
+    Info_21:
+      Name: texture/character/00_hero/hero_460_bisho.asset
+      Dependencies: {}
+    Info_22:
+      Name: texture/character/00_hero/hero_460_bouda.asset
+      Dependencies: {}
+    Info_23:
+      Name: texture/character/00_hero/hero_460_chinmoku.asset
+      Dependencies: {}
+    Info_24:
+      Name: texture/character/00_hero/hero_460_hatena.asset
+      Dependencies: {}
+    Info_25:
+      Name: texture/character/00_hero/hero_460_jodan.asset
+      Dependencies: {}
+    Info_26:
+      Name: texture/character/00_hero/hero_460_kanashimi.asset
+      Dependencies: {}
+    Info_27:
+      Name: texture/character/00_hero/hero_460_konwaku.asset
+      Dependencies: {}
+    Info_28:
+      Name: texture/character/00_hero/hero_460_kurushisou.asset
+      Dependencies: {}
+    Info_29:
+      Name: texture/character/00_hero/hero_460_mu.asset
+      Dependencies: {}
+    Info_30:
+      Name: texture/character/00_hero/hero_460_odoroki.asset
+      Dependencies: {}
+    Info_31:
+      Name: texture/character/00_hero/hero_460_reisei.asset
+      Dependencies: {}
+    Info_32:
+      Name: texture/character/00_hero/hero_460_sakebu.asset
+      Dependencies: {}
+    Info_33:
+      Name: texture/character/00_hero/hero_460_tanoshisa.asset
+      Dependencies: {}
+    Info_34:
+      Name: texture/character/00_hero/hero_460_warai.asset
+      Dependencies: {}
+    Info_35:
+      Name: texture/character/00_hero/hero_460_yasashisa.asset
+      Dependencies: {}
+    Info_36:
+      Name: texture/character/00_hero/hero_all.asset
+      Dependencies: {}
+    Info_37:
+      Name: texture/character/00_hero/hero_before_350.asset
+      Dependencies: {}
+    Info_38:
+      Name: texture/character/00_hero/hero_before_350_kubinashi.asset
+      Dependencies: {}
+    Info_39:
+      Name: texture/character/00_hero/hero_before_460.asset
+      Dependencies: {}
+    Info_40:
+      Name: texture/character/00_hero/hero_before_photo.asset
+      Dependencies: {}
+    Info_41:
+      Name: texture/character/00_hero/hero_before_photo_kubinashi.asset
+      Dependencies: {}
+    Info_42:
+      Name: texture/character/00_hero/hero_bokashi_photo.asset
+      Dependencies: {}
+    Info_43:
+      Name: texture/character/00_hero/hero_damage_350.asset
+      Dependencies: {}
+    Info_44:
+      Name: texture/character/00_hero/hero_damage_350_aimai.asset
+      Dependencies: {}
+    Info_45:
+      Name: texture/character/00_hero/hero_damage_350_bisho.asset
+      Dependencies: {}
+    Info_46:
+      Name: texture/character/00_hero/hero_damage_350_bouda.asset
+      Dependencies: {}
+    Info_47:
+      Name: texture/character/00_hero/hero_damage_350_chinmoku.asset
+      Dependencies: {}
+    Info_48:
+      Name: texture/character/00_hero/hero_damage_350_hatena.asset
+      Dependencies: {}
+    Info_49:
+      Name: texture/character/00_hero/hero_damage_350_jodan.asset
+      Dependencies: {}
+    Info_50:
+      Name: texture/character/00_hero/hero_damage_350_kanashimi.asset
+      Dependencies: {}
+    Info_51:
+      Name: texture/character/00_hero/hero_damage_350_konwaku.asset
+      Dependencies: {}
+    Info_52:
+      Name: texture/character/00_hero/hero_damage_350_kurushisou.asset
+      Dependencies: {}
+    Info_53:
+      Name: texture/character/00_hero/hero_damage_350_mu.asset
+      Dependencies: {}
+    Info_54:
+      Name: texture/character/00_hero/hero_damage_350_odoroki.asset
+      Dependencies: {}
+    Info_55:
+      Name: texture/character/00_hero/hero_damage_350_reisei.asset
+      Dependencies: {}
+    Info_56:
+      Name: texture/character/00_hero/hero_damage_350_sakebu.asset
+      Dependencies: {}
+    Info_57:
+      Name: texture/character/00_hero/hero_damage_350_tanoshisa.asset
+      Dependencies: {}
+    Info_58:
+      Name: texture/character/00_hero/hero_damage_350_warai.asset
+      Dependencies: {}
+    Info_59:
+      Name: texture/character/00_hero/hero_damage_350_yasashisa.asset
+      Dependencies: {}
+    Info_60:
+      Name: texture/character/00_hero/hero_photo.asset
+      Dependencies: {}
+    Info_61:
+      Name: texture/character/00_hero/hero_photo_aimai.asset
+      Dependencies: {}
+    Info_62:
+      Name: texture/character/00_hero/hero_photo_bisho.asset
+      Dependencies: {}
+    Info_63:
+      Name: texture/character/00_hero/hero_photo_bouda.asset
+      Dependencies: {}
+    Info_64:
+      Name: texture/character/00_hero/hero_photo_chinmoku.asset
+      Dependencies: {}
+    Info_65:
+      Name: texture/character/00_hero/hero_photo_hatena.asset
+      Dependencies: {}
+    Info_66:
+      Name: texture/character/00_hero/hero_photo_jodan.asset
+      Dependencies: {}
+    Info_67:
+      Name: texture/character/00_hero/hero_photo_kanashimi.asset
+      Dependencies: {}
+    Info_68:
+      Name: texture/character/00_hero/hero_photo_konwaku.asset
+      Dependencies: {}
+    Info_69:
+      Name: texture/character/00_hero/hero_photo_kurushisou.asset
+      Dependencies: {}
+    Info_70:
+      Name: texture/character/00_hero/hero_photo_mu.asset
+      Dependencies: {}
+    Info_71:
+      Name: texture/character/00_hero/hero_photo_odoroki.asset
+      Dependencies: {}
+    Info_72:
+      Name: texture/character/00_hero/hero_photo_reisei.asset
+      Dependencies: {}
+    Info_73:
+      Name: texture/character/00_hero/hero_photo_sakebu.asset
+      Dependencies: {}
+    Info_74:
+      Name: texture/character/00_hero/hero_photo_silhouette.asset
+      Dependencies: {}
+    Info_75:
+      Name: texture/character/00_hero/hero_photo_tanoshisa.asset
+      Dependencies: {}
+    Info_76:
+      Name: texture/character/00_hero/hero_photo_warai.asset
+      Dependencies: {}
+    Info_77:
+      Name: texture/character/00_hero/hero_photo_yasashisa.asset
+      Dependencies: {}
+    Info_78:
+      Name: texture/character/00_hero/hero_udewa_350.asset
+      Dependencies: {}
+    Info_79:
+      Name: texture/character/00_hero/hero_udewa_350_bisho.asset
+      Dependencies: {}
+    Info_80:
+      Name: texture/character/00_hero/hero_udewa_350_bouda.asset
+      Dependencies: {}
+    Info_81:
+      Name: texture/character/00_hero/hero_udewa_350_kurushisou.asset
+      Dependencies: {}
+    Info_82:
+      Name: texture/character/01_heroine/heroine_350.asset
+      Dependencies: {}
+    Info_83:
+      Name: texture/character/01_heroine/heroine_350_akirame.asset
+      Dependencies: {}
+    Info_84:
+      Name: texture/character/01_heroine/heroine_350_akubi.asset
+      Dependencies: {}
+    Info_85:
+      Name: texture/character/01_heroine/heroine_350_bisho.asset
+      Dependencies: {}
+    Info_86:
+      Name: texture/character/01_heroine/heroine_350_bouga.asset
+      Dependencies: {}
+    Info_87:
+      Name: texture/character/01_heroine/heroine_350_dere.asset
+      Dependencies: {}
+    Info_88:
+      Name: texture/character/01_heroine/heroine_350_egao.asset
+      Dependencies: {}
+    Info_89:
+      Name: texture/character/01_heroine/heroine_350_fuee.asset
+      Dependencies: {}
+    Info_90:
+      Name: texture/character/01_heroine/heroine_350_fumei.asset
+      Dependencies: {}
+    Info_91:
+      Name: texture/character/01_heroine/heroine_350_genki.asset
+      Dependencies: {}
+    Info_92:
+      Name: texture/character/01_heroine/heroine_350_gimon.asset
+      Dependencies: {}
+    Info_93:
+      Name: texture/character/01_heroine/heroine_350_goukyu.asset
+      Dependencies: {}
+    Info_94:
+      Name: texture/character/01_heroine/heroine_350_hakike.asset
+      Dependencies: {}
+    Info_95:
+      Name: texture/character/01_heroine/heroine_350_hanikami.asset
+      Dependencies: {}
+    Info_96:
+      Name: texture/character/01_heroine/heroine_350_hazirai.asset
+      Dependencies: {}
+    Info_97:
+      Name: texture/character/01_heroine/heroine_350_ikari.asset
+      Dependencies: {}
+    Info_98:
+      Name: texture/character/01_heroine/heroine_350_kanashimi.asset
+      Dependencies: {}
+    Info_99:
+      Name: texture/character/01_heroine/heroine_350_ketui.asset
+      Dependencies: {}
+    Info_100:
+      Name: texture/character/01_heroine/heroine_350_kuyashinaki.asset
+      Dependencies: {}
+    Info_101:
+      Name: texture/character/01_heroine/heroine_350_kuyasii.asset
+      Dependencies: {}
+    Info_102:
+      Name: texture/character/01_heroine/heroine_350_kyoton.asset
+      Dependencies: {}
+    Info_103:
+      Name: texture/character/01_heroine/heroine_350_mu.asset
+      Dependencies: {}
+    Info_104:
+      Name: texture/character/01_heroine/heroine_350_naki.asset
+      Dependencies: {}
+    Info_105:
+      Name: texture/character/01_heroine/heroine_350_namidame.asset
+      Dependencies: {}
+    Info_106:
+      Name: texture/character/01_heroine/heroine_350_odoroki.asset
+      Dependencies: {}
+    Info_107:
+      Name: texture/character/01_heroine/heroine_350_tsunnaki.asset
+      Dependencies: {}
+    Info_108:
+      Name: texture/character/01_heroine/heroine_350_tun.asset
+      Dependencies: {}
+    Info_109:
+      Name: texture/character/01_heroine/heroine_350_utagai.asset
+      Dependencies: {}
+    Info_110:
+      Name: texture/character/01_heroine/heroine_350_warai.asset
+      Dependencies: {}
+    Info_111:
+      Name: texture/character/01_heroine/heroine_460.asset
+      Dependencies: {}
+    Info_112:
+      Name: texture/character/01_heroine/heroine_460_akirame.asset
+      Dependencies: {}
+    Info_113:
+      Name: texture/character/01_heroine/heroine_460_akubi.asset
+      Dependencies: {}
+    Info_114:
+      Name: texture/character/01_heroine/heroine_460_bisho.asset
+      Dependencies: {}
+    Info_115:
+      Name: texture/character/01_heroine/heroine_460_bouga.asset
+      Dependencies: {}
+    Info_116:
+      Name: texture/character/01_heroine/heroine_460_dere.asset
+      Dependencies: {}
+    Info_117:
+      Name: texture/character/01_heroine/heroine_460_fuee.asset
+      Dependencies: {}
+    Info_118:
+      Name: texture/character/01_heroine/heroine_460_genki.asset
+      Dependencies: {}
+    Info_119:
+      Name: texture/character/01_heroine/heroine_460_gimon.asset
+      Dependencies: {}
+    Info_120:
+      Name: texture/character/01_heroine/heroine_460_goukyu.asset
+      Dependencies: {}
+    Info_121:
+      Name: texture/character/01_heroine/heroine_460_hanikami.asset
+      Dependencies: {}
+    Info_122:
+      Name: texture/character/01_heroine/heroine_460_hazirai.asset
+      Dependencies: {}
+    Info_123:
+      Name: texture/character/01_heroine/heroine_460_ikari.asset
+      Dependencies: {}
+    Info_124:
+      Name: texture/character/01_heroine/heroine_460_kanashimi.asset
+      Dependencies: {}
+    Info_125:
+      Name: texture/character/01_heroine/heroine_460_ketui.asset
+      Dependencies: {}
+    Info_126:
+      Name: texture/character/01_heroine/heroine_460_kuyashinaki.asset
+      Dependencies: {}
+    Info_127:
+      Name: texture/character/01_heroine/heroine_460_kuyasii.asset
+      Dependencies: {}
+    Info_128:
+      Name: texture/character/01_heroine/heroine_460_kyoton.asset
+      Dependencies: {}
+    Info_129:
+      Name: texture/character/01_heroine/heroine_460_naki.asset
+      Dependencies: {}
+    Info_130:
+      Name: texture/character/01_heroine/heroine_460_namidame.asset
+      Dependencies: {}
+    Info_131:
+      Name: texture/character/01_heroine/heroine_460_odoroki.asset
+      Dependencies: {}
+    Info_132:
+      Name: texture/character/01_heroine/heroine_460_tsunnaki.asset
+      Dependencies: {}
+    Info_133:
+      Name: texture/character/01_heroine/heroine_460_tun.asset
+      Dependencies: {}
+    Info_134:
+      Name: texture/character/01_heroine/heroine_460_utagai.asset
+      Dependencies: {}
+    Info_135:
+      Name: texture/character/01_heroine/heroine_460_warai.asset
+      Dependencies: {}
+    Info_136:
+      Name: texture/character/01_heroine/heroine_adult_350.asset
+      Dependencies: {}
+    Info_137:
+      Name: texture/character/01_heroine/heroine_adult_350_akirame.asset
+      Dependencies: {}
+    Info_138:
+      Name: texture/character/01_heroine/heroine_adult_350_bisho.asset
+      Dependencies: {}
+    Info_139:
+      Name: texture/character/01_heroine/heroine_adult_350_egao.asset
+      Dependencies: {}
+    Info_140:
+      Name: texture/character/01_heroine/heroine_adult_350_hanikami.asset
+      Dependencies: {}
+    Info_141:
+      Name: texture/character/01_heroine/heroine_adult_350_kanashimi.asset
+      Dependencies: {}
+    Info_142:
+      Name: texture/character/01_heroine/heroine_adult_350_metoji.asset
+      Dependencies: {}
+    Info_143:
+      Name: texture/character/01_heroine/heroine_adult_350_mu.asset
+      Dependencies: {}
+    Info_144:
+      Name: texture/character/01_heroine/heroine_adult_350_nakiwarai.asset
+      Dependencies: {}
+    Info_145:
+      Name: texture/character/01_heroine/heroine_adult_350_odoroki.asset
+      Dependencies: {}
+    Info_146:
+      Name: texture/character/01_heroine/heroine_adult_all.asset
+      Dependencies: {}
+    Info_147:
+      Name: texture/character/01_heroine/heroine_adult_bokashi_photo.asset
+      Dependencies: {}
+    Info_148:
+      Name: texture/character/01_heroine/heroine_adult_photo.asset
+      Dependencies: {}
+    Info_149:
+      Name: texture/character/01_heroine/heroine_adult_photo_akirame.asset
+      Dependencies: {}
+    Info_150:
+      Name: texture/character/01_heroine/heroine_adult_photo_bisho.asset
+      Dependencies: {}
+    Info_151:
+      Name: texture/character/01_heroine/heroine_adult_photo_egao.asset
+      Dependencies: {}
+    Info_152:
+      Name: texture/character/01_heroine/heroine_adult_photo_hanikami.asset
+      Dependencies: {}
+    Info_153:
+      Name: texture/character/01_heroine/heroine_adult_photo_kanashimi.asset
+      Dependencies: {}
+    Info_154:
+      Name: texture/character/01_heroine/heroine_adult_photo_metoji.asset
+      Dependencies: {}
+    Info_155:
+      Name: texture/character/01_heroine/heroine_adult_photo_mu.asset
+      Dependencies: {}
+    Info_156:
+      Name: texture/character/01_heroine/heroine_adult_photo_nakiwarai.asset
+      Dependencies: {}
+    Info_157:
+      Name: texture/character/01_heroine/heroine_adult_photo_odoroki.asset
+      Dependencies: {}
+    Info_158:
+      Name: texture/character/01_heroine/heroine_all.asset
+      Dependencies: {}
+    Info_159:
+      Name: texture/character/01_heroine/heroine_alter_350.asset
+      Dependencies: {}
+    Info_160:
+      Name: texture/character/01_heroine/heroine_alter_350_akubi.asset
+      Dependencies: {}
+    Info_161:
+      Name: texture/character/01_heroine/heroine_alter_350_bikkuri.asset
+      Dependencies: {}
+    Info_162:
+      Name: texture/character/01_heroine/heroine_alter_350_bisho.asset
+      Dependencies: {}
+    Info_163:
+      Name: texture/character/01_heroine/heroine_alter_350_gimon.asset
+      Dependencies: {}
+    Info_164:
+      Name: texture/character/01_heroine/heroine_alter_350_haji.asset
+      Dependencies: {}
+    Info_165:
+      Name: texture/character/01_heroine/heroine_alter_350_hohoemi.asset
+      Dependencies: {}
+    Info_166:
+      Name: texture/character/01_heroine/heroine_alter_350_ikari.asset
+      Dependencies: {}
+    Info_167:
+      Name: texture/character/01_heroine/heroine_alter_350_kanashimi.asset
+      Dependencies: {}
+    Info_168:
+      Name: texture/character/01_heroine/heroine_alter_350_kyoton.asset
+      Dependencies: {}
+    Info_169:
+      Name: texture/character/01_heroine/heroine_alter_350_utagai.asset
+      Dependencies: {}
+    Info_170:
+      Name: texture/character/01_heroine/heroine_alter_350_warai.asset
+      Dependencies: {}
+    Info_171:
+      Name: texture/character/01_heroine/heroine_alter_all.asset
+      Dependencies: {}
+    Info_172:
+      Name: texture/character/01_heroine/heroine_alter_photo.asset
+      Dependencies: {}
+    Info_173:
+      Name: texture/character/01_heroine/heroine_alter_photo_akubi.asset
+      Dependencies: {}
+    Info_174:
+      Name: texture/character/01_heroine/heroine_alter_photo_bikkuri.asset
+      Dependencies: {}
+    Info_175:
+      Name: texture/character/01_heroine/heroine_alter_photo_bisho.asset
+      Dependencies: {}
+    Info_176:
+      Name: texture/character/01_heroine/heroine_alter_photo_gimon.asset
+      Dependencies: {}
+    Info_177:
+      Name: texture/character/01_heroine/heroine_alter_photo_haji.asset
+      Dependencies: {}
+    Info_178:
+      Name: texture/character/01_heroine/heroine_alter_photo_hohoemi.asset
+      Dependencies: {}
+    Info_179:
+      Name: texture/character/01_heroine/heroine_alter_photo_ikari.asset
+      Dependencies: {}
+    Info_180:
+      Name: texture/character/01_heroine/heroine_alter_photo_kanashimi.asset
+      Dependencies: {}
+    Info_181:
+      Name: texture/character/01_heroine/heroine_alter_photo_kyoton.asset
+      Dependencies: {}
+    Info_182:
+      Name: texture/character/01_heroine/heroine_alter_photo_utagai.asset
+      Dependencies: {}
+    Info_183:
+      Name: texture/character/01_heroine/heroine_alter_photo_warai.asset
+      Dependencies: {}
+    Info_184:
+      Name: texture/character/01_heroine/heroine_photo.asset
+      Dependencies: {}
+    Info_185:
+      Name: texture/character/01_heroine/heroine_photo_akirame.asset
+      Dependencies: {}
+    Info_186:
+      Name: texture/character/01_heroine/heroine_photo_akubi.asset
+      Dependencies: {}
+    Info_187:
+      Name: texture/character/01_heroine/heroine_photo_bisho.asset
+      Dependencies: {}
+    Info_188:
+      Name: texture/character/01_heroine/heroine_photo_bouga.asset
+      Dependencies: {}
+    Info_189:
+      Name: texture/character/01_heroine/heroine_photo_dere.asset
+      Dependencies: {}
+    Info_190:
+      Name: texture/character/01_heroine/heroine_photo_egao.asset
+      Dependencies: {}
+    Info_191:
+      Name: texture/character/01_heroine/heroine_photo_fuee.asset
+      Dependencies: {}
+    Info_192:
+      Name: texture/character/01_heroine/heroine_photo_fumei.asset
+      Dependencies: {}
+    Info_193:
+      Name: texture/character/01_heroine/heroine_photo_genki.asset
+      Dependencies: {}
+    Info_194:
+      Name: texture/character/01_heroine/heroine_photo_gimon.asset
+      Dependencies: {}
+    Info_195:
+      Name: texture/character/01_heroine/heroine_photo_goukyu.asset
+      Dependencies: {}
+    Info_196:
+      Name: texture/character/01_heroine/heroine_photo_hakike.asset
+      Dependencies: {}
+    Info_197:
+      Name: texture/character/01_heroine/heroine_photo_hanikami.asset
+      Dependencies: {}
+    Info_198:
+      Name: texture/character/01_heroine/heroine_photo_hazirai.asset
+      Dependencies: {}
+    Info_199:
+      Name: texture/character/01_heroine/heroine_photo_ikari.asset
+      Dependencies: {}
+    Info_200:
+      Name: texture/character/01_heroine/heroine_photo_kanashimi.asset
+      Dependencies: {}
+    Info_201:
+      Name: texture/character/01_heroine/heroine_photo_ketui.asset
+      Dependencies: {}
+    Info_202:
+      Name: texture/character/01_heroine/heroine_photo_kuyashinaki.asset
+      Dependencies: {}
+    Info_203:
+      Name: texture/character/01_heroine/heroine_photo_kuyasii.asset
+      Dependencies: {}
+    Info_204:
+      Name: texture/character/01_heroine/heroine_photo_kyoton.asset
+      Dependencies: {}
+    Info_205:
+      Name: texture/character/01_heroine/heroine_photo_mu.asset
+      Dependencies: {}
+    Info_206:
+      Name: texture/character/01_heroine/heroine_photo_naki.asset
+      Dependencies: {}
+    Info_207:
+      Name: texture/character/01_heroine/heroine_photo_namidame.asset
+      Dependencies: {}
+    Info_208:
+      Name: texture/character/01_heroine/heroine_photo_odoroki.asset
+      Dependencies: {}
+    Info_209:
+      Name: texture/character/01_heroine/heroine_photo_tsunnaki.asset
+      Dependencies: {}
+    Info_210:
+      Name: texture/character/01_heroine/heroine_photo_tun.asset
+      Dependencies: {}
+    Info_211:
+      Name: texture/character/01_heroine/heroine_photo_utagai.asset
+      Dependencies: {}
+    Info_212:
+      Name: texture/character/01_heroine/heroine_photo_warai.asset
+      Dependencies: {}
+    Info_213:
+      Name: texture/character/01_heroine/heroine_rich_350.asset
+      Dependencies: {}
+    Info_214:
+      Name: texture/character/01_heroine/heroine_rich_350_akirame.asset
+      Dependencies: {}
+    Info_215:
+      Name: texture/character/01_heroine/heroine_rich_350_bisho.asset
+      Dependencies: {}
+    Info_216:
+      Name: texture/character/01_heroine/heroine_rich_350_dere.asset
+      Dependencies: {}
+    Info_217:
+      Name: texture/character/01_heroine/heroine_rich_350_egao.asset
+      Dependencies: {}
+    Info_218:
+      Name: texture/character/01_heroine/heroine_rich_350_fuee.asset
+      Dependencies: {}
+    Info_219:
+      Name: texture/character/01_heroine/heroine_rich_350_fumei.asset
+      Dependencies: {}
+    Info_220:
+      Name: texture/character/01_heroine/heroine_rich_350_gimon.asset
+      Dependencies: {}
+    Info_221:
+      Name: texture/character/01_heroine/heroine_rich_350_goukyu.asset
+      Dependencies: {}
+    Info_222:
+      Name: texture/character/01_heroine/heroine_rich_350_hakike.asset
+      Dependencies: {}
+    Info_223:
+      Name: texture/character/01_heroine/heroine_rich_350_hanikami.asset
+      Dependencies: {}
+    Info_224:
+      Name: texture/character/01_heroine/heroine_rich_350_hazirai.asset
+      Dependencies: {}
+    Info_225:
+      Name: texture/character/01_heroine/heroine_rich_350_kanashimi.asset
+      Dependencies: {}
+    Info_226:
+      Name: texture/character/01_heroine/heroine_rich_350_kyoton.asset
+      Dependencies: {}
+    Info_227:
+      Name: texture/character/01_heroine/heroine_rich_350_mu.asset
+      Dependencies: {}
+    Info_228:
+      Name: texture/character/01_heroine/heroine_rich_350_naki.asset
+      Dependencies: {}
+    Info_229:
+      Name: texture/character/01_heroine/heroine_rich_350_namidame.asset
+      Dependencies: {}
+    Info_230:
+      Name: texture/character/01_heroine/heroine_rich_350_odoroki.asset
+      Dependencies: {}
+    Info_231:
+      Name: texture/character/01_heroine/heroine_rich_350_tsunnaki.asset
+      Dependencies: {}
+    Info_232:
+      Name: texture/character/01_heroine/heroine_rich_350_tun.asset
+      Dependencies: {}
+    Info_233:
+      Name: texture/character/01_heroine/heroine_rich_350_warai.asset
+      Dependencies: {}
+    Info_234:
+      Name: texture/character/01_heroine/heroine_rich_photo.asset
+      Dependencies: {}
+    Info_235:
+      Name: texture/character/01_heroine/heroine_rich_photo_akirame.asset
+      Dependencies: {}
+    Info_236:
+      Name: texture/character/01_heroine/heroine_rich_photo_bisho.asset
+      Dependencies: {}
+    Info_237:
+      Name: texture/character/01_heroine/heroine_rich_photo_dere.asset
+      Dependencies: {}
+    Info_238:
+      Name: texture/character/01_heroine/heroine_rich_photo_egao.asset
+      Dependencies: {}
+    Info_239:
+      Name: texture/character/01_heroine/heroine_rich_photo_fuee.asset
+      Dependencies: {}
+    Info_240:
+      Name: texture/character/01_heroine/heroine_rich_photo_fumei.asset
+      Dependencies: {}
+    Info_241:
+      Name: texture/character/01_heroine/heroine_rich_photo_gimon.asset
+      Dependencies: {}
+    Info_242:
+      Name: texture/character/01_heroine/heroine_rich_photo_goukyu.asset
+      Dependencies: {}
+    Info_243:
+      Name: texture/character/01_heroine/heroine_rich_photo_hakike.asset
+      Dependencies: {}
+    Info_244:
+      Name: texture/character/01_heroine/heroine_rich_photo_hanikami.asset
+      Dependencies: {}
+    Info_245:
+      Name: texture/character/01_heroine/heroine_rich_photo_hazirai.asset
+      Dependencies: {}
+    Info_246:
+      Name: texture/character/01_heroine/heroine_rich_photo_kanashimi.asset
+      Dependencies: {}
+    Info_247:
+      Name: texture/character/01_heroine/heroine_rich_photo_kyoton.asset
+      Dependencies: {}
+    Info_248:
+      Name: texture/character/01_heroine/heroine_rich_photo_mu.asset
+      Dependencies: {}
+    Info_249:
+      Name: texture/character/01_heroine/heroine_rich_photo_naki.asset
+      Dependencies: {}
+    Info_250:
+      Name: texture/character/01_heroine/heroine_rich_photo_namidame.asset
+      Dependencies: {}
+    Info_251:
+      Name: texture/character/01_heroine/heroine_rich_photo_odoroki.asset
+      Dependencies: {}
+    Info_252:
+      Name: texture/character/01_heroine/heroine_rich_photo_tsunnaki.asset
+      Dependencies: {}
+    Info_253:
+      Name: texture/character/01_heroine/heroine_rich_photo_tun.asset
+      Dependencies: {}
+    Info_254:
+      Name: texture/character/01_heroine/heroine_rich_photo_warai.asset
+      Dependencies: {}
+    Info_255:
+      Name: texture/character/01_heroine/heroine_sekiwan_350.asset
+      Dependencies: {}
+    Info_256:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_akirame.asset
+      Dependencies: {}
+    Info_257:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_akubi.asset
+      Dependencies: {}
+    Info_258:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_bisho.asset
+      Dependencies: {}
+    Info_259:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_bouga.asset
+      Dependencies: {}
+    Info_260:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_dere.asset
+      Dependencies: {}
+    Info_261:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_egao.asset
+      Dependencies: {}
+    Info_262:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_fuee.asset
+      Dependencies: {}
+    Info_263:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_fumei.asset
+      Dependencies: {}
+    Info_264:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_gimon.asset
+      Dependencies: {}
+    Info_265:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_goukyu.asset
+      Dependencies: {}
+    Info_266:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_hakike.asset
+      Dependencies: {}
+    Info_267:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_hanikami.asset
+      Dependencies: {}
+    Info_268:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_hazirai.asset
+      Dependencies: {}
+    Info_269:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_ikari.asset
+      Dependencies: {}
+    Info_270:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_kanashimi.asset
+      Dependencies: {}
+    Info_271:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_kurushisou.asset
+      Dependencies: {}
+    Info_272:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_kuyashii.asset
+      Dependencies: {}
+    Info_273:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_kuyashinaki.asset
+      Dependencies: {}
+    Info_274:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_kyoton.asset
+      Dependencies: {}
+    Info_275:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_mu.asset
+      Dependencies: {}
+    Info_276:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_naki.asset
+      Dependencies: {}
+    Info_277:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_namidame.asset
+      Dependencies: {}
+    Info_278:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_odoroki.asset
+      Dependencies: {}
+    Info_279:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_tun.asset
+      Dependencies: {}
+    Info_280:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_tunnaki.asset
+      Dependencies: {}
+    Info_281:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_utagai.asset
+      Dependencies: {}
+    Info_282:
+      Name: texture/character/01_heroine/heroine_sekiwan_350_warai.asset
+      Dependencies: {}
+    Info_283:
+      Name: texture/character/01_heroine/syoujo_all.asset
+      Dependencies: {}
+    Info_284:
+      Name: texture/character/02_pacifico/pacifico_350.asset
+      Dependencies: {}
+    Info_285:
+      Name: texture/character/02_pacifico/pacifico_350_hohoemu.asset
+      Dependencies: {}
+    Info_286:
+      Name: texture/character/02_pacifico/pacifico_350_ikari.asset
+      Dependencies: {}
+    Info_287:
+      Name: texture/character/02_pacifico/pacifico_350_konwaku.asset
+      Dependencies: {}
+    Info_288:
+      Name: texture/character/02_pacifico/pacifico_460.asset
+      Dependencies: {}
+    Info_289:
+      Name: texture/character/02_pacifico/pacifico_460_bouga.asset
+      Dependencies: {}
+    Info_290:
+      Name: texture/character/02_pacifico/pacifico_460_hohoemu.asset
+      Dependencies: {}
+    Info_291:
+      Name: texture/character/02_pacifico/pacifico_460_ikari.asset
+      Dependencies: {}
+    Info_292:
+      Name: texture/character/02_pacifico/pacifico_460_konwaku.asset
+      Dependencies: {}
+    Info_293:
+      Name: texture/character/02_pacifico/pacifico_all.asset
+      Dependencies: {}
+    Info_294:
+      Name: texture/character/02_pacifico/pacifico_photo.asset
+      Dependencies: {}
+    Info_295:
+      Name: texture/character/02_pacifico/pacifico_photo_bouga.asset
+      Dependencies: {}
+    Info_296:
+      Name: texture/character/02_pacifico/pacifico_photo_hohoemu.asset
+      Dependencies: {}
+    Info_297:
+      Name: texture/character/02_pacifico/pacifico_photo_ikari.asset
+      Dependencies: {}
+    Info_298:
+      Name: texture/character/02_pacifico/pacifico_photo_konwaku.asset
+      Dependencies: {}
+    Info_299:
+      Name: texture/character/03_hayashi/hayashi_350.asset
+      Dependencies: {}
+    Info_300:
+      Name: texture/character/03_hayashi/hayashi_460.asset
+      Dependencies: {}
+    Info_301:
+      Name: texture/character/03_hayashi/hayashi_all.asset
+      Dependencies: {}
+    Info_302:
+      Name: texture/character/03_hayashi/hayashi_damege_350.asset
+      Dependencies: {}
+    Info_303:
+      Name: texture/character/03_hayashi/hayashi_photo.asset
+      Dependencies: {}
+    Info_304:
+      Name: texture/character/04_jujirou/jujirou_350.asset
+      Dependencies: {}
+    Info_305:
+      Name: texture/character/04_jujirou/jujirou_350_ando.asset
+      Dependencies: {}
+    Info_306:
+      Name: texture/character/04_jujirou/jujirou_350_aseri.asset
+      Dependencies: {}
+    Info_307:
+      Name: texture/character/04_jujirou/jujirou_350_bisho.asset
+      Dependencies: {}
+    Info_308:
+      Name: texture/character/04_jujirou/jujirou_350_bouga.asset
+      Dependencies: {}
+    Info_309:
+      Name: texture/character/04_jujirou/jujirou_350_ibukashimu.asset
+      Dependencies: {}
+    Info_310:
+      Name: texture/character/04_jujirou/jujirou_350_ikari.asset
+      Dependencies: {}
+    Info_311:
+      Name: texture/character/04_jujirou/jujirou_350_keikoku.asset
+      Dependencies: {}
+    Info_312:
+      Name: texture/character/04_jujirou/jujirou_350_kibou.asset
+      Dependencies: {}
+    Info_313:
+      Name: texture/character/04_jujirou/jujirou_350_metoji.asset
+      Dependencies: {}
+    Info_314:
+      Name: texture/character/04_jujirou/jujirou_350_odoroki.asset
+      Dependencies: {}
+    Info_315:
+      Name: texture/character/04_jujirou/jujirou_350_shinpai.asset
+      Dependencies: {}
+    Info_316:
+      Name: texture/character/04_jujirou/jujirou_350_shitauchi.asset
+      Dependencies: {}
+    Info_317:
+      Name: texture/character/04_jujirou/jujirou_all.asset
+      Dependencies: {}
+    Info_318:
+      Name: texture/character/04_jujirou/jujirou_chase_350.asset
+      Dependencies: {}
+    Info_319:
+      Name: texture/character/04_jujirou/jujirou_chase_350_keikai.asset
+      Dependencies: {}
+    Info_320:
+      Name: texture/character/04_jujirou/jujirou_chase_photo.asset
+      Dependencies: {}
+    Info_321:
+      Name: texture/character/04_jujirou/jujirou_chase_photo_keikai.asset
+      Dependencies: {}
+    Info_322:
+      Name: texture/character/04_jujirou/jujirou_chse_all.asset
+      Dependencies: {}
+    Info_323:
+      Name: texture/character/04_jujirou/jujirou_kill.asset
+      Dependencies: {}
+    Info_324:
+      Name: texture/character/04_jujirou/jujirou_kill_350.asset
+      Dependencies: {}
+    Info_325:
+      Name: texture/character/04_jujirou/jujirou_kill_photo.asset
+      Dependencies: {}
+    Info_326:
+      Name: texture/character/04_jujirou/jujirou_photo.asset
+      Dependencies: {}
+    Info_327:
+      Name: texture/character/04_jujirou/jujirou_photo_ando.asset
+      Dependencies: {}
+    Info_328:
+      Name: texture/character/04_jujirou/jujirou_photo_aseri.asset
+      Dependencies: {}
+    Info_329:
+      Name: texture/character/04_jujirou/jujirou_photo_bisho.asset
+      Dependencies: {}
+    Info_330:
+      Name: texture/character/04_jujirou/jujirou_photo_bouga.asset
+      Dependencies: {}
+    Info_331:
+      Name: texture/character/04_jujirou/jujirou_photo_ibukashimu.asset
+      Dependencies: {}
+    Info_332:
+      Name: texture/character/04_jujirou/jujirou_photo_ikari.asset
+      Dependencies: {}
+    Info_333:
+      Name: texture/character/04_jujirou/jujirou_photo_keikoku.asset
+      Dependencies: {}
+    Info_334:
+      Name: texture/character/04_jujirou/jujirou_photo_kibou.asset
+      Dependencies: {}
+    Info_335:
+      Name: texture/character/04_jujirou/jujirou_photo_metoji.asset
+      Dependencies: {}
+    Info_336:
+      Name: texture/character/04_jujirou/jujirou_photo_odoroki.asset
+      Dependencies: {}
+    Info_337:
+      Name: texture/character/04_jujirou/jujirou_photo_shinpai.asset
+      Dependencies: {}
+    Info_338:
+      Name: texture/character/04_jujirou/jujirou_photo_shitauchi.asset
+      Dependencies: {}
+    Info_339:
+      Name: texture/character/10_yoshiko/yoshiko_350.asset
+      Dependencies: {}
+    Info_340:
+      Name: texture/character/10_yoshiko/yoshiko_350_awaremi.asset
+      Dependencies: {}
+    Info_341:
+      Name: texture/character/10_yoshiko/yoshiko_350_kanashimi.asset
+      Dependencies: {}
+    Info_342:
+      Name: texture/character/10_yoshiko/yoshiko_350_okoru.asset
+      Dependencies: {}
+    Info_343:
+      Name: texture/character/10_yoshiko/yoshiko_350_silhouette.asset
+      Dependencies: {}
+    Info_344:
+      Name: texture/character/10_yoshiko/yoshiko_350_warainaki.asset
+      Dependencies: {}
+    Info_345:
+      Name: texture/character/10_yoshiko/yoshiko_350_warau.asset
+      Dependencies: {}
+    Info_346:
+      Name: texture/character/10_yoshiko/yoshiko_460.asset
+      Dependencies: {}
+    Info_347:
+      Name: texture/character/10_yoshiko/yoshiko_460_awaremi.asset
+      Dependencies: {}
+    Info_348:
+      Name: texture/character/10_yoshiko/yoshiko_460_bouga.asset
+      Dependencies: {}
+    Info_349:
+      Name: texture/character/10_yoshiko/yoshiko_460_kanashimi.asset
+      Dependencies: {}
+    Info_350:
+      Name: texture/character/10_yoshiko/yoshiko_460_okoru.asset
+      Dependencies: {}
+    Info_351:
+      Name: texture/character/10_yoshiko/yoshiko_460_warau.asset
+      Dependencies: {}
+    Info_352:
+      Name: texture/character/10_yoshiko/yoshiko_photo.asset
+      Dependencies: {}
+    Info_353:
+      Name: texture/character/10_yoshiko/yoshiko_photo_awaremi.asset
+      Dependencies: {}
+    Info_354:
+      Name: texture/character/10_yoshiko/yoshiko_photo_bouga.asset
+      Dependencies: {}
+    Info_355:
+      Name: texture/character/10_yoshiko/yoshiko_photo_kanashimi.asset
+      Dependencies: {}
+    Info_356:
+      Name: texture/character/10_yoshiko/yoshiko_photo_okoru.asset
+      Dependencies: {}
+    Info_357:
+      Name: texture/character/10_yoshiko/yoshiko_photo_silhouette.asset
+      Dependencies: {}
+    Info_358:
+      Name: texture/character/10_yoshiko/yoshiko_photo_warainaki.asset
+      Dependencies: {}
+    Info_359:
+      Name: texture/character/10_yoshiko/yoshiko_photo_warau.asset
+      Dependencies: {}
+    Info_360:
+      Name: texture/character/10_yoshiko/yosiko_all.asset
+      Dependencies: {}
+    Info_361:
+      Name: texture/character/11_tarou/taro_all.asset
+      Dependencies: {}
+    Info_362:
+      Name: texture/character/11_tarou/tarou_350.asset
+      Dependencies: {}
+    Info_363:
+      Name: texture/character/11_tarou/tarou_350_okorigimi.asset
+      Dependencies: {}
+    Info_364:
+      Name: texture/character/11_tarou/tarou_350_warai.asset
+      Dependencies: {}
+    Info_365:
+      Name: texture/character/11_tarou/tarou_460.asset
+      Dependencies: {}
+    Info_366:
+      Name: texture/character/11_tarou/tarou_byte_350.asset
+      Dependencies: {}
+    Info_367:
+      Name: texture/character/11_tarou/tarou_byte_350_okorigimi.asset
+      Dependencies: {}
+    Info_368:
+      Name: texture/character/11_tarou/tarou_byte_350_warai.asset
+      Dependencies: {}
+    Info_369:
+      Name: texture/character/11_tarou/tarou_byte_photo.asset
+      Dependencies: {}
+    Info_370:
+      Name: texture/character/11_tarou/tarou_byte_photo_okorigimi.asset
+      Dependencies: {}
+    Info_371:
+      Name: texture/character/11_tarou/tarou_byte_photo_warai.asset
+      Dependencies: {}
+    Info_372:
+      Name: texture/character/11_tarou/tarou_hs_350.asset
+      Dependencies: {}
+    Info_373:
+      Name: texture/character/11_tarou/tarou_hs_350_okorigimi.asset
+      Dependencies: {}
+    Info_374:
+      Name: texture/character/11_tarou/tarou_hs_350_warai.asset
+      Dependencies: {}
+    Info_375:
+      Name: texture/character/11_tarou/tarou_hs_photo.asset
+      Dependencies: {}
+    Info_376:
+      Name: texture/character/11_tarou/tarou_hs_photo_okorigimi.asset
+      Dependencies: {}
+    Info_377:
+      Name: texture/character/11_tarou/tarou_hs_photo_warai.asset
+      Dependencies: {}
+    Info_378:
+      Name: texture/character/11_tarou/tarou_photo.asset
+      Dependencies: {}
+    Info_379:
+      Name: texture/character/11_tarou/tarou_photo_okorigimi.asset
+      Dependencies: {}
+    Info_380:
+      Name: texture/character/11_tarou/tarou_photo_warai.asset
+      Dependencies: {}
+    Info_381:
+      Name: texture/character/12_hanako/hanako_350.asset
+      Dependencies: {}
+    Info_382:
+      Name: texture/character/12_hanako/hanako_350_egao.asset
+      Dependencies: {}
+    Info_383:
+      Name: texture/character/12_hanako/hanako_350_hukure.asset
+      Dependencies: {}
+    Info_384:
+      Name: texture/character/12_hanako/hanako_350_sekimen.asset
+      Dependencies: {}
+    Info_385:
+      Name: texture/character/12_hanako/hanako_350_syonbori.asset
+      Dependencies: {}
+    Info_386:
+      Name: texture/character/12_hanako/hanako_350_yakedo.asset
+      Dependencies: {}
+    Info_387:
+      Name: texture/character/12_hanako/hanako_350_yakedokakushi.asset
+      Dependencies: {}
+    Info_388:
+      Name: texture/character/12_hanako/hanako_350_yakedokakushi_egao.asset
+      Dependencies: {}
+    Info_389:
+      Name: texture/character/12_hanako/hanako_350_yakedokakushi_kawaitaemi.asset
+      Dependencies: {}
+    Info_390:
+      Name: texture/character/12_hanako/hanako_350_yakedokakushi_konwaku.asset
+      Dependencies: {}
+    Info_391:
+      Name: texture/character/12_hanako/hanako_350_yakedokakushi_naki.asset
+      Dependencies: {}
+    Info_392:
+      Name: texture/character/12_hanako/hanako_all.asset
+      Dependencies: {}
+    Info_393:
+      Name: texture/character/12_hanako/hanako_before_350.asset
+      Dependencies: {}
+    Info_394:
+      Name: texture/character/12_hanako/hanako_before_460.asset
+      Dependencies: {}
+    Info_395:
+      Name: texture/character/12_hanako/hanako_before_photo.asset
+      Dependencies: {}
+    Info_396:
+      Name: texture/character/12_hanako/hanako_hs_350.asset
+      Dependencies: {}
+    Info_397:
+      Name: texture/character/12_hanako/hanako_hs_350_ando.asset
+      Dependencies: {}
+    Info_398:
+      Name: texture/character/12_hanako/hanako_hs_350_aseri.asset
+      Dependencies: {}
+    Info_399:
+      Name: texture/character/12_hanako/hanako_hs_350_egao.asset
+      Dependencies: {}
+    Info_400:
+      Name: texture/character/12_hanako/hanako_hs_350_hukure.asset
+      Dependencies: {}
+    Info_401:
+      Name: texture/character/12_hanako/hanako_hs_350_sekimen.asset
+      Dependencies: {}
+    Info_402:
+      Name: texture/character/12_hanako/hanako_hs_350_syonbori.asset
+      Dependencies: {}
+    Info_403:
+      Name: texture/character/12_hanako/hanako_hs_photo.asset
+      Dependencies: {}
+    Info_404:
+      Name: texture/character/12_hanako/hanako_hs_photo_ando.asset
+      Dependencies: {}
+    Info_405:
+      Name: texture/character/12_hanako/hanako_hs_photo_aseri.asset
+      Dependencies: {}
+    Info_406:
+      Name: texture/character/12_hanako/hanako_hs_photo_egao.asset
+      Dependencies: {}
+    Info_407:
+      Name: texture/character/12_hanako/hanako_hs_photo_hukure.asset
+      Dependencies: {}
+    Info_408:
+      Name: texture/character/12_hanako/hanako_hs_photo_sekimen.asset
+      Dependencies: {}
+    Info_409:
+      Name: texture/character/12_hanako/hanako_hs_photo_syonbori.asset
+      Dependencies: {}
+    Info_410:
+      Name: texture/character/12_hanako/hanako_photo.asset
+      Dependencies: {}
+    Info_411:
+      Name: texture/character/12_hanako/hanako_photo_egao.asset
+      Dependencies: {}
+    Info_412:
+      Name: texture/character/12_hanako/hanako_photo_hukure.asset
+      Dependencies: {}
+    Info_413:
+      Name: texture/character/12_hanako/hanako_photo_sekimen.asset
+      Dependencies: {}
+    Info_414:
+      Name: texture/character/12_hanako/hanako_photo_syonbori.asset
+      Dependencies: {}
+    Info_415:
+      Name: texture/character/12_hanako/hanako_photo_yakedo.asset
+      Dependencies: {}
+    Info_416:
+      Name: texture/character/12_hanako/hanako_photo_yakedokakushi.asset
+      Dependencies: {}
+    Info_417:
+      Name: texture/character/12_hanako/hanako_photo_yakedokakushi_egao.asset
+      Dependencies: {}
+    Info_418:
+      Name: texture/character/12_hanako/hanako_photo_yakedokakushi_kawaitaemi.asset
+      Dependencies: {}
+    Info_419:
+      Name: texture/character/12_hanako/hanako_photo_yakedokakushi_konwaku.asset
+      Dependencies: {}
+    Info_420:
+      Name: texture/character/12_hanako/hanako_photo_yakedokakushi_naki.asset
+      Dependencies: {}
+    Info_421:
+      Name: texture/character/20_yoshio/yoshio_350.asset
+      Dependencies: {}
+    Info_422:
+      Name: texture/character/20_yoshio/yoshio_350_azakeri.asset
+      Dependencies: {}
+    Info_423:
+      Name: texture/character/20_yoshio/yoshio_350_deisui.asset
+      Dependencies: {}
+    Info_424:
+      Name: texture/character/20_yoshio/yoshio_350_ikari.asset
+      Dependencies: {}
+    Info_425:
+      Name: texture/character/20_yoshio/yoshio_350_kanashimi.asset
+      Dependencies: {}
+    Info_426:
+      Name: texture/character/20_yoshio/yoshio_350_konwaku.asset
+      Dependencies: {}
+    Info_427:
+      Name: texture/character/20_yoshio/yoshio_350_moushiwake.asset
+      Dependencies: {}
+    Info_428:
+      Name: texture/character/20_yoshio/yoshio_350_odoroki.asset
+      Dependencies: {}
+    Info_429:
+      Name: texture/character/20_yoshio/yoshio_350_utagai.asset
+      Dependencies: {}
+    Info_430:
+      Name: texture/character/20_yoshio/yoshio_350_warai.asset
+      Dependencies: {}
+    Info_431:
+      Name: texture/character/20_yoshio/yoshio_350_youki.asset
+      Dependencies: {}
+    Info_432:
+      Name: texture/character/20_yoshio/yoshio_460.asset
+      Dependencies: {}
+    Info_433:
+      Name: texture/character/20_yoshio/yoshio_460_azakeri.asset
+      Dependencies: {}
+    Info_434:
+      Name: texture/character/20_yoshio/yoshio_460_bouga.asset
+      Dependencies: {}
+    Info_435:
+      Name: texture/character/20_yoshio/yoshio_460_deisui.asset
+      Dependencies: {}
+    Info_436:
+      Name: texture/character/20_yoshio/yoshio_460_ikari.asset
+      Dependencies: {}
+    Info_437:
+      Name: texture/character/20_yoshio/yoshio_460_kanashimi.asset
+      Dependencies: {}
+    Info_438:
+      Name: texture/character/20_yoshio/yoshio_460_konwaku.asset
+      Dependencies: {}
+    Info_439:
+      Name: texture/character/20_yoshio/yoshio_460_moushiwake.asset
+      Dependencies: {}
+    Info_440:
+      Name: texture/character/20_yoshio/yoshio_460_odoroki.asset
+      Dependencies: {}
+    Info_441:
+      Name: texture/character/20_yoshio/yoshio_460_utagai.asset
+      Dependencies: {}
+    Info_442:
+      Name: texture/character/20_yoshio/yoshio_460_warai.asset
+      Dependencies: {}
+    Info_443:
+      Name: texture/character/20_yoshio/yoshio_460_youki.asset
+      Dependencies: {}
+    Info_444:
+      Name: texture/character/20_yoshio/yoshio_photo.asset
+      Dependencies: {}
+    Info_445:
+      Name: texture/character/20_yoshio/yoshio_photo_azakeri.asset
+      Dependencies: {}
+    Info_446:
+      Name: texture/character/20_yoshio/yoshio_photo_bouga.asset
+      Dependencies: {}
+    Info_447:
+      Name: texture/character/20_yoshio/yoshio_photo_deisui.asset
+      Dependencies: {}
+    Info_448:
+      Name: texture/character/20_yoshio/yoshio_photo_ikari.asset
+      Dependencies: {}
+    Info_449:
+      Name: texture/character/20_yoshio/yoshio_photo_kanashimi.asset
+      Dependencies: {}
+    Info_450:
+      Name: texture/character/20_yoshio/yoshio_photo_konwaku.asset
+      Dependencies: {}
+    Info_451:
+      Name: texture/character/20_yoshio/yoshio_photo_moushiwake.asset
+      Dependencies: {}
+    Info_452:
+      Name: texture/character/20_yoshio/yoshio_photo_odoroki.asset
+      Dependencies: {}
+    Info_453:
+      Name: texture/character/20_yoshio/yoshio_photo_utagai.asset
+      Dependencies: {}
+    Info_454:
+      Name: texture/character/20_yoshio/yoshio_photo_warai.asset
+      Dependencies: {}
+    Info_455:
+      Name: texture/character/20_yoshio/yoshio_photo_youki.asset
+      Dependencies: {}
+    Info_456:
+      Name: texture/character/20_yoshio/yosio_all.asset
+      Dependencies: {}
+    Info_457:
+      Name: texture/character/21_jirou/jirou_350.asset
+      Dependencies: {}
+    Info_458:
+      Name: texture/character/21_jirou/jirou_350_akire.asset
+      Dependencies: {}
+    Info_459:
+      Name: texture/character/21_jirou/jirou_350_awateru.asset
+      Dependencies: {}
+    Info_460:
+      Name: texture/character/21_jirou/jirou_350_joudan.asset
+      Dependencies: {}
+    Info_461:
+      Name: texture/character/21_jirou/jirou_350_kanashimi.asset
+      Dependencies: {}
+    Info_462:
+      Name: texture/character/21_jirou/jirou_350_konwaku.asset
+      Dependencies: {}
+    Info_463:
+      Name: texture/character/21_jirou/jirou_350_kurushisou.asset
+      Dependencies: {}
+    Info_464:
+      Name: texture/character/21_jirou/jirou_350_odoroki.asset
+      Dependencies: {}
+    Info_465:
+      Name: texture/character/21_jirou/jirou_350_tanoshisou.asset
+      Dependencies: {}
+    Info_466:
+      Name: texture/character/21_jirou/jirou_350_warai.asset
+      Dependencies: {}
+    Info_467:
+      Name: texture/character/21_jirou/jirou_all.asset
+      Dependencies: {}
+    Info_468:
+      Name: texture/character/21_jirou/jirou_photo.asset
+      Dependencies: {}
+    Info_469:
+      Name: texture/character/21_jirou/jirou_photo_akire.asset
+      Dependencies: {}
+    Info_470:
+      Name: texture/character/21_jirou/jirou_photo_awateru.asset
+      Dependencies: {}
+    Info_471:
+      Name: texture/character/21_jirou/jirou_photo_joudan.asset
+      Dependencies: {}
+    Info_472:
+      Name: texture/character/21_jirou/jirou_photo_kanashimi.asset
+      Dependencies: {}
+    Info_473:
+      Name: texture/character/21_jirou/jirou_photo_konwaku.asset
+      Dependencies: {}
+    Info_474:
+      Name: texture/character/21_jirou/jirou_photo_kurushisou.asset
+      Dependencies: {}
+    Info_475:
+      Name: texture/character/21_jirou/jirou_photo_odoroki.asset
+      Dependencies: {}
+    Info_476:
+      Name: texture/character/21_jirou/jirou_photo_tanoshisou.asset
+      Dependencies: {}
+    Info_477:
+      Name: texture/character/21_jirou/jirou_photo_warai.asset
+      Dependencies: {}
+    Info_478:
+      Name: texture/character/21_jirou/jirou_suit_350.asset
+      Dependencies: {}
+    Info_479:
+      Name: texture/character/21_jirou/jirou_suit_350_akire.asset
+      Dependencies: {}
+    Info_480:
+      Name: texture/character/21_jirou/jirou_suit_350_awateru.asset
+      Dependencies: {}
+    Info_481:
+      Name: texture/character/21_jirou/jirou_suit_350_kanashimi.asset
+      Dependencies: {}
+    Info_482:
+      Name: texture/character/21_jirou/jirou_suit_350_konwaku.asset
+      Dependencies: {}
+    Info_483:
+      Name: texture/character/21_jirou/jirou_suit_350_kurushisou.asset
+      Dependencies: {}
+    Info_484:
+      Name: texture/character/21_jirou/jirou_suit_350_odoroki.asset
+      Dependencies: {}
+    Info_485:
+      Name: texture/character/21_jirou/jirou_suit_350_tanoshisou.asset
+      Dependencies: {}
+    Info_486:
+      Name: texture/character/21_jirou/jirou_suit_350_warai.asset
+      Dependencies: {}
+    Info_487:
+      Name: texture/character/21_jirou/jirou_suit_photo.asset
+      Dependencies: {}
+    Info_488:
+      Name: texture/character/21_jirou/jirou_suit_photo_akire.asset
+      Dependencies: {}
+    Info_489:
+      Name: texture/character/21_jirou/jirou_suit_photo_awateru.asset
+      Dependencies: {}
+    Info_490:
+      Name: texture/character/21_jirou/jirou_suit_photo_kanashimi.asset
+      Dependencies: {}
+    Info_491:
+      Name: texture/character/21_jirou/jirou_suit_photo_konwaku.asset
+      Dependencies: {}
+    Info_492:
+      Name: texture/character/21_jirou/jirou_suit_photo_kurushisou.asset
+      Dependencies: {}
+    Info_493:
+      Name: texture/character/21_jirou/jirou_suit_photo_odoroki.asset
+      Dependencies: {}
+    Info_494:
+      Name: texture/character/21_jirou/jirou_suit_photo_tanoshisou.asset
+      Dependencies: {}
+    Info_495:
+      Name: texture/character/21_jirou/jirou_suit_photo_warai.asset
+      Dependencies: {}
+    Info_496:
+      Name: texture/character/22_mimamima/mimamima_350.asset
+      Dependencies: {}
+    Info_497:
+      Name: texture/character/22_mimamima/mimamima_350_egao.asset
+      Dependencies: {}
+    Info_498:
+      Name: texture/character/22_mimamima/mimamima_350_konwaku.asset
+      Dependencies: {}
+    Info_499:
+      Name: texture/character/22_mimamima/mimamima_350_magao.asset
+      Dependencies: {}
+    Info_500:
+      Name: texture/character/22_mimamima/mimamima_all.asset
+      Dependencies: {}
+    Info_501:
+      Name: texture/character/22_mimamima/mimamima_left_350.asset
+      Dependencies: {}
+    Info_502:
+      Name: texture/character/22_mimamima/mimamima_left_350_egao.asset
+      Dependencies: {}
+    Info_503:
+      Name: texture/character/22_mimamima/mimamima_left_350_konwaku.asset
+      Dependencies: {}
+    Info_504:
+      Name: texture/character/22_mimamima/mimamima_left_350_magao.asset
+      Dependencies: {}
+    Info_505:
+      Name: texture/character/22_mimamima/mimamima_left_photo.asset
+      Dependencies: {}
+    Info_506:
+      Name: texture/character/22_mimamima/mimamima_left_photo_egao.asset
+      Dependencies: {}
+    Info_507:
+      Name: texture/character/22_mimamima/mimamima_left_photo_konwaku.asset
+      Dependencies: {}
+    Info_508:
+      Name: texture/character/22_mimamima/mimamima_left_photo_magao.asset
+      Dependencies: {}
+    Info_509:
+      Name: texture/character/22_mimamima/mimamima_photo.asset
+      Dependencies: {}
+    Info_510:
+      Name: texture/character/22_mimamima/mimamima_photo_egao.asset
+      Dependencies: {}
+    Info_511:
+      Name: texture/character/22_mimamima/mimamima_photo_konwaku.asset
+      Dependencies: {}
+    Info_512:
+      Name: texture/character/22_mimamima/mimamima_photo_magao.asset
+      Dependencies: {}
+    Info_513:
+      Name: texture/character/23_mensetsu1/mensetsu1_350.asset
+      Dependencies: {}
+    Info_514:
+      Name: texture/character/23_mensetsu1/mensetsu1_all.asset
+      Dependencies: {}
+    Info_515:
+      Name: texture/character/23_mensetsu1/mensetsu1_photo.asset
+      Dependencies: {}
+    Info_516:
+      Name: texture/character/24_mensetsu2/mensetsu2_all.asset
+      Dependencies: {}
+    Info_517:
+      Name: texture/character/24_mensetsu2/mensetsu2_photo.asset
+      Dependencies: {}
+    Info_518:
+      Name: texture/character/24_mensetsu2/mensetsu_350.asset
+      Dependencies: {}
+    Info_519:
+      Name: texture/character/40_yoshimune/yoshimune_350.asset
+      Dependencies: {}
+    Info_520:
+      Name: texture/character/40_yoshimune/yoshimune_460.asset
+      Dependencies: {}
+    Info_521:
+      Name: texture/character/40_yoshimune/yoshimune_all.asset
+      Dependencies: {}
+    Info_522:
+      Name: texture/character/40_yoshimune/yoshimune_photo.asset
+      Dependencies: {}
+    Info_523:
+      Name: texture/character/60_yoshihiko/yoshihiko_350.asset
+      Dependencies: {}
+    Info_524:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_akire.asset
+      Dependencies: {}
+    Info_525:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_aseri.asset
+      Dependencies: {}
+    Info_526:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_bouga.asset
+      Dependencies: {}
+    Info_527:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_doya.asset
+      Dependencies: {}
+    Info_528:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_ibukashimu.asset
+      Dependencies: {}
+    Info_529:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_ikari.asset
+      Dependencies: {}
+    Info_530:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_kanashimi.asset
+      Dependencies: {}
+    Info_531:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_konwaku.asset
+      Dependencies: {}
+    Info_532:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_kuyashii.asset
+      Dependencies: {}
+    Info_533:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_mu.asset
+      Dependencies: {}
+    Info_534:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_ni.asset
+      Dependencies: {}
+    Info_535:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_odoroki.asset
+      Dependencies: {}
+    Info_536:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_okorigimi.asset
+      Dependencies: {}
+    Info_537:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_shinpaige.asset
+      Dependencies: {}
+    Info_538:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_sinpaige.asset
+      Dependencies: {}
+    Info_539:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_warai.asset
+      Dependencies: {}
+    Info_540:
+      Name: texture/character/60_yoshihiko/yoshihiko_350_zetsubou.asset
+      Dependencies: {}
+    Info_541:
+      Name: texture/character/60_yoshihiko/yoshihiko_460.asset
+      Dependencies: {}
+    Info_542:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_akire.asset
+      Dependencies: {}
+    Info_543:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_aseri.asset
+      Dependencies: {}
+    Info_544:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_bouga.asset
+      Dependencies: {}
+    Info_545:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_doya.asset
+      Dependencies: {}
+    Info_546:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_ibukashimu.asset
+      Dependencies: {}
+    Info_547:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_ikari.asset
+      Dependencies: {}
+    Info_548:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_kanashimi.asset
+      Dependencies: {}
+    Info_549:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_konwaku.asset
+      Dependencies: {}
+    Info_550:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_kuyashii.asset
+      Dependencies: {}
+    Info_551:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_mu.asset
+      Dependencies: {}
+    Info_552:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_ni.asset
+      Dependencies: {}
+    Info_553:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_odoroki.asset
+      Dependencies: {}
+    Info_554:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_okorigimi.asset
+      Dependencies: {}
+    Info_555:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_shinpaige.asset
+      Dependencies: {}
+    Info_556:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_warai.asset
+      Dependencies: {}
+    Info_557:
+      Name: texture/character/60_yoshihiko/yoshihiko_460_zetsubou.asset
+      Dependencies: {}
+    Info_558:
+      Name: texture/character/60_yoshihiko/yoshihiko_all.asset
+      Dependencies: {}
+    Info_559:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo.asset
+      Dependencies: {}
+    Info_560:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_akire.asset
+      Dependencies: {}
+    Info_561:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_aseri.asset
+      Dependencies: {}
+    Info_562:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_bouga.asset
+      Dependencies: {}
+    Info_563:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_boya.asset
+      Dependencies: {}
+    Info_564:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_ibukashimu.asset
+      Dependencies: {}
+    Info_565:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_ikari.asset
+      Dependencies: {}
+    Info_566:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_kanashimi.asset
+      Dependencies: {}
+    Info_567:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_konwaku.asset
+      Dependencies: {}
+    Info_568:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_kuyashii.asset
+      Dependencies: {}
+    Info_569:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_mu.asset
+      Dependencies: {}
+    Info_570:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_ni.asset
+      Dependencies: {}
+    Info_571:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_odoroki.asset
+      Dependencies: {}
+    Info_572:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_okorigimi.asset
+      Dependencies: {}
+    Info_573:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_shinpaige.asset
+      Dependencies: {}
+    Info_574:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_sinpaige.asset
+      Dependencies: {}
+    Info_575:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_warai.asset
+      Dependencies: {}
+    Info_576:
+      Name: texture/character/60_yoshihiko/yoshihiko_photo_zetsubou.asset
+      Dependencies: {}
+    Info_577:
+      Name: texture/character/60_yoshihiko/yoshihiko_warai.asset
+      Dependencies: {}
+    Info_578:
+      Name: texture/character/61_rokurou/rokurou_350.asset
+      Dependencies: {}
+    Info_579:
+      Name: texture/character/61_rokurou/rokurou_350_majime.asset
+      Dependencies: {}
+    Info_580:
+      Name: texture/character/61_rokurou/rokurou_350_warai.asset
+      Dependencies: {}
+    Info_581:
+      Name: texture/character/61_rokurou/rokurou_350_yamiaori.asset
+      Dependencies: {}
+    Info_582:
+      Name: texture/character/61_rokurou/rokurou_350_yamibisho.asset
+      Dependencies: {}
+    Info_583:
+      Name: texture/character/61_rokurou/rokurou_350_yaminirami.asset
+      Dependencies: {}
+    Info_584:
+      Name: texture/character/61_rokurou/rokurou_350_yamitoboke.asset
+      Dependencies: {}
+    Info_585:
+      Name: texture/character/61_rokurou/rokurou_350_yamiwarai.asset
+      Dependencies: {}
+    Info_586:
+      Name: texture/character/61_rokurou/rokurou_460.asset
+      Dependencies: {}
+    Info_587:
+      Name: texture/character/61_rokurou/rokurou_all.asset
+      Dependencies: {}
+    Info_588:
+      Name: texture/character/61_rokurou/rokurou_photo.asset
+      Dependencies: {}
+    Info_589:
+      Name: texture/character/61_rokurou/rokurou_photo_majime.asset
+      Dependencies: {}
+    Info_590:
+      Name: texture/character/61_rokurou/rokurou_photo_warai.asset
+      Dependencies: {}
+    Info_591:
+      Name: texture/character/61_rokurou/rokurou_photo_yamiaori.asset
+      Dependencies: {}
+    Info_592:
+      Name: texture/character/61_rokurou/rokurou_photo_yamibisho.asset
+      Dependencies: {}
+    Info_593:
+      Name: texture/character/61_rokurou/rokurou_photo_yaminirami.asset
+      Dependencies: {}
+    Info_594:
+      Name: texture/character/61_rokurou/rokurou_photo_yamitoboke.asset
+      Dependencies: {}
+    Info_595:
+      Name: texture/character/61_rokurou/rokurou_photo_yamiwarai.asset
+      Dependencies: {}
+    Info_596:
+      Name: texture/character/62_gorou/gorou_350.asset
+      Dependencies: {}
+    Info_597:
+      Name: texture/character/62_gorou/gorou_350_akire.asset
+      Dependencies: {}
+    Info_598:
+      Name: texture/character/62_gorou/gorou_350_bisho.asset
+      Dependencies: {}
+    Info_599:
+      Name: texture/character/62_gorou/gorou_350_hatena.asset
+      Dependencies: {}
+    Info_600:
+      Name: texture/character/62_gorou/gorou_350_syobon.asset
+      Dependencies: {}
+    Info_601:
+      Name: texture/character/62_gorou/gorou_350_wakuwaku.asset
+      Dependencies: {}
+    Info_602:
+      Name: texture/character/62_gorou/gorou_350_warai.asset
+      Dependencies: {}
+    Info_603:
+      Name: texture/character/62_gorou/gorou_460.asset
+      Dependencies: {}
+    Info_604:
+      Name: texture/character/62_gorou/gorou_all.asset
+      Dependencies: {}
+    Info_605:
+      Name: texture/character/62_gorou/gorou_photo.asset
+      Dependencies: {}
+    Info_606:
+      Name: texture/character/62_gorou/gorou_photo_akire.asset
+      Dependencies: {}
+    Info_607:
+      Name: texture/character/62_gorou/gorou_photo_bisho.asset
+      Dependencies: {}
+    Info_608:
+      Name: texture/character/62_gorou/gorou_photo_hatena.asset
+      Dependencies: {}
+    Info_609:
+      Name: texture/character/62_gorou/gorou_photo_syobon.asset
+      Dependencies: {}
+    Info_610:
+      Name: texture/character/62_gorou/gorou_photo_wakuwaku.asset
+      Dependencies: {}
+    Info_611:
+      Name: texture/character/62_gorou/gorou_photo_warai.asset
+      Dependencies: {}
+    Info_612:
+      Name: texture/character/71_garao/garao_350.asset
+      Dependencies: {}
+    Info_613:
+      Name: texture/character/71_garao/garao_all.asset
+      Dependencies: {}
+    Info_614:
+      Name: texture/character/71_garao/garao_photo.asset
+      Dependencies: {}
+    Info_615:
+      Name: texture/character/72_rouba/rouba_350.asset
+      Dependencies: {}
+    Info_616:
+      Name: texture/character/72_rouba/rouba_350_konwaku.asset
+      Dependencies: {}
+    Info_617:
+      Name: texture/character/72_rouba/rouba_all.asset
+      Dependencies: {}
+    Info_618:
+      Name: texture/character/72_rouba/rouba_photo.asset
+      Dependencies: {}
+    Info_619:
+      Name: texture/character/72_rouba/rouba_photo_konwaku.asset
+      Dependencies: {}
+    Info_620:
+      Name: texture/character/73_tenin/tenin_350.asset
+      Dependencies: {}
+    Info_621:
+      Name: texture/character/73_tenin/tenin_all.asset
+      Dependencies: {}
+    Info_622:
+      Name: texture/character/73_tenin/tenin_photo.asset
+      Dependencies: {}
+    Info_623:
+      Name: texture/character/80_yoshimi/yoshimi_350.asset
+      Dependencies: {}
+    Info_624:
+      Name: texture/character/80_yoshimi/yoshimi_350_bisho.asset
+      Dependencies: {}
+    Info_625:
+      Name: texture/character/80_yoshimi/yoshimi_350_bouga.asset
+      Dependencies: {}
+    Info_626:
+      Name: texture/character/80_yoshimi/yoshimi_350_hazukashige.asset
+      Dependencies: {}
+    Info_627:
+      Name: texture/character/80_yoshimi/yoshimi_350_kanashimi.asset
+      Dependencies: {}
+    Info_628:
+      Name: texture/character/80_yoshimi/yoshimi_350_keikai.asset
+      Dependencies: {}
+    Info_629:
+      Name: texture/character/80_yoshimi/yoshimi_350_keikan.asset
+      Dependencies: {}
+    Info_630:
+      Name: texture/character/80_yoshimi/yoshimi_350_konwaku.asset
+      Dependencies: {}
+    Info_631:
+      Name: texture/character/80_yoshimi/yoshimi_350_shian.asset
+      Dependencies: {}
+    Info_632:
+      Name: texture/character/80_yoshimi/yoshimi_350_warai.asset
+      Dependencies: {}
+    Info_633:
+      Name: texture/character/80_yoshimi/yoshimi_460.asset
+      Dependencies: {}
+    Info_634:
+      Name: texture/character/80_yoshimi/yoshimi_460_bisho.asset
+      Dependencies: {}
+    Info_635:
+      Name: texture/character/80_yoshimi/yoshimi_460_bouga.asset
+      Dependencies: {}
+    Info_636:
+      Name: texture/character/80_yoshimi/yoshimi_460_hazukashige.asset
+      Dependencies: {}
+    Info_637:
+      Name: texture/character/80_yoshimi/yoshimi_460_kanashimi.asset
+      Dependencies: {}
+    Info_638:
+      Name: texture/character/80_yoshimi/yoshimi_460_keikai.asset
+      Dependencies: {}
+    Info_639:
+      Name: texture/character/80_yoshimi/yoshimi_460_konwaku.asset
+      Dependencies: {}
+    Info_640:
+      Name: texture/character/80_yoshimi/yoshimi_460_shian.asset
+      Dependencies: {}
+    Info_641:
+      Name: texture/character/80_yoshimi/yoshimi_460_warai.asset
+      Dependencies: {}
+    Info_642:
+      Name: texture/character/80_yoshimi/yoshimi_photo.asset
+      Dependencies: {}
+    Info_643:
+      Name: texture/character/80_yoshimi/yoshimi_photo_bisho.asset
+      Dependencies: {}
+    Info_644:
+      Name: texture/character/80_yoshimi/yoshimi_photo_bouga.asset
+      Dependencies: {}
+    Info_645:
+      Name: texture/character/80_yoshimi/yoshimi_photo_hazukashige.asset
+      Dependencies: {}
+    Info_646:
+      Name: texture/character/80_yoshimi/yoshimi_photo_kanashimi.asset
+      Dependencies: {}
+    Info_647:
+      Name: texture/character/80_yoshimi/yoshimi_photo_keikai.asset
+      Dependencies: {}
+    Info_648:
+      Name: texture/character/80_yoshimi/yoshimi_photo_konwaku.asset
+      Dependencies: {}
+    Info_649:
+      Name: texture/character/80_yoshimi/yoshimi_photo_shian.asset
+      Dependencies: {}
+    Info_650:
+      Name: texture/character/80_yoshimi/yoshimi_photo_warai.asset
+      Dependencies: {}
+    Info_651:
+      Name: texture/character/80_yoshimi/yosimi460.asset
+      Dependencies: {}
+    Info_652:
+      Name: texture/character/80_yoshimi/yosimi_all.asset
+      Dependencies: {}
+    Info_653:
+      Name: texture/character/81_saburou/saburou_350.asset
+      Dependencies: {}
+    Info_654:
+      Name: texture/character/81_saburou/saburou_350_doya.asset
+      Dependencies: {}
+    Info_655:
+      Name: texture/character/81_saburou/saburou_350_huan.asset
+      Dependencies: {}
+    Info_656:
+      Name: texture/character/81_saburou/saburou_350_keikai.asset
+      Dependencies: {}
+    Info_657:
+      Name: texture/character/81_saburou/saburou_350_konwaku.asset
+      Dependencies: {}
+    Info_658:
+      Name: texture/character/81_saburou/saburou_350_shian.asset
+      Dependencies: {}
+    Info_659:
+      Name: texture/character/81_saburou/saburou_350_warai.asset
+      Dependencies: {}
+    Info_660:
+      Name: texture/character/81_saburou/saburou_460.asset
+      Dependencies: {}
+    Info_661:
+      Name: texture/character/81_saburou/saburou_460_doya.asset
+      Dependencies: {}
+    Info_662:
+      Name: texture/character/81_saburou/saburou_460_huan.asset
+      Dependencies: {}
+    Info_663:
+      Name: texture/character/81_saburou/saburou_460_keikai.asset
+      Dependencies: {}
+    Info_664:
+      Name: texture/character/81_saburou/saburou_460_konwaku.asset
+      Dependencies: {}
+    Info_665:
+      Name: texture/character/81_saburou/saburou_460_shian.asset
+      Dependencies: {}
+    Info_666:
+      Name: texture/character/81_saburou/saburou_460_warai.asset
+      Dependencies: {}
+    Info_667:
+      Name: texture/character/81_saburou/saburou_all.asset
+      Dependencies: {}
+    Info_668:
+      Name: texture/character/81_saburou/saburou_photo.asset
+      Dependencies: {}
+    Info_669:
+      Name: texture/character/81_saburou/saburou_photo_doya.asset
+      Dependencies: {}
+    Info_670:
+      Name: texture/character/81_saburou/saburou_photo_huan.asset
+      Dependencies: {}
+    Info_671:
+      Name: texture/character/81_saburou/saburou_photo_keikai.asset
+      Dependencies: {}
+    Info_672:
+      Name: texture/character/81_saburou/saburou_photo_konwaku.asset
+      Dependencies: {}
+    Info_673:
+      Name: texture/character/81_saburou/saburou_photo_shian.asset
+      Dependencies: {}
+    Info_674:
+      Name: texture/character/81_saburou/saburou_photo_warai.asset
+      Dependencies: {}
+    Info_675:
+      Name: texture/character/91_moumoku/moumoku_350.asset
+      Dependencies: {}
+    Info_676:
+      Name: texture/character/91_moumoku/moumoku_all.asset
+      Dependencies: {}
+    Info_677:
+      Name: texture/character/91_moumoku/moumoku_photo.asset
+      Dependencies: {}
+    Info_678:
+      Name: texture/character/120_shirou/shiro_all.asset
+      Dependencies: {}
+    Info_679:
+      Name: texture/character/120_shirou/shirou_350.asset
+      Dependencies: {}
+    Info_680:
+      Name: texture/character/120_shirou/shirou_350_aseri.asset
+      Dependencies: {}
+    Info_681:
+      Name: texture/character/120_shirou/shirou_350_komari.asset
+      Dependencies: {}
+    Info_682:
+      Name: texture/character/120_shirou/shirou_350_metoji.asset
+      Dependencies: {}
+    Info_683:
+      Name: texture/character/120_shirou/shirou_460.asset
+      Dependencies: {}
+    Info_684:
+      Name: texture/character/120_shirou/shirou_460_aseri.asset
+      Dependencies: {}
+    Info_685:
+      Name: texture/character/120_shirou/shirou_460_komari.asset
+      Dependencies: {}
+    Info_686:
+      Name: texture/character/120_shirou/shirou_460_metoji.asset
+      Dependencies: {}
+    Info_687:
+      Name: texture/character/120_shirou/shirou_photo.asset
+      Dependencies: {}
+    Info_688:
+      Name: texture/character/120_shirou/shirou_photo_aseri.asset
+      Dependencies: {}
+    Info_689:
+      Name: texture/character/120_shirou/shirou_photo_komari.asset
+      Dependencies: {}
+    Info_690:
+      Name: texture/character/120_shirou/shirou_photo_metoji.asset
+      Dependencies: {}
+    Info_691:
+      Name: texture/character/121_angela/angela_350.asset
+      Dependencies: {}
+    Info_692:
+      Name: texture/character/121_angela/angela_350_akubi.asset
+      Dependencies: {}
+    Info_693:
+      Name: texture/character/121_angela/angela_350_aseri.asset
+      Dependencies: {}
+    Info_694:
+      Name: texture/character/121_angela/angela_350_bikkuri.asset
+      Dependencies: {}
+    Info_695:
+      Name: texture/character/121_angela/angela_350_bisho.asset
+      Dependencies: {}
+    Info_696:
+      Name: texture/character/121_angela/angela_350_gimon.asset
+      Dependencies: {}
+    Info_697:
+      Name: texture/character/121_angela/angela_350_haji.asset
+      Dependencies: {}
+    Info_698:
+      Name: texture/character/121_angela/angela_350_ikari.asset
+      Dependencies: {}
+    Info_699:
+      Name: texture/character/121_angela/angela_350_joudan.asset
+      Dependencies: {}
+    Info_700:
+      Name: texture/character/121_angela/angela_350_kanashimi.asset
+      Dependencies: {}
+    Info_701:
+      Name: texture/character/121_angela/angela_350_kitai.asset
+      Dependencies: {}
+    Info_702:
+      Name: texture/character/121_angela/angela_350_kyoton.asset
+      Dependencies: {}
+    Info_703:
+      Name: texture/character/121_angela/angela_350_namidame.asset
+      Dependencies: {}
+    Info_704:
+      Name: texture/character/121_angela/angela_350_utagai.asset
+      Dependencies: {}
+    Info_705:
+      Name: texture/character/121_angela/angela_350_warai.asset
+      Dependencies: {}
+    Info_706:
+      Name: texture/character/121_angela/angela_all.asset
+      Dependencies: {}
+    Info_707:
+      Name: texture/character/121_angela/angela_photo.asset
+      Dependencies: {}
+    Info_708:
+      Name: texture/character/121_angela/angela_photo_akubi.asset
+      Dependencies: {}
+    Info_709:
+      Name: texture/character/121_angela/angela_photo_aseri.asset
+      Dependencies: {}
+    Info_710:
+      Name: texture/character/121_angela/angela_photo_bikkuri.asset
+      Dependencies: {}
+    Info_711:
+      Name: texture/character/121_angela/angela_photo_bisho.asset
+      Dependencies: {}
+    Info_712:
+      Name: texture/character/121_angela/angela_photo_gimon.asset
+      Dependencies: {}
+    Info_713:
+      Name: texture/character/121_angela/angela_photo_haji.asset
+      Dependencies: {}
+    Info_714:
+      Name: texture/character/121_angela/angela_photo_hohoemi.asset
+      Dependencies: {}
+    Info_715:
+      Name: texture/character/121_angela/angela_photo_ikari.asset
+      Dependencies: {}
+    Info_716:
+      Name: texture/character/121_angela/angela_photo_joudan.asset
+      Dependencies: {}
+    Info_717:
+      Name: texture/character/121_angela/angela_photo_kanashimi.asset
+      Dependencies: {}
+    Info_718:
+      Name: texture/character/121_angela/angela_photo_kitai.asset
+      Dependencies: {}
+    Info_719:
+      Name: texture/character/121_angela/angela_photo_kyoton.asset
+      Dependencies: {}
+    Info_720:
+      Name: texture/character/121_angela/angela_photo_namidame.asset
+      Dependencies: {}
+    Info_721:
+      Name: texture/character/121_angela/angela_photo_utagai.asset
+      Dependencies: {}
+    Info_722:
+      Name: texture/character/121_angela/angela_photo_warai.asset
+      Dependencies: {}
+    Info_723:
+      Name: texture/character/122_hanae/hanae_350.asset
+      Dependencies: {}
+    Info_724:
+      Name: texture/character/122_hanae/hanae_350_burikko.asset
+      Dependencies: {}
+    Info_725:
+      Name: texture/character/122_hanae/hanae_350_fukigen.asset
+      Dependencies: {}
+    Info_726:
+      Name: texture/character/122_hanae/hanae_350_kire.asset
+      Dependencies: {}
+    Info_727:
+      Name: texture/character/122_hanae/hanae_350_kiresakebi.asset
+      Dependencies: {}
+    Info_728:
+      Name: texture/character/122_hanae/hanae_350_kiresakebu.asset
+      Dependencies: {}
+    Info_729:
+      Name: texture/character/122_hanae/hanae_350_sakebi.asset
+      Dependencies: {}
+    Info_730:
+      Name: texture/character/122_hanae/hanae_350_sakebu.asset
+      Dependencies: {}
+    Info_731:
+      Name: texture/character/122_hanae/hanae_350_sitauchi.asset
+      Dependencies: {}
+    Info_732:
+      Name: texture/character/122_hanae/hanae_350_suimin.asset
+      Dependencies: {}
+    Info_733:
+      Name: texture/character/122_hanae/hanae_350_yareyare.asset
+      Dependencies: {}
+    Info_734:
+      Name: texture/character/122_hanae/hanae_all.asset
+      Dependencies: {}
+    Info_735:
+      Name: texture/character/122_hanae/hanae_photo.asset
+      Dependencies: {}
+    Info_736:
+      Name: texture/character/122_hanae/hanae_photo_burikko.asset
+      Dependencies: {}
+    Info_737:
+      Name: texture/character/122_hanae/hanae_photo_fukigen.asset
+      Dependencies: {}
+    Info_738:
+      Name: texture/character/122_hanae/hanae_photo_kire.asset
+      Dependencies: {}
+    Info_739:
+      Name: texture/character/122_hanae/hanae_photo_kiresakebi.asset
+      Dependencies: {}
+    Info_740:
+      Name: texture/character/122_hanae/hanae_photo_sakebi.asset
+      Dependencies: {}
+    Info_741:
+      Name: texture/character/122_hanae/hanae_photo_sitauchi.asset
+      Dependencies: {}
+    Info_742:
+      Name: texture/character/122_hanae/hanae_photo_suimin.asset
+      Dependencies: {}
+    Info_743:
+      Name: texture/character/122_hanae/hanae_photo_yareyare.asset
+      Dependencies: {}
+    Info_744:
+      Name: texture/character/123_hanami/hanami_350.asset
+      Dependencies: {}
+    Info_745:
+      Name: texture/character/123_hanami/hanami_350_hurue.asset
+      Dependencies: {}
+    Info_746:
+      Name: texture/character/123_hanami/hanami_350_kizuki.asset
+      Dependencies: {}
+    Info_747:
+      Name: texture/character/123_hanami/hanami_350_naki.asset
+      Dependencies: {}
+    Info_748:
+      Name: texture/character/123_hanami/hanami_350_nemui.asset
+      Dependencies: {}
+    Info_749:
+      Name: texture/character/123_hanami/hanami_350_odoroki.asset
+      Dependencies: {}
+    Info_750:
+      Name: texture/character/123_hanami/hanami_350_sinpai.asset
+      Dependencies: {}
+    Info_751:
+      Name: texture/character/123_hanami/hanami_350_suimin.asset
+      Dependencies: {}
+    Info_752:
+      Name: texture/character/123_hanami/hanami_350_warai.asset
+      Dependencies: {}
+    Info_753:
+      Name: texture/character/123_hanami/hanami_all.asset
+      Dependencies: {}
+    Info_754:
+      Name: texture/character/123_hanami/hanami_photo.asset
+      Dependencies: {}
+    Info_755:
+      Name: texture/character/123_hanami/hanami_photo_hurue.asset
+      Dependencies: {}
+    Info_756:
+      Name: texture/character/123_hanami/hanami_photo_kizuki.asset
+      Dependencies: {}
+    Info_757:
+      Name: texture/character/123_hanami/hanami_photo_naki.asset
+      Dependencies: {}
+    Info_758:
+      Name: texture/character/123_hanami/hanami_photo_nemui.asset
+      Dependencies: {}
+    Info_759:
+      Name: texture/character/123_hanami/hanami_photo_odoroki.asset
+      Dependencies: {}
+    Info_760:
+      Name: texture/character/123_hanami/hanami_photo_sinpai.asset
+      Dependencies: {}
+    Info_761:
+      Name: texture/character/123_hanami/hanami_photo_suimin.asset
+      Dependencies: {}
+    Info_762:
+      Name: texture/character/123_hanami/hanami_photo_warai.asset
+      Dependencies: {}
+    Info_763:
+      Name: texture/character/124_kurou/kurou_350.asset
+      Dependencies: {}
+    Info_764:
+      Name: texture/character/124_kurou/kurou_350_bisho.asset
+      Dependencies: {}
+    Info_765:
+      Name: texture/character/124_kurou/kurou_350_fukai.asset
+      Dependencies: {}
+    Info_766:
+      Name: texture/character/124_kurou/kurou_350_kaiko.asset
+      Dependencies: {}
+    Info_767:
+      Name: texture/character/124_kurou/kurou_350_konwaku.asset
+      Dependencies: {}
+    Info_768:
+      Name: texture/character/124_kurou/kurou_350_odoroki.asset
+      Dependencies: {}
+    Info_769:
+      Name: texture/character/124_kurou/kurou_350_shikame.asset
+      Dependencies: {}
+    Info_770:
+      Name: texture/character/124_kurou/kurou_350_tansoku.asset
+      Dependencies: {}
+    Info_771:
+      Name: texture/character/124_kurou/kurou_350_warai.asset
+      Dependencies: {}
+    Info_772:
+      Name: texture/character/124_kurou/kurou_all.asset
+      Dependencies: {}
+    Info_773:
+      Name: texture/character/124_kurou/kurou_photo.asset
+      Dependencies: {}
+    Info_774:
+      Name: texture/character/124_kurou/kurou_photo_bisho.asset
+      Dependencies: {}
+    Info_775:
+      Name: texture/character/124_kurou/kurou_photo_fukai.asset
+      Dependencies: {}
+    Info_776:
+      Name: texture/character/124_kurou/kurou_photo_kaiko.asset
+      Dependencies: {}
+    Info_777:
+      Name: texture/character/124_kurou/kurou_photo_konwaku.asset
+      Dependencies: {}
+    Info_778:
+      Name: texture/character/124_kurou/kurou_photo_odoroki.asset
+      Dependencies: {}
+    Info_779:
+      Name: texture/character/124_kurou/kurou_photo_shikame.asset
+      Dependencies: {}
+    Info_780:
+      Name: texture/character/124_kurou/kurou_photo_tansoku.asset
+      Dependencies: {}
+    Info_781:
+      Name: texture/character/124_kurou/kurou_photo_warai.asset
+      Dependencies: {}
+    Info_782:
+      Name: texture/character/140_otogehero/otogehero_special.asset
+      Dependencies: {}
+    Info_783:
+      Name: texture/character/141_otogeheroine/otogeheroine_special.asset
+      Dependencies: {}
+    Info_784:
+      Name: texture/character/150_keikan/keikan_350.asset
+      Dependencies: {}
+    Info_785:
+      Name: texture/character/150_keikan/keikan_all.asset
+      Dependencies: {}
+    Info_786:
+      Name: texture/character/150_keikan/keikan_photo.asset
+      Dependencies: {}
+    Info_787:
+      Name: texture/character/200_smartphone/smartphone_350.asset
+      Dependencies: {}
+    Info_788:
+      Name: texture/character/200_smartphone/smartphone_photo.asset
+      Dependencies: {}
+    Info_789:
+      Name: texture/character/200_smartphone/smartphone_photo.png.asset
+      Dependencies: {}
+    Info_790:
+      Name: texture/character/201_radio/radio_350.asset
+      Dependencies: {}
+    Info_791:
+      Name: texture/character/202_ramen/ramen_350.asset
+      Dependencies: {}
+    Info_792:
+      Name: texture/character/202_ramen/ramen_350_a.asset
+      Dependencies: {}
+    Info_793:
+      Name: texture/character/202_ramen/ramen_350_b.asset
+      Dependencies: {}
+    Info_794:
+      Name: texture/character/202_ramen/ramen_350_old.asset
+      Dependencies: {}
+    Info_795:
+      Name: texture/character/203_aladdin/aladdin_350.asset
+      Dependencies: {}
+    Info_796:
+      Name: texture/character/204_beer/beer_350.asset
+      Dependencies: {}
+    Info_797:
+      Name: texture/character/205_chocolate/205_chocolate.asset
+      Dependencies: {}
+    Info_798:
+      Name: texture/character/205_chocolate/chocolate_350.asset
+      Dependencies: {}
+    Info_799:
+      Name: texture/character/206_note/206_note.asset
+      Dependencies: {}
+    Info_800:
+      Name: texture/character/206_note/note_350.asset
+      Dependencies: {}
+    Info_801:
+      Name: texture/character/207_harigane/207_harigane.asset
+      Dependencies: {}
+    Info_802:
+      Name: texture/character/207_harigane/harigane_350.asset
+      Dependencies: {}
+    Info_803:
+      Name: texture/character/208_tank/208_tank.asset
+      Dependencies: {}
+    Info_804:
+      Name: texture/character/208_tank/tank_350.asset
+      Dependencies: {}
+    Info_805:
+      Name: texture/character/209_kennyou/209_kennyou.asset
+      Dependencies: {}
+    Info_806:
+      Name: texture/character/209_kennyou/kennyou_350.asset
+      Dependencies: {}
+    Info_807:
+      Name: texture/character/210_carry/210_carry.asset
+      Dependencies: {}
+    Info_808:
+      Name: texture/character/210_carry/carry_350.asset
+      Dependencies: {}
+    Info_809:
+      Name: texture/character/211_coin/211_coin.asset
+      Dependencies: {}
+    Info_810:
+      Name: texture/character/211_coin/coin_350.asset
+      Dependencies: {}
+    Info_811:
+      Name: texture/character/212_kona/kona_350.asset
+      Dependencies: {}
+    Info_812:
+      Name: texture/character/213_huto/huto_350.asset
+      Dependencies: {}
+    Info_813:
+      Name: texture/character/214_idcard/idcard_350.asset
+      Dependencies: {}
+    Info_814:
+      Name: texture/character/215_pancake/pancake_350.asset
+      Dependencies: {}
+    Info_815:
+      Name: texture/character/216_soup/soup_350.asset
+      Dependencies: {}
+    Info_816:
+      Name: texture/character/217_udewa/photo_udewa-nobur.asset
+      Dependencies: {}
+    Info_817:
+      Name: texture/character/217_udewa/photo_udewa.asset
+      Dependencies: {}
+    Info_818:
+      Name: texture/character/217_udewa/udewa_350.asset
+      Dependencies: {}
+    Info_819:
+      Name: texture/character/217_udewa/udewa_photo.asset
+      Dependencies: {}
+    Info_820:
+      Name: texture/character/218_earring/yearring_350.asset
+      Dependencies: {}
+    Info_821:
+      Name: texture/character/219_base/base_350.asset
+      Dependencies: {}
+    Info_822:
+      Name: texture/character/220_guitar/guitar_350.asset
+      Dependencies: {}
+    Info_823:
+      Name: texture/character/221_hand/hand_350.asset
+      Dependencies: {}
+    Info_824:
+      Name: texture/character/222_lyriccard/lyriccard_350.asset
+      Dependencies: {}
+    Info_825:
+      Name: texture/character/223_heroine_item/heroine_item_350.asset
+      Dependencies: {}
+    Info_826:
+      Name: texture/character/250_unknown/unknown_boy_photo.asset
+      Dependencies: {}
+    Info_827:
+      Name: texture/character/250_unknown/unknown_empty.asset
+      Dependencies: {}
+    Info_828:
+      Name: texture/character/250_unknown/unknown_girl_photo.asset
+      Dependencies: {}
+    Info_829:
+      Name: texture/character/250_unknown/unknown_oldman_photo.asset
+      Dependencies: {}
+    Info_830:
+      Name: texture/character/250_unknown/unknown_photo.asset
       Dependencies: {}

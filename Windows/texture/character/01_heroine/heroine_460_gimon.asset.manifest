@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3720905683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3164e6442ce0a9c36b4e88b9f3efc74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_460_gimon.png
+Dependencies: []

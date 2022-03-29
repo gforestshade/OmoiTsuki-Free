@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 657337588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4073ee3ce3b4814a68d4630bf0dc3f8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/220_guitar/guitar_350.png
+Dependencies: []

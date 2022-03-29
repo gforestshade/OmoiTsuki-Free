@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3402028139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61c33697bca62b2fd8520ed9a3445219
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_adult_350_nakiwarai.png
+Dependencies: []

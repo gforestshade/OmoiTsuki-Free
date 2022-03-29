@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1773351287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7be08b2a9e4d1426656be8c799d52a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_photo_warai.png
+Dependencies: []

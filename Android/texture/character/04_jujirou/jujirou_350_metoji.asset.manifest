@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 262191153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61ff83f9c4b292b4dbb575179dba9b4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_350_metoji.png
+Dependencies: []

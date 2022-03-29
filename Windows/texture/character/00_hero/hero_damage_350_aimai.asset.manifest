@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3536948937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ce201a2260474ec2deebdba5bea0ca1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_aimai.png
+Dependencies: []

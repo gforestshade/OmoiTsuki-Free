@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4238722463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8ccf836426618eb19f0210571d29ab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_suit_350_kanashimi.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2904977727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b958e7fd26a7e3fd69dcce09b6fcb4b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_sekiwan_350_mu.png
+Dependencies: []

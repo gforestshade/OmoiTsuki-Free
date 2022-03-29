@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3134796670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8142ce5400b5d5224a628ef2e635490
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_350_warai.png
+Dependencies: []

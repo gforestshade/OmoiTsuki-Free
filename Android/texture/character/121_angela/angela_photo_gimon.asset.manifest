@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 875095291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c9f5747473dbb8c821be4fd68fac6d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_photo_gimon.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 198306520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fe1cab350e90ddb8f8945884cce3051
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_460_zetsubou.png
+Dependencies: []

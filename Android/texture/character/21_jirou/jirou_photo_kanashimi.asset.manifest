@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3597283248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dea6a185e955da82bd767cc6d7824975
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_photo_kanashimi.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 238914208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06e0470bc0889d13534a97cbe2bcd2c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_photo_bisho.png
+Dependencies: []

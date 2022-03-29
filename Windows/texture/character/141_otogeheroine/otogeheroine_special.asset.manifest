@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4237541359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9267dc63f29a3ed4659cb5622eaccb31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/141_otogeheroine/otogeheroine_special.png
+Dependencies: []

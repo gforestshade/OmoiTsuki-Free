@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 976465720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa7f32e9546b95d08df2760dde141a1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_hs_photo_ando.png
+Dependencies: []

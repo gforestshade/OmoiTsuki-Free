@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1617457591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 845252402400b431398509a7cf4edce2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_350_naki.png
+Dependencies: []

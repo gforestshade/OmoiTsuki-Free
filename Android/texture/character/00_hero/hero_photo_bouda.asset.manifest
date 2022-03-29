@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 660106077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31fde3458af3462222f18927051372b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_photo_bouda.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4058528962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b073691dfc2b0a9f180b6fa1bd49acce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/22_mimamima/mimamima_left_photo_egao.png
+Dependencies: []

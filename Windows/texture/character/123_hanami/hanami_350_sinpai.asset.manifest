@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4190400356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 197129ffd5d8de04f83079169a73915f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/123_hanami/hanami_350_sinpai.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 735840487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48347b741f64035d431c7de63d23012d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_photo_mu.png
+Dependencies: []

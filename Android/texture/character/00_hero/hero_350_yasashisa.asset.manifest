@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3285672224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fd0a2e48d8d11792dadec4d8a809e9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_350_yasashisa.png
+Dependencies: []

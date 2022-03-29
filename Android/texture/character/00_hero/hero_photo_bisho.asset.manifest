@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1455684236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b831d5be39b85426cea5c97f8d1bfc20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_photo_bisho.png
+Dependencies: []

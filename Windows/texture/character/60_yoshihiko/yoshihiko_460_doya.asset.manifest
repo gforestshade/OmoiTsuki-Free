@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1359439114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ded70b5567bf4af73a185ea50a45001
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_460_doya.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 311599642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5430d8c3c6f41dab66084e713a77e16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_photo_keikai.png
+Dependencies: []

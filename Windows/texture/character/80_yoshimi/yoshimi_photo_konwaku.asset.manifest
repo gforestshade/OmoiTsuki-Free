@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2417908816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8435dd16e3803e8ef7de41e0e44e9292
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_photo_konwaku.png
+Dependencies: []

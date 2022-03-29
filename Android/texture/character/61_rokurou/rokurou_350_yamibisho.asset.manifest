@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 255881819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ab1aa557a084df2709caba0ff17b92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/61_rokurou/rokurou_350_yamibisho.png
+Dependencies: []

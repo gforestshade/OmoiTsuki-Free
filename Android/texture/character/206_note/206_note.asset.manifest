@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2181960898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70b899ecb073bece968e79ec05f22433
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/206_note/206_note.png
+Dependencies: []

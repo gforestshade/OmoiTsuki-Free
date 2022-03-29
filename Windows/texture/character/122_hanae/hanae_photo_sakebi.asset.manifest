@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 756103628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16c1aa466d26443622fff057b2c61e4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/122_hanae/hanae_photo_sakebi.png
+Dependencies: []

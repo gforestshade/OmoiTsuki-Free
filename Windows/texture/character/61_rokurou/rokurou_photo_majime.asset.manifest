@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 767904956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 784bc322c4cda002df759d524d710c3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/61_rokurou/rokurou_photo_majime.png
+Dependencies: []

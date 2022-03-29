@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2769631767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc606eb782d650099176d159ebda9317
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/202_ramen/ramen_350_b.png
+Dependencies: []

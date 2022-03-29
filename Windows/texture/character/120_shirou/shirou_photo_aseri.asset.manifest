@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3506398492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58e637a7fe18c3179a550f6d2e4872b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/120_shirou/shirou_photo_aseri.png
+Dependencies: []

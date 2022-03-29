@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2997662617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4c0003aa4e2644a558cd7d3fa0b907e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_photo_kuyasii.png
+Dependencies: []

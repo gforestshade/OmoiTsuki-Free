@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2548114536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec040cc129773e62a5a46bbcf82779a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/123_hanami/hanami_photo_nemui.png
+Dependencies: []

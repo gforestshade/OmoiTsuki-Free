@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 261233206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ac1032b6d96d00e9e9a1623e29297cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_350.png
+Dependencies: []

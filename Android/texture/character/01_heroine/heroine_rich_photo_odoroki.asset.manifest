@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 456523169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 198b3ccfd495b361e10b214c5844cf8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_photo_odoroki.png
+Dependencies: []

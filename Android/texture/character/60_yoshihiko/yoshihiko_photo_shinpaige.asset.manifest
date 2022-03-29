@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1183402435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4f05e48960d822bd1eb528988e48fa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/60_yoshihiko/yoshihiko_photo_shinpaige.png
+Dependencies: []

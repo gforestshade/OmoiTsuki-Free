@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3948748148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22f2b0cfcf0c8aaca95ea02c432125c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_suit_350_warai.png
+Dependencies: []

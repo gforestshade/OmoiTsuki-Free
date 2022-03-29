@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2818475335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0ec3aab5e42a9f7f9f781cfb3a2eb56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yosimi_all.png
+Dependencies: []

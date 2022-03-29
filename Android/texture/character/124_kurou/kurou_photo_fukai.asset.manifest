@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3388144806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f27784f7a6d228ba8615750350f9cf9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/124_kurou/kurou_photo_fukai.png
+Dependencies: []

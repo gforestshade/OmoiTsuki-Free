@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2200755581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83d706753bf1f728ee9406b7ad800c3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/210_carry/210_carry.png
+Dependencies: []

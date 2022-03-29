@@ -1,3 +1,2493 @@
 omitsukifree.scenarios.asset
   Hash128: 32af5f8db978b86089811ce15069feed
 
+texture/character/00_hero/hero_350.asset
+  Hash128: cf536764363c7fa14e408c7a1f420e56
+
+texture/character/00_hero/hero_350_aimai.asset
+  Hash128: 9f2c1173f7ac1abd9674322faba56cae
+
+texture/character/00_hero/hero_350_bisho.asset
+  Hash128: 2cc473d27e3f92d3a5959b15cce342ae
+
+texture/character/00_hero/hero_350_bouda.asset
+  Hash128: 92e76d83252b190b54f694d5b244395d
+
+texture/character/00_hero/hero_350_chinmoku.asset
+  Hash128: 350223a4235240ae909d74692500c3a1
+
+texture/character/00_hero/hero_350_hatena.asset
+  Hash128: 778978f36535fca270979ffe1b10964c
+
+texture/character/00_hero/hero_350_jodan.asset
+  Hash128: 566e22a2bc90e18206b510de9a23312a
+
+texture/character/00_hero/hero_350_kanashimi.asset
+  Hash128: 18f3dfacfe504b73234ff358d76c5388
+
+texture/character/00_hero/hero_350_konwaku.asset
+  Hash128: 530ddb626a0bc657452076ed8e979821
+
+texture/character/00_hero/hero_350_kurushisou.asset
+  Hash128: 8c1f6d5aa0be1d4697996d9ee73c6f1e
+
+texture/character/00_hero/hero_350_mu.asset
+  Hash128: 3ff7342e3ad2bd446c377a743d711980
+
+texture/character/00_hero/hero_350_odoroki.asset
+  Hash128: ec043dd45861d14545b33aaeab54b1a6
+
+texture/character/00_hero/hero_350_reisei.asset
+  Hash128: 83f0ad4f47dd7a9f4c57fde3d977a7c3
+
+texture/character/00_hero/hero_350_sakebu.asset
+  Hash128: a0d959518e0c47ce08606b5dd5799a8b
+
+texture/character/00_hero/hero_350_silhouette.asset
+  Hash128: 5abae06371ddbce5af7596c82a2b2d53
+
+texture/character/00_hero/hero_350_tanoshisa.asset
+  Hash128: 651edf46223179482885ef4344cf214b
+
+texture/character/00_hero/hero_350_warai.asset
+  Hash128: ba5aeb272cd1112b620b2681ee14a450
+
+texture/character/00_hero/hero_350_yasashisa.asset
+  Hash128: 0fd0a2e48d8d11792dadec4d8a809e9f
+
+texture/character/00_hero/hero_460.asset
+  Hash128: 0c08b849d3cae58c76f707a4bcc4fe62
+
+texture/character/00_hero/hero_460_aimai.asset
+  Hash128: 8a4d9ab82197ad9a1a18fa30e6653aa7
+
+texture/character/00_hero/hero_460_bisho.asset
+  Hash128: fd1664048c5873f8bb5161ea55f18287
+
+texture/character/00_hero/hero_460_bouda.asset
+  Hash128: 99a2f714555a794eb68fd328d275f834
+
+texture/character/00_hero/hero_460_chinmoku.asset
+  Hash128: 8ada237c69902e2ddd48b3845e6d068f
+
+texture/character/00_hero/hero_460_hatena.asset
+  Hash128: 16b31b6e4076ec96834f64f20ef95252
+
+texture/character/00_hero/hero_460_jodan.asset
+  Hash128: 6b483a663d2c078cfbca741abdf07422
+
+texture/character/00_hero/hero_460_kanashimi.asset
+  Hash128: db4bc3449d9171dbc743dcef6a5d0286
+
+texture/character/00_hero/hero_460_konwaku.asset
+  Hash128: c55a2964ac87089cd7dc9bc5bc61de43
+
+texture/character/00_hero/hero_460_kurushisou.asset
+  Hash128: 84747f2dd322fae1ec4de286556eab6e
+
+texture/character/00_hero/hero_460_mu.asset
+  Hash128: f11c5ef6886b5adf0ba2518e32754ca3
+
+texture/character/00_hero/hero_460_odoroki.asset
+  Hash128: b390e80700312a1728e84d4d39465df9
+
+texture/character/00_hero/hero_460_reisei.asset
+  Hash128: 8c2ae46c222de8f37a7db0e55023862c
+
+texture/character/00_hero/hero_460_sakebu.asset
+  Hash128: b384de45e95e585fe376052f94490b1a
+
+texture/character/00_hero/hero_460_tanoshisa.asset
+  Hash128: cea49f8bf5eec80219a9413c36d3f6ff
+
+texture/character/00_hero/hero_460_warai.asset
+  Hash128: b11ae72abcbb5bf368234f1c6c2888b8
+
+texture/character/00_hero/hero_460_yasashisa.asset
+  Hash128: 789e04ae6eaf3849a12340361f636d6a
+
+texture/character/00_hero/hero_all.asset
+  Hash128: 37f49cc86d79629cd6d78b06237b6b6e
+
+texture/character/00_hero/hero_before_350.asset
+  Hash128: 957e41f06dde780cb7fd36c100071a3e
+
+texture/character/00_hero/hero_before_350_kubinashi.asset
+  Hash128: a460bae892c372c30598c5e1b69bd643
+
+texture/character/00_hero/hero_before_460.asset
+  Hash128: f95089befe8f72a743199ab5fe8acd55
+
+texture/character/00_hero/hero_before_photo.asset
+  Hash128: 9363ba7de6c72643a57301b654f442f1
+
+texture/character/00_hero/hero_before_photo_kubinashi.asset
+  Hash128: 11b5d57c9c7e41121ff72138a70101f3
+
+texture/character/00_hero/hero_bokashi_photo.asset
+  Hash128: ae7991e08f07f825ddd879775ab77994
+
+texture/character/00_hero/hero_damage_350.asset
+  Hash128: 2386e98e5b3c768c0c812233b0bb55c9
+
+texture/character/00_hero/hero_damage_350_aimai.asset
+  Hash128: 3fcf27aac5897b1f7c9b2af722f0ebfe
+
+texture/character/00_hero/hero_damage_350_bisho.asset
+  Hash128: 8c071eaaa169c6c5db732873aba3482c
+
+texture/character/00_hero/hero_damage_350_bouda.asset
+  Hash128: d01f66670818908b42e1063615d0fe7b
+
+texture/character/00_hero/hero_damage_350_chinmoku.asset
+  Hash128: 8227d44119cfd7c1c50a93dcbf382207
+
+texture/character/00_hero/hero_damage_350_hatena.asset
+  Hash128: bc10068f79f9428d605ac6a3e9b96f1f
+
+texture/character/00_hero/hero_damage_350_jodan.asset
+  Hash128: bc0f51dac76dc0f19c0cc30cd3987469
+
+texture/character/00_hero/hero_damage_350_kanashimi.asset
+  Hash128: 52b3a1ff0f2aec56bcbbe4a24a050fba
+
+texture/character/00_hero/hero_damage_350_konwaku.asset
+  Hash128: 365b2365dd3d2db43f4f85d5f42176eb
+
+texture/character/00_hero/hero_damage_350_kurushisou.asset
+  Hash128: e5810814fdd1bc62a74b4bf8389df53c
+
+texture/character/00_hero/hero_damage_350_mu.asset
+  Hash128: 0de6d90c9ad957304747142dd0b11989
+
+texture/character/00_hero/hero_damage_350_odoroki.asset
+  Hash128: 5cb99f26645ba3f1ab64ad1a89cfab53
+
+texture/character/00_hero/hero_damage_350_reisei.asset
+  Hash128: be9e43693c53a5795b36116e932d4158
+
+texture/character/00_hero/hero_damage_350_sakebu.asset
+  Hash128: 151abd7c376985d855864975c65ce330
+
+texture/character/00_hero/hero_damage_350_tanoshisa.asset
+  Hash128: 0056afa36849258904fda95e4c8c801d
+
+texture/character/00_hero/hero_damage_350_warai.asset
+  Hash128: f2a3883ce65d92163c3a0c141b2cae47
+
+texture/character/00_hero/hero_damage_350_yasashisa.asset
+  Hash128: 4af93542436ad0419f57db0c776fc3be
+
+texture/character/00_hero/hero_photo.asset
+  Hash128: af49e7f45e84c74c0f282ad164d253eb
+
+texture/character/00_hero/hero_photo_aimai.asset
+  Hash128: 99eda17d6022fc3333e9b945d7c436d9
+
+texture/character/00_hero/hero_photo_bisho.asset
+  Hash128: b831d5be39b85426cea5c97f8d1bfc20
+
+texture/character/00_hero/hero_photo_bouda.asset
+  Hash128: 31fde3458af3462222f18927051372b3
+
+texture/character/00_hero/hero_photo_chinmoku.asset
+  Hash128: 3a27307fd1786865e09357aa02c708b4
+
+texture/character/00_hero/hero_photo_hatena.asset
+  Hash128: 03d943cd49cabf07b01bee7e6457b374
+
+texture/character/00_hero/hero_photo_jodan.asset
+  Hash128: 1f606e765fc00dd62757592fef0dab9c
+
+texture/character/00_hero/hero_photo_kanashimi.asset
+  Hash128: c45563bc2a3d9794f433348f639e6ec3
+
+texture/character/00_hero/hero_photo_konwaku.asset
+  Hash128: a642aa32093945ff93d036ee9a809b0b
+
+texture/character/00_hero/hero_photo_kurushisou.asset
+  Hash128: bda6a45b3988aa71b4c2e478f0bca2ba
+
+texture/character/00_hero/hero_photo_mu.asset
+  Hash128: 48347b741f64035d431c7de63d23012d
+
+texture/character/00_hero/hero_photo_odoroki.asset
+  Hash128: 0d5c878e071456f734ec95dcde745e82
+
+texture/character/00_hero/hero_photo_reisei.asset
+  Hash128: 3a5bd2fb3e0c36cb15c8e13e19dcf077
+
+texture/character/00_hero/hero_photo_sakebu.asset
+  Hash128: 581f5aedd30dbb21ceca0d29734f71c4
+
+texture/character/00_hero/hero_photo_silhouette.asset
+  Hash128: 77f068f668cd194708eec10630a8f48d
+
+texture/character/00_hero/hero_photo_tanoshisa.asset
+  Hash128: ec55ca6d08352df022fd76994b25ad2f
+
+texture/character/00_hero/hero_photo_warai.asset
+  Hash128: 188c4055c3124625ade560f93f0392b6
+
+texture/character/00_hero/hero_photo_yasashisa.asset
+  Hash128: b579195e1acec5e7bc6d66911e45db59
+
+texture/character/00_hero/hero_udewa_350.asset
+  Hash128: ddca4b35ccba6616a22ecbb0a4f2ce6d
+
+texture/character/00_hero/hero_udewa_350_bisho.asset
+  Hash128: 3e3b72b19cd2fbbdfc7025d578e4c865
+
+texture/character/00_hero/hero_udewa_350_bouda.asset
+  Hash128: 994c64ec644ceb330c16633bf4669e25
+
+texture/character/00_hero/hero_udewa_350_kurushisou.asset
+  Hash128: 87e1eab0dcdb049fcd2baf2815b254c8
+
+texture/character/01_heroine/heroine_350.asset
+  Hash128: 1b8cae6ae456c1943e868f775840bf7d
+
+texture/character/01_heroine/heroine_350_akirame.asset
+  Hash128: 9a8da06981584dadb340eefdc0ec4f23
+
+texture/character/01_heroine/heroine_350_akubi.asset
+  Hash128: 051a0a3df7d978f508c47902eedec0b4
+
+texture/character/01_heroine/heroine_350_bisho.asset
+  Hash128: 8641c3c4b96fa581969691aa99617501
+
+texture/character/01_heroine/heroine_350_bouga.asset
+  Hash128: fd089b38a16d6e98222e7cbcd330df5f
+
+texture/character/01_heroine/heroine_350_dere.asset
+  Hash128: be21f3641bee92f6b8d5f0a29276439c
+
+texture/character/01_heroine/heroine_350_egao.asset
+  Hash128: 71882e9a5f5492782f12933c842f51e2
+
+texture/character/01_heroine/heroine_350_fuee.asset
+  Hash128: b41487dd19d0e2beea00802277aa5332
+
+texture/character/01_heroine/heroine_350_fumei.asset
+  Hash128: 9b7d3d1ff7c1971417fad914f969383e
+
+texture/character/01_heroine/heroine_350_genki.asset
+  Hash128: 4a378a3a06560fa2c528783edd3036e9
+
+texture/character/01_heroine/heroine_350_gimon.asset
+  Hash128: fb23354f83e5332ef74b84f61c1ed33a
+
+texture/character/01_heroine/heroine_350_goukyu.asset
+  Hash128: 048b11568c399be797ed9454bdfae368
+
+texture/character/01_heroine/heroine_350_hakike.asset
+  Hash128: be6d9b05414d81bd0b70dcf55b1717f1
+
+texture/character/01_heroine/heroine_350_hanikami.asset
+  Hash128: a72048778ea2ec9bad88d9d6520d0934
+
+texture/character/01_heroine/heroine_350_hazirai.asset
+  Hash128: b5d1f8838f348944f090c261132632b7
+
+texture/character/01_heroine/heroine_350_ikari.asset
+  Hash128: c603152643c54e48dce675852bc2b0dd
+
+texture/character/01_heroine/heroine_350_kanashimi.asset
+  Hash128: 263db01d0b9ad054bf8f22bbfe717841
+
+texture/character/01_heroine/heroine_350_ketui.asset
+  Hash128: 794360a419c13b10ef26225725106142
+
+texture/character/01_heroine/heroine_350_kuyashinaki.asset
+  Hash128: ddc6a767b8cdd2ed22cb0b6fa359c2b7
+
+texture/character/01_heroine/heroine_350_kuyasii.asset
+  Hash128: 97b9b4e2bcd1285393d9ed4ce16fabdb
+
+texture/character/01_heroine/heroine_350_kyoton.asset
+  Hash128: 1f1d50e388a66af5272b1ce1a0911cb0
+
+texture/character/01_heroine/heroine_350_mu.asset
+  Hash128: b073da6ddad81126188916c54587da6e
+
+texture/character/01_heroine/heroine_350_naki.asset
+  Hash128: 42316f505ffe31d4fa6258a5a90008cd
+
+texture/character/01_heroine/heroine_350_namidame.asset
+  Hash128: bf7da797c7d5dc906f0ed3766851b3da
+
+texture/character/01_heroine/heroine_350_odoroki.asset
+  Hash128: 01f0f0de73b551f2bc248ee1f97f2150
+
+texture/character/01_heroine/heroine_350_tsunnaki.asset
+  Hash128: e6299dd66f187bb02f87217fc6b39e72
+
+texture/character/01_heroine/heroine_350_tun.asset
+  Hash128: 4b9364133dadae83741e71e2363cdffe
+
+texture/character/01_heroine/heroine_350_utagai.asset
+  Hash128: 6cd426c8062cd322f152ecbd759ec94b
+
+texture/character/01_heroine/heroine_350_warai.asset
+  Hash128: f411d103aa9cb22b8ebb37cf7abb476b
+
+texture/character/01_heroine/heroine_460.asset
+  Hash128: 0ff1596271eb141c44d2f2cea3819b9a
+
+texture/character/01_heroine/heroine_460_akirame.asset
+  Hash128: c1d917f260ff60f03c037c0624c37979
+
+texture/character/01_heroine/heroine_460_akubi.asset
+  Hash128: 4c0c6e3fabd69a80098a814e6af3175a
+
+texture/character/01_heroine/heroine_460_bisho.asset
+  Hash128: df59c23b4b9e3d2c4616852be6afa8de
+
+texture/character/01_heroine/heroine_460_bouga.asset
+  Hash128: eb4e85884c05156d074d79ee16adbfcb
+
+texture/character/01_heroine/heroine_460_dere.asset
+  Hash128: baba2e812b96c5b28b6fa0b5573346a8
+
+texture/character/01_heroine/heroine_460_fuee.asset
+  Hash128: a4c26d987c16a3c3dbd91913c22c1cdb
+
+texture/character/01_heroine/heroine_460_genki.asset
+  Hash128: ed087feb911c6706d75da57933ba1483
+
+texture/character/01_heroine/heroine_460_gimon.asset
+  Hash128: ff3b242811f6832461fb4c260cf1cd49
+
+texture/character/01_heroine/heroine_460_goukyu.asset
+  Hash128: db5accb9448c36f661447a22ca67b076
+
+texture/character/01_heroine/heroine_460_hanikami.asset
+  Hash128: 07a27cf0a033b764c7ce1e17da70729a
+
+texture/character/01_heroine/heroine_460_hazirai.asset
+  Hash128: 9a17aaa2f74adf4106169ef9fc56cd2f
+
+texture/character/01_heroine/heroine_460_ikari.asset
+  Hash128: 7d292d699c3e590a6a7bdf7602a31ada
+
+texture/character/01_heroine/heroine_460_kanashimi.asset
+  Hash128: 74bc677946f9bf723d84009f4f83ee85
+
+texture/character/01_heroine/heroine_460_ketui.asset
+  Hash128: b509260376fa2def38f3a69ac6d13bdd
+
+texture/character/01_heroine/heroine_460_kuyashinaki.asset
+  Hash128: f2a01d873cedf9e4164fbd04f7e4c333
+
+texture/character/01_heroine/heroine_460_kuyasii.asset
+  Hash128: c6beb8c7c4cd0f3c4868e7c2d173dad3
+
+texture/character/01_heroine/heroine_460_kyoton.asset
+  Hash128: d52ca9f3a6a43deab83933ab8bc962ee
+
+texture/character/01_heroine/heroine_460_naki.asset
+  Hash128: 378ac5e5e310de2953bdcee8c338b71f
+
+texture/character/01_heroine/heroine_460_namidame.asset
+  Hash128: 1042be2c00d2ff1a88d7db16dffe3199
+
+texture/character/01_heroine/heroine_460_odoroki.asset
+  Hash128: 64bb7b1e3a5d6ad344223ae426245846
+
+texture/character/01_heroine/heroine_460_tsunnaki.asset
+  Hash128: 1ccba9428edb8d0dd423b5c587ea2f64
+
+texture/character/01_heroine/heroine_460_tun.asset
+  Hash128: 49132b844e60fc7947d36c7b21618e3c
+
+texture/character/01_heroine/heroine_460_utagai.asset
+  Hash128: 884679529d021d78cbde426418ce7382
+
+texture/character/01_heroine/heroine_460_warai.asset
+  Hash128: c24598bcbb030a27faea86354903aa3d
+
+texture/character/01_heroine/heroine_adult_350.asset
+  Hash128: 754b4dfd426afcc4069186ff41a5233c
+
+texture/character/01_heroine/heroine_adult_350_akirame.asset
+  Hash128: ee2a241c5290300d9540c70d0f3f8abf
+
+texture/character/01_heroine/heroine_adult_350_bisho.asset
+  Hash128: f4b69fe798a790aee4c904847b350977
+
+texture/character/01_heroine/heroine_adult_350_egao.asset
+  Hash128: 932a1137053a22834ac04e1e88d770d3
+
+texture/character/01_heroine/heroine_adult_350_hanikami.asset
+  Hash128: f8abe657d84054d829affc407590e578
+
+texture/character/01_heroine/heroine_adult_350_kanashimi.asset
+  Hash128: 8d82d65ad19ecab5f156d1ecff51f9a2
+
+texture/character/01_heroine/heroine_adult_350_metoji.asset
+  Hash128: c9d75aa8ae2503fbc6b5f066634cc377
+
+texture/character/01_heroine/heroine_adult_350_mu.asset
+  Hash128: 46087784ddf0e766830445d53cf32793
+
+texture/character/01_heroine/heroine_adult_350_nakiwarai.asset
+  Hash128: 6556621e92c79efd253747ee8b4a238f
+
+texture/character/01_heroine/heroine_adult_350_odoroki.asset
+  Hash128: e5f242158140ec9f883403b4d6cc84fd
+
+texture/character/01_heroine/heroine_adult_all.asset
+  Hash128: f49f14678d8a88ad2d6b152c7200956d
+
+texture/character/01_heroine/heroine_adult_bokashi_photo.asset
+  Hash128: bea04a76099e80248c796f3d84aee3ff
+
+texture/character/01_heroine/heroine_adult_photo.asset
+  Hash128: 4c762cac0414c7615d8bf776344b10ec
+
+texture/character/01_heroine/heroine_adult_photo_akirame.asset
+  Hash128: 8803e739c56e895e7625e76a075b6721
+
+texture/character/01_heroine/heroine_adult_photo_bisho.asset
+  Hash128: 2f29f32bf24cc5163486204f7077ae49
+
+texture/character/01_heroine/heroine_adult_photo_egao.asset
+  Hash128: 6167891cc2c0635cffd3f534f1f536f2
+
+texture/character/01_heroine/heroine_adult_photo_hanikami.asset
+  Hash128: 33fb9ebd42be6512a3e4daa0303aacaa
+
+texture/character/01_heroine/heroine_adult_photo_kanashimi.asset
+  Hash128: 548da6984e2415c14dba85b52e2f2b6f
+
+texture/character/01_heroine/heroine_adult_photo_metoji.asset
+  Hash128: f670586d2b80e84470aef4af60e34851
+
+texture/character/01_heroine/heroine_adult_photo_mu.asset
+  Hash128: bcd952cc5af6487f42126ec1f0bb450b
+
+texture/character/01_heroine/heroine_adult_photo_nakiwarai.asset
+  Hash128: 8e45f1273c49cb58d3ce375abe93edc0
+
+texture/character/01_heroine/heroine_adult_photo_odoroki.asset
+  Hash128: aa6198aec4ae166523996c42f0b6d81b
+
+texture/character/01_heroine/heroine_all.asset
+  Hash128: 48fb6565febd1e7d53bee56f986ee4c0
+
+texture/character/01_heroine/heroine_alter_350.asset
+  Hash128: 37dfc52afc9a46ac49306f59d0d21497
+
+texture/character/01_heroine/heroine_alter_350_akubi.asset
+  Hash128: c91a64cee366010dee204a1db2cd16f0
+
+texture/character/01_heroine/heroine_alter_350_bikkuri.asset
+  Hash128: 11064c1cf2f7962c695c2d3d825c018e
+
+texture/character/01_heroine/heroine_alter_350_bisho.asset
+  Hash128: fe0bf5a8faf88121a62e074852fa0aff
+
+texture/character/01_heroine/heroine_alter_350_gimon.asset
+  Hash128: 379df7135c73216a25fdd2cd575c989f
+
+texture/character/01_heroine/heroine_alter_350_haji.asset
+  Hash128: 1cf280ae3a6e3ba2b006ad9d30c2408f
+
+texture/character/01_heroine/heroine_alter_350_hohoemi.asset
+  Hash128: 0b0bb5f147725465f3da473585c13da2
+
+texture/character/01_heroine/heroine_alter_350_ikari.asset
+  Hash128: b484a167e2a9ee2046c5c8bc01881c1a
+
+texture/character/01_heroine/heroine_alter_350_kanashimi.asset
+  Hash128: fb49109b64d923d35604376cc8fd78d4
+
+texture/character/01_heroine/heroine_alter_350_kyoton.asset
+  Hash128: ca67dce680212f11a43f8b4feeb0daa6
+
+texture/character/01_heroine/heroine_alter_350_utagai.asset
+  Hash128: f120101458f3766491483d7ddc1a8b35
+
+texture/character/01_heroine/heroine_alter_350_warai.asset
+  Hash128: 92541458b82ff6cd8482cb115ce8099a
+
+texture/character/01_heroine/heroine_alter_all.asset
+  Hash128: 5ee6306b8f0c0998229a2981fede8621
+
+texture/character/01_heroine/heroine_alter_photo.asset
+  Hash128: 80014d64ab0a89536131657927fb7d53
+
+texture/character/01_heroine/heroine_alter_photo_akubi.asset
+  Hash128: 0950f68ad8a68d9d8acd1e2b96d08b2b
+
+texture/character/01_heroine/heroine_alter_photo_bikkuri.asset
+  Hash128: 66b9089a67e9c8b088551fd661d6a9c4
+
+texture/character/01_heroine/heroine_alter_photo_bisho.asset
+  Hash128: 8523bdc0085e90345ab6fdd7442fdba5
+
+texture/character/01_heroine/heroine_alter_photo_gimon.asset
+  Hash128: a253be60e99e7734ff47938a187d245f
+
+texture/character/01_heroine/heroine_alter_photo_haji.asset
+  Hash128: ffca2788b3680007aa08140a72d38b8e
+
+texture/character/01_heroine/heroine_alter_photo_hohoemi.asset
+  Hash128: 2109355462d3e13e097f522acf3f97d2
+
+texture/character/01_heroine/heroine_alter_photo_ikari.asset
+  Hash128: 2feac1b822c03a630e38c60f03a2697a
+
+texture/character/01_heroine/heroine_alter_photo_kanashimi.asset
+  Hash128: a38f0c52f04ccfa3f60f55138d954341
+
+texture/character/01_heroine/heroine_alter_photo_kyoton.asset
+  Hash128: 6cde7cfb969713de58c17331648f06bc
+
+texture/character/01_heroine/heroine_alter_photo_utagai.asset
+  Hash128: 5e154651a2d0e464bf03662e71498e51
+
+texture/character/01_heroine/heroine_alter_photo_warai.asset
+  Hash128: 8e6548980e3de2fc1af5997402f7496a
+
+texture/character/01_heroine/heroine_photo.asset
+  Hash128: 8e02138ee956065112bb637d99b62663
+
+texture/character/01_heroine/heroine_photo_akirame.asset
+  Hash128: 13aaaee3fb28742a511327e4337c0a80
+
+texture/character/01_heroine/heroine_photo_akubi.asset
+  Hash128: 7fc3a8c815de18c13618b2d9a07c8a61
+
+texture/character/01_heroine/heroine_photo_bisho.asset
+  Hash128: 826753faea9f1f2f730e2da34bcbd25c
+
+texture/character/01_heroine/heroine_photo_bouga.asset
+  Hash128: f91bee292a669aedd56d9ed69b66a882
+
+texture/character/01_heroine/heroine_photo_dere.asset
+  Hash128: 4134277f537550c30c8ee1cb37f39d96
+
+texture/character/01_heroine/heroine_photo_egao.asset
+  Hash128: 38425151bdca0658839b22caa1e41b59
+
+texture/character/01_heroine/heroine_photo_fuee.asset
+  Hash128: 0a07b8dcb53003e562d7b40bc34ebc02
+
+texture/character/01_heroine/heroine_photo_fumei.asset
+  Hash128: 656a2a210e18d6a2815fe491f8bded4d
+
+texture/character/01_heroine/heroine_photo_genki.asset
+  Hash128: 5eb2cae3bbbd14a99c043b0089a1b7b3
+
+texture/character/01_heroine/heroine_photo_gimon.asset
+  Hash128: ad877a5e758ba9de2e5177886e21b2ae
+
+texture/character/01_heroine/heroine_photo_goukyu.asset
+  Hash128: 50286aab5fbbd19c5c4f991036ea2421
+
+texture/character/01_heroine/heroine_photo_hakike.asset
+  Hash128: e2611206be6717b73652275fb8a7d980
+
+texture/character/01_heroine/heroine_photo_hanikami.asset
+  Hash128: 486a378dd6c9a69154013aaf89dfce6b
+
+texture/character/01_heroine/heroine_photo_hazirai.asset
+  Hash128: 29088dbd829f42678ae367fa6ee5cd52
+
+texture/character/01_heroine/heroine_photo_ikari.asset
+  Hash128: 17fc3289089288262716b2c84182ae0e
+
+texture/character/01_heroine/heroine_photo_kanashimi.asset
+  Hash128: b356bf82e62f30ec74d0ed165b7d7799
+
+texture/character/01_heroine/heroine_photo_ketui.asset
+  Hash128: 7e205509c6211ed6ba4a45d77fd2f12d
+
+texture/character/01_heroine/heroine_photo_kuyashinaki.asset
+  Hash128: 90e3c782abc544c3f164dcb5ed956c50
+
+texture/character/01_heroine/heroine_photo_kuyasii.asset
+  Hash128: fba47154afb00b1bec6cb6de523474bc
+
+texture/character/01_heroine/heroine_photo_kyoton.asset
+  Hash128: 411f00ec41e13166aefe1462a872b3b7
+
+texture/character/01_heroine/heroine_photo_mu.asset
+  Hash128: 44d0a3cde624caeff4f7fa5ed4e07231
+
+texture/character/01_heroine/heroine_photo_naki.asset
+  Hash128: e4647b362ba6ae175f42a3cc65c2a65e
+
+texture/character/01_heroine/heroine_photo_namidame.asset
+  Hash128: df5c7f3bf9421a9621fce3b9d6e045b7
+
+texture/character/01_heroine/heroine_photo_odoroki.asset
+  Hash128: a973792b53c221f8c781feea0c217bde
+
+texture/character/01_heroine/heroine_photo_tsunnaki.asset
+  Hash128: c683cf93f2a088f5b2753a6f6804703b
+
+texture/character/01_heroine/heroine_photo_tun.asset
+  Hash128: ae953a658a1adb42854126731d2fad0e
+
+texture/character/01_heroine/heroine_photo_utagai.asset
+  Hash128: 1ebebf9bf5baa5b1fea502b2c8ba84f9
+
+texture/character/01_heroine/heroine_photo_warai.asset
+  Hash128: 8d8fee99b8667d6ad22d489146c2eddb
+
+texture/character/01_heroine/heroine_rich_350.asset
+  Hash128: 8ee0a1e5fdfad1110aa5d129ba0100ac
+
+texture/character/01_heroine/heroine_rich_350_akirame.asset
+  Hash128: 3bf3fc8f6c212fca2caf9872c5f2e42d
+
+texture/character/01_heroine/heroine_rich_350_bisho.asset
+  Hash128: 1d531318b5c44843b10a0d73b017188c
+
+texture/character/01_heroine/heroine_rich_350_dere.asset
+  Hash128: 4cd70354519a9139579bb0dce0dbe6f6
+
+texture/character/01_heroine/heroine_rich_350_egao.asset
+  Hash128: 1eab271cccc1d2904317e4fa49924bbd
+
+texture/character/01_heroine/heroine_rich_350_fuee.asset
+  Hash128: 1949d2860f10b7a969de437bc62f6751
+
+texture/character/01_heroine/heroine_rich_350_fumei.asset
+  Hash128: 599c16c293250762f90f6af4f293d9e3
+
+texture/character/01_heroine/heroine_rich_350_gimon.asset
+  Hash128: 76864070219ce2bd28f8cf8a776e29cd
+
+texture/character/01_heroine/heroine_rich_350_goukyu.asset
+  Hash128: 41c59f44daa40614a72802fc10685ee4
+
+texture/character/01_heroine/heroine_rich_350_hakike.asset
+  Hash128: 689728555fd3008a8a44d4d25d48611b
+
+texture/character/01_heroine/heroine_rich_350_hanikami.asset
+  Hash128: c8848e2d06cab4e30da13e9829170f54
+
+texture/character/01_heroine/heroine_rich_350_hazirai.asset
+  Hash128: 0e6d122b9fd88f8737d7e8fa28745ec0
+
+texture/character/01_heroine/heroine_rich_350_kanashimi.asset
+  Hash128: 7d1bb8a32e50dcdd0736f62661c714f0
+
+texture/character/01_heroine/heroine_rich_350_kyoton.asset
+  Hash128: 8935928656ad5e0e96029ea4fd5fd16c
+
+texture/character/01_heroine/heroine_rich_350_mu.asset
+  Hash128: f42866f3b744085c7304c9ec2abc5675
+
+texture/character/01_heroine/heroine_rich_350_naki.asset
+  Hash128: 845252402400b431398509a7cf4edce2
+
+texture/character/01_heroine/heroine_rich_350_namidame.asset
+  Hash128: f9c71de29818a5cd47ef2b1bc02b2292
+
+texture/character/01_heroine/heroine_rich_350_odoroki.asset
+  Hash128: 85c0661494e1a7bce8ac610281c0fba8
+
+texture/character/01_heroine/heroine_rich_350_tsunnaki.asset
+  Hash128: da1d6c97ac5e1a064a9099d309b85cd2
+
+texture/character/01_heroine/heroine_rich_350_tun.asset
+  Hash128: c9598aef11c3bd27ad13ae4a6de101ef
+
+texture/character/01_heroine/heroine_rich_350_warai.asset
+  Hash128: 1605278756719fe017a5121ab60323cd
+
+texture/character/01_heroine/heroine_rich_photo.asset
+  Hash128: 95d09ead2b11da8c096b9042f76086d5
+
+texture/character/01_heroine/heroine_rich_photo_akirame.asset
+  Hash128: 9d0cfee19e24644615ad07cb22ca48b3
+
+texture/character/01_heroine/heroine_rich_photo_bisho.asset
+  Hash128: e4955fe96e5b84e24fdc5fc9213ece05
+
+texture/character/01_heroine/heroine_rich_photo_dere.asset
+  Hash128: 6a90d384999c237b6e0aae1ff1b7a62f
+
+texture/character/01_heroine/heroine_rich_photo_egao.asset
+  Hash128: 73704b686b3ffb6af07ca818cc90a522
+
+texture/character/01_heroine/heroine_rich_photo_fuee.asset
+  Hash128: 1ecb1edc018f680da15595a52eac70c8
+
+texture/character/01_heroine/heroine_rich_photo_fumei.asset
+  Hash128: ed3b2dcd1552efad1905027b02a28769
+
+texture/character/01_heroine/heroine_rich_photo_gimon.asset
+  Hash128: c1c1fede0c088ec2e3c3138f2a9f4fdc
+
+texture/character/01_heroine/heroine_rich_photo_goukyu.asset
+  Hash128: fdba39c780892639b5f958fa0bd225a5
+
+texture/character/01_heroine/heroine_rich_photo_hakike.asset
+  Hash128: e8f0057c320a866b8d9034e684e6f326
+
+texture/character/01_heroine/heroine_rich_photo_hanikami.asset
+  Hash128: 7582f2e40772f712ed12c257dd28d8ce
+
+texture/character/01_heroine/heroine_rich_photo_hazirai.asset
+  Hash128: f1f0b759ce3f7b91e6c80c3b5bcb04ab
+
+texture/character/01_heroine/heroine_rich_photo_kanashimi.asset
+  Hash128: 5f3829f0a269127141639133fbeb7349
+
+texture/character/01_heroine/heroine_rich_photo_kyoton.asset
+  Hash128: ab5d04a5206bf0c11e45a31b31f457be
+
+texture/character/01_heroine/heroine_rich_photo_mu.asset
+  Hash128: b34ff8a4309696695b1e048df7281ca8
+
+texture/character/01_heroine/heroine_rich_photo_naki.asset
+  Hash128: 49db9664e2a2a7cc65b1790ef0e062da
+
+texture/character/01_heroine/heroine_rich_photo_namidame.asset
+  Hash128: 2b42ef6c79db351642ed0701daff7d40
+
+texture/character/01_heroine/heroine_rich_photo_odoroki.asset
+  Hash128: 198b3ccfd495b361e10b214c5844cf8b
+
+texture/character/01_heroine/heroine_rich_photo_tsunnaki.asset
+  Hash128: de52f73d9f6ae5b208e1a53d8ae8ff51
+
+texture/character/01_heroine/heroine_rich_photo_tun.asset
+  Hash128: a87de153ba5ec48e8b645c55cc1ed927
+
+texture/character/01_heroine/heroine_rich_photo_warai.asset
+  Hash128: f71fec8f814ca066e675487d15c4b6ed
+
+texture/character/01_heroine/heroine_sekiwan_350.asset
+  Hash128: f1027586c98633839c076fdd761568ee
+
+texture/character/01_heroine/heroine_sekiwan_350_akirame.asset
+  Hash128: d338253c8a5734cd8658667953614c2f
+
+texture/character/01_heroine/heroine_sekiwan_350_akubi.asset
+  Hash128: 81f48483d59239d3282388c3fdc25a4a
+
+texture/character/01_heroine/heroine_sekiwan_350_bisho.asset
+  Hash128: dd5219ae74c951b092a55839fb4bcf01
+
+texture/character/01_heroine/heroine_sekiwan_350_bouga.asset
+  Hash128: 725b29c41ddd9c2f484d150130540ecc
+
+texture/character/01_heroine/heroine_sekiwan_350_dere.asset
+  Hash128: 95ef145a43109548063434d3664f49f9
+
+texture/character/01_heroine/heroine_sekiwan_350_egao.asset
+  Hash128: 67b99fcf560b62746fc5a6f2b5521c1c
+
+texture/character/01_heroine/heroine_sekiwan_350_fuee.asset
+  Hash128: 7f635b4f1a4421e558b81769c2f86ed5
+
+texture/character/01_heroine/heroine_sekiwan_350_fumei.asset
+  Hash128: 45eb888f9bf2ac2a325eaf2224137cc6
+
+texture/character/01_heroine/heroine_sekiwan_350_gimon.asset
+  Hash128: 78eff3de099809a325b149762429c660
+
+texture/character/01_heroine/heroine_sekiwan_350_goukyu.asset
+  Hash128: 158b077c254ccba0368a82272cb69ad4
+
+texture/character/01_heroine/heroine_sekiwan_350_hakike.asset
+  Hash128: 543b6054c639b20306669ee9664d520e
+
+texture/character/01_heroine/heroine_sekiwan_350_hanikami.asset
+  Hash128: 3bc9806934e6520eb638e327cba5f359
+
+texture/character/01_heroine/heroine_sekiwan_350_hazirai.asset
+  Hash128: 9cb397bdde08a314e19f6b8399d1f2a1
+
+texture/character/01_heroine/heroine_sekiwan_350_ikari.asset
+  Hash128: 4dd583aef215027aceb16e19e2fbd76d
+
+texture/character/01_heroine/heroine_sekiwan_350_kanashimi.asset
+  Hash128: 33dfda90b14742b4303643cc75b0d3aa
+
+texture/character/01_heroine/heroine_sekiwan_350_kurushisou.asset
+  Hash128: 64642a4b506c206c1df1c4d6d980dbb4
+
+texture/character/01_heroine/heroine_sekiwan_350_kuyashii.asset
+  Hash128: 8f1f78323b13131f464ca467b645369b
+
+texture/character/01_heroine/heroine_sekiwan_350_kuyashinaki.asset
+  Hash128: e2db41a97d1404f12eae329500a4b351
+
+texture/character/01_heroine/heroine_sekiwan_350_kyoton.asset
+  Hash128: 8bc7673d8c503f0b970fba87962a5090
+
+texture/character/01_heroine/heroine_sekiwan_350_mu.asset
+  Hash128: 13eec4631b41574287f47ff23aa8f32f
+
+texture/character/01_heroine/heroine_sekiwan_350_naki.asset
+  Hash128: 7bcd50e285043f1c982e8d7b34745814
+
+texture/character/01_heroine/heroine_sekiwan_350_namidame.asset
+  Hash128: ffd86c89a3ca68b8fb4e6fa518077e31
+
+texture/character/01_heroine/heroine_sekiwan_350_odoroki.asset
+  Hash128: 2e62caf296d3f404680872d11b759407
+
+texture/character/01_heroine/heroine_sekiwan_350_tun.asset
+  Hash128: 886ab8494f4bd52b46747a0d9ca9e19a
+
+texture/character/01_heroine/heroine_sekiwan_350_tunnaki.asset
+  Hash128: 48aef094a01260730983cfdead4a24fd
+
+texture/character/01_heroine/heroine_sekiwan_350_utagai.asset
+  Hash128: 4242bd536dfeb17d986f177b7839f910
+
+texture/character/01_heroine/heroine_sekiwan_350_warai.asset
+  Hash128: 135ff1232a2db0b836fdcc3c3821b742
+
+texture/character/01_heroine/syoujo_all.asset
+  Hash128: afdacbca3c1c37ad7cbaad3120e6eede
+
+texture/character/02_pacifico/pacifico_350.asset
+  Hash128: e1851e155953a59c1daaf2e45fa027d4
+
+texture/character/02_pacifico/pacifico_350_hohoemu.asset
+  Hash128: c5421ccd81ef3949984a46687f62291c
+
+texture/character/02_pacifico/pacifico_350_ikari.asset
+  Hash128: 51c09b0f4bfe97e2c7600b527ff21a3a
+
+texture/character/02_pacifico/pacifico_350_konwaku.asset
+  Hash128: 28056724118faf9e57426e1e0e9d42f1
+
+texture/character/02_pacifico/pacifico_460.asset
+  Hash128: d914192d94d2fcc10e35cf94ef66327a
+
+texture/character/02_pacifico/pacifico_460_bouga.asset
+  Hash128: 2cf816ea2b1e4ea8b4c1e69dddd94fdf
+
+texture/character/02_pacifico/pacifico_460_hohoemu.asset
+  Hash128: ee23db5792b4074296b767b2e1986bcf
+
+texture/character/02_pacifico/pacifico_460_ikari.asset
+  Hash128: 915ad09a6b68b54cfe76d47dff9a6a9b
+
+texture/character/02_pacifico/pacifico_460_konwaku.asset
+  Hash128: 0266567b653d2b8b168031837d4c15c7
+
+texture/character/02_pacifico/pacifico_all.asset
+  Hash128: 5e19d96f3727755385bb6364a1d756df
+
+texture/character/02_pacifico/pacifico_photo.asset
+  Hash128: 55b1738dddee5b88bea8671a44cf088c
+
+texture/character/02_pacifico/pacifico_photo_bouga.asset
+  Hash128: 70c3c74e06f56f6d05eff50325a8fc37
+
+texture/character/02_pacifico/pacifico_photo_hohoemu.asset
+  Hash128: 21d4108e565864c7d7ebd34208dab347
+
+texture/character/02_pacifico/pacifico_photo_ikari.asset
+  Hash128: 6bfee2540f06cbf000c48d0aa4f358ca
+
+texture/character/02_pacifico/pacifico_photo_konwaku.asset
+  Hash128: b256c1ad2d77f4464b9a7379d966b8c2
+
+texture/character/03_hayashi/hayashi_350.asset
+  Hash128: 892efc401a33a7ea8bed1dd574da1db4
+
+texture/character/03_hayashi/hayashi_460.asset
+  Hash128: 62c91b89d8424436502c14a9f96c913f
+
+texture/character/03_hayashi/hayashi_all.asset
+  Hash128: cbad35181a30611e567aa479852b0417
+
+texture/character/03_hayashi/hayashi_damege_350.asset
+  Hash128: 1bdb3251dbd38968f7e5d1b196e7129b
+
+texture/character/03_hayashi/hayashi_photo.asset
+  Hash128: 62f58e718d7a0cef1ae75ea15843e321
+
+texture/character/04_jujirou/jujirou_350.asset
+  Hash128: b4b60fd7017646b320801eea33cf3a4e
+
+texture/character/04_jujirou/jujirou_350_ando.asset
+  Hash128: 9142a2b54bc7e5a02bade7eedbe84d8b
+
+texture/character/04_jujirou/jujirou_350_aseri.asset
+  Hash128: 628fbc019e5eae4fa11fdc14fbda314c
+
+texture/character/04_jujirou/jujirou_350_bisho.asset
+  Hash128: f3f0f311577c611a7517e11ead4a868d
+
+texture/character/04_jujirou/jujirou_350_bouga.asset
+  Hash128: b4fb2e6e8114e801578f48114905c87a
+
+texture/character/04_jujirou/jujirou_350_ibukashimu.asset
+  Hash128: b40a55d3ea9f48a8c2a26f153aa419ca
+
+texture/character/04_jujirou/jujirou_350_ikari.asset
+  Hash128: 90fb2193d6385af54d34c18104c98b0c
+
+texture/character/04_jujirou/jujirou_350_keikoku.asset
+  Hash128: 0069608a589f3fd53d5c2117dce71ef2
+
+texture/character/04_jujirou/jujirou_350_kibou.asset
+  Hash128: 0553e0998dcd2a8d2d708a3886e2265e
+
+texture/character/04_jujirou/jujirou_350_metoji.asset
+  Hash128: 61ff83f9c4b292b4dbb575179dba9b4f
+
+texture/character/04_jujirou/jujirou_350_odoroki.asset
+  Hash128: 7c503ba1c3862e1fe1f2fb792aa0dd3a
+
+texture/character/04_jujirou/jujirou_350_shinpai.asset
+  Hash128: 6cc9f67e6f5abe6703fa628ac5c2e5cd
+
+texture/character/04_jujirou/jujirou_350_shitauchi.asset
+  Hash128: 7748ca4315debcdbdac554ffe27e54a8
+
+texture/character/04_jujirou/jujirou_all.asset
+  Hash128: da056f479c00aec9b20f352d92fb0ece
+
+texture/character/04_jujirou/jujirou_chase_350.asset
+  Hash128: c407239f08d22a3e3f598c1999685528
+
+texture/character/04_jujirou/jujirou_chase_350_keikai.asset
+  Hash128: c6f38d07c02bc55c85f71137059dadaa
+
+texture/character/04_jujirou/jujirou_chase_photo.asset
+  Hash128: 9cbfd83d58fb3d926754e9b49476f9a3
+
+texture/character/04_jujirou/jujirou_chase_photo_keikai.asset
+  Hash128: 031df252d3e24e1b563359cfe0232a73
+
+texture/character/04_jujirou/jujirou_chse_all.asset
+  Hash128: f3acb3f3f3a65f1442b1e86e81e4f789
+
+texture/character/04_jujirou/jujirou_kill.asset
+  Hash128: 7d5b1cde19e212274602cacccf9809ae
+
+texture/character/04_jujirou/jujirou_kill_350.asset
+  Hash128: 05e2b0c138592c9545edf7b7eecdb54d
+
+texture/character/04_jujirou/jujirou_kill_photo.asset
+  Hash128: 6a0a3020055f367f4ad010cd2209414c
+
+texture/character/04_jujirou/jujirou_photo.asset
+  Hash128: 45c65dd57b8ea9172b38bed5842da196
+
+texture/character/04_jujirou/jujirou_photo_ando.asset
+  Hash128: fcd1069b34eeec744776ffa94a213f8e
+
+texture/character/04_jujirou/jujirou_photo_aseri.asset
+  Hash128: 91b09f8927374377fed1c69cd6c0d1ea
+
+texture/character/04_jujirou/jujirou_photo_bisho.asset
+  Hash128: 322e55bf23f0ccc7ce653444960482d5
+
+texture/character/04_jujirou/jujirou_photo_bouga.asset
+  Hash128: 3b0208bbde19d366e447ce7ed5a53742
+
+texture/character/04_jujirou/jujirou_photo_ibukashimu.asset
+  Hash128: 61ac60e55fb9b2d6e0d52d693431209e
+
+texture/character/04_jujirou/jujirou_photo_ikari.asset
+  Hash128: a29c044654af48d29bfcee4ddacbfc30
+
+texture/character/04_jujirou/jujirou_photo_keikoku.asset
+  Hash128: bc479d2efd27c72d3ed6b5bc940d7dd1
+
+texture/character/04_jujirou/jujirou_photo_kibou.asset
+  Hash128: 5967a2ec054d597b998820a7e6d3ed10
+
+texture/character/04_jujirou/jujirou_photo_metoji.asset
+  Hash128: 2437eb343f984ff9744454cd988db67b
+
+texture/character/04_jujirou/jujirou_photo_odoroki.asset
+  Hash128: aab534063d340b05c3be6a905d6b8920
+
+texture/character/04_jujirou/jujirou_photo_shinpai.asset
+  Hash128: 61997aa780d0a8346678f5ff9a79b06b
+
+texture/character/04_jujirou/jujirou_photo_shitauchi.asset
+  Hash128: edf29b76334224bf7a2f530d8c59450e
+
+texture/character/10_yoshiko/yoshiko_350.asset
+  Hash128: 495590f10c4af3b6ed80dc166e9f3e10
+
+texture/character/10_yoshiko/yoshiko_350_awaremi.asset
+  Hash128: 436bdff6f54d87a7d91f3e3874f50c6f
+
+texture/character/10_yoshiko/yoshiko_350_kanashimi.asset
+  Hash128: 3566452b245431fd6c1ea9f8b90db36f
+
+texture/character/10_yoshiko/yoshiko_350_okoru.asset
+  Hash128: eb1025dddc81a46e2178d86976f6a9cd
+
+texture/character/10_yoshiko/yoshiko_350_silhouette.asset
+  Hash128: c97993d32cc2a76c1f38d7a63472f284
+
+texture/character/10_yoshiko/yoshiko_350_warainaki.asset
+  Hash128: 2670006e070455b6967ff502de9815a3
+
+texture/character/10_yoshiko/yoshiko_350_warau.asset
+  Hash128: 6cb735a747b6c9bb17aef5e8ec941936
+
+texture/character/10_yoshiko/yoshiko_460.asset
+  Hash128: d136248d98f767a3d03665d8a0be6f7c
+
+texture/character/10_yoshiko/yoshiko_460_awaremi.asset
+  Hash128: dbc5458206c77a7b3f76bc09e27317b7
+
+texture/character/10_yoshiko/yoshiko_460_bouga.asset
+  Hash128: 5c09c5ac12defa2ce754821fa818ecb9
+
+texture/character/10_yoshiko/yoshiko_460_kanashimi.asset
+  Hash128: 00d153289a09909030120e4248fcdc14
+
+texture/character/10_yoshiko/yoshiko_460_okoru.asset
+  Hash128: 84ba8cac182167d0417bb2a719c17550
+
+texture/character/10_yoshiko/yoshiko_460_warau.asset
+  Hash128: b0a91df4f33d71b000f0d256567dc06b
+
+texture/character/10_yoshiko/yoshiko_photo.asset
+  Hash128: 95bc3806a5b215d413d4f7983094d577
+
+texture/character/10_yoshiko/yoshiko_photo_awaremi.asset
+  Hash128: 67560ba38bcf6e1724c770e3d0c23c30
+
+texture/character/10_yoshiko/yoshiko_photo_bouga.asset
+  Hash128: 54330651e9a16d8631c12c6c7aaaf832
+
+texture/character/10_yoshiko/yoshiko_photo_kanashimi.asset
+  Hash128: a33bcf8c7bc78b16d583cc337dbdad84
+
+texture/character/10_yoshiko/yoshiko_photo_okoru.asset
+  Hash128: bff8da8acd0805efebb4d49ecc5769ff
+
+texture/character/10_yoshiko/yoshiko_photo_silhouette.asset
+  Hash128: ca9ae39137097d8c325f28e890be1f94
+
+texture/character/10_yoshiko/yoshiko_photo_warainaki.asset
+  Hash128: 209a8f9936ee95b6c1e4caf8b1721710
+
+texture/character/10_yoshiko/yoshiko_photo_warau.asset
+  Hash128: 4dda37a2993387d4e439664c1bbc9cbf
+
+texture/character/10_yoshiko/yosiko_all.asset
+  Hash128: 1c61db9175609351ebdcc8e107a3c7d6
+
+texture/character/11_tarou/taro_all.asset
+  Hash128: 24ab6db1ab494a66da5635371d28264c
+
+texture/character/11_tarou/tarou_350.asset
+  Hash128: 08d3d3e9691826d0143229a1b0109cca
+
+texture/character/11_tarou/tarou_350_okorigimi.asset
+  Hash128: 4851d069c2265713da497880386b4159
+
+texture/character/11_tarou/tarou_350_warai.asset
+  Hash128: 2eeab456848cd661f775cfb36914c9c6
+
+texture/character/11_tarou/tarou_460.asset
+  Hash128: 4276d4d8f1d797baf3deb58fe685ff0c
+
+texture/character/11_tarou/tarou_byte_350.asset
+  Hash128: 39da3e435b475c07fc53a70ec763a7ea
+
+texture/character/11_tarou/tarou_byte_350_okorigimi.asset
+  Hash128: 71778adcf4b604c3dc683fab4e35ff82
+
+texture/character/11_tarou/tarou_byte_350_warai.asset
+  Hash128: 4895602d474de8179a8ea4b0d625b8b6
+
+texture/character/11_tarou/tarou_byte_photo.asset
+  Hash128: 6ab062d86af1951e4b09301cb0316ffe
+
+texture/character/11_tarou/tarou_byte_photo_okorigimi.asset
+  Hash128: 76761350ad4d723136af84e8bce5ba39
+
+texture/character/11_tarou/tarou_byte_photo_warai.asset
+  Hash128: acf80fc88310d55175c113715fd6aca9
+
+texture/character/11_tarou/tarou_hs_350.asset
+  Hash128: 5cf342c5b66d3c2788370673bf0fa6a0
+
+texture/character/11_tarou/tarou_hs_350_okorigimi.asset
+  Hash128: 9be85c6d9becf52e97ab0495604951b6
+
+texture/character/11_tarou/tarou_hs_350_warai.asset
+  Hash128: bb37f2fed8b2c2e643a636fc63f37bad
+
+texture/character/11_tarou/tarou_hs_photo.asset
+  Hash128: 4e3878c065afb89f5d9bfd2f2513ad6c
+
+texture/character/11_tarou/tarou_hs_photo_okorigimi.asset
+  Hash128: 7e92194d94376cd78c540c3104d9ca54
+
+texture/character/11_tarou/tarou_hs_photo_warai.asset
+  Hash128: 8cd6123f19967107d7d1ca354c1df2ef
+
+texture/character/11_tarou/tarou_photo.asset
+  Hash128: cc08998858e35c74ad1d32fd61e88f74
+
+texture/character/11_tarou/tarou_photo_okorigimi.asset
+  Hash128: c0b3d10ad3f41698870fd8b5e117ca71
+
+texture/character/11_tarou/tarou_photo_warai.asset
+  Hash128: cbe3d49cffd2f156f757d75ce3753efe
+
+texture/character/120_shirou/shiro_all.asset
+  Hash128: 70673c29a9f0b274118677dba978a065
+
+texture/character/120_shirou/shirou_350.asset
+  Hash128: b8f8b9e96b6a4871bafd1636d87a5990
+
+texture/character/120_shirou/shirou_350_aseri.asset
+  Hash128: 9573dc70c1ad1e7a4e9ccc2ae8f878d8
+
+texture/character/120_shirou/shirou_350_komari.asset
+  Hash128: e7c0e01843b67f992647d5643e5cc6e2
+
+texture/character/120_shirou/shirou_350_metoji.asset
+  Hash128: b93ff888b9bade9d3713e3d40db6901a
+
+texture/character/120_shirou/shirou_460.asset
+  Hash128: f0325235c1704895e428761abaaa136f
+
+texture/character/120_shirou/shirou_460_aseri.asset
+  Hash128: 04a9c5899497a9f79f74b45fdb9282ce
+
+texture/character/120_shirou/shirou_460_komari.asset
+  Hash128: 8d514ee422c8aa9f21b6864cf7449c90
+
+texture/character/120_shirou/shirou_460_metoji.asset
+  Hash128: b2f7f83cbaba2008b90ccaf1bc6721d2
+
+texture/character/120_shirou/shirou_photo.asset
+  Hash128: 5ebfb613627187cae25ebf39350a61f4
+
+texture/character/120_shirou/shirou_photo_aseri.asset
+  Hash128: 5a5b31b1380f4b673f0cca7988e49556
+
+texture/character/120_shirou/shirou_photo_komari.asset
+  Hash128: 5c2185f81b4179243327a919f5c50ece
+
+texture/character/120_shirou/shirou_photo_metoji.asset
+  Hash128: 0b2814419a4b811e1f90107f21354a03
+
+texture/character/121_angela/angela_350.asset
+  Hash128: a5e3536329aecb66d877dc0709365d05
+
+texture/character/121_angela/angela_350_akubi.asset
+  Hash128: 7ef59186bb24a9758b366752ed3ba0d8
+
+texture/character/121_angela/angela_350_aseri.asset
+  Hash128: c3d15a2ee51f7f521bdf223637907c2e
+
+texture/character/121_angela/angela_350_bikkuri.asset
+  Hash128: 7bc5767d19f6bf98582f5b44ffcf1dc8
+
+texture/character/121_angela/angela_350_bisho.asset
+  Hash128: 300f8d12e667400aeeeb9282fbb6521d
+
+texture/character/121_angela/angela_350_gimon.asset
+  Hash128: e455d08a02881b95504d97d3ad252cfa
+
+texture/character/121_angela/angela_350_haji.asset
+  Hash128: d1d7af216f157e67321d771811c18aa8
+
+texture/character/121_angela/angela_350_ikari.asset
+  Hash128: 294b39362b5930ded08ecef31eb7100c
+
+texture/character/121_angela/angela_350_joudan.asset
+  Hash128: f587046f673253d246858585ffe7e8dd
+
+texture/character/121_angela/angela_350_kanashimi.asset
+  Hash128: 5d6e175bc2e9a16a2e83d5cbf541dc57
+
+texture/character/121_angela/angela_350_kitai.asset
+  Hash128: bac0e87e9f9dfc41aef1ccb6affbd1a8
+
+texture/character/121_angela/angela_350_kyoton.asset
+  Hash128: 5b8c49ad9c2962e8b799eab6a8a9fb45
+
+texture/character/121_angela/angela_350_namidame.asset
+  Hash128: 379368804507361b8f946b610774f468
+
+texture/character/121_angela/angela_350_utagai.asset
+  Hash128: 36b79cf30f66ca65fa37902469742ea7
+
+texture/character/121_angela/angela_350_warai.asset
+  Hash128: 55fa1b5f05d828616819dac74af64cca
+
+texture/character/121_angela/angela_all.asset
+  Hash128: 1144ca7791960155f594a0b75de323cf
+
+texture/character/121_angela/angela_photo.asset
+  Hash128: bfdd1bb23478ba763f964fcf17871d1f
+
+texture/character/121_angela/angela_photo_akubi.asset
+  Hash128: 5e21fdc72cde0f577eff4a26fbc57d90
+
+texture/character/121_angela/angela_photo_aseri.asset
+  Hash128: 35667cba3956f4d77b264177d9a30b7c
+
+texture/character/121_angela/angela_photo_bikkuri.asset
+  Hash128: fe4ad898aa4ad392a859fa1f989b5e4b
+
+texture/character/121_angela/angela_photo_bisho.asset
+  Hash128: 2d6a95685a60183455d8da278be5a202
+
+texture/character/121_angela/angela_photo_gimon.asset
+  Hash128: 7c9f5747473dbb8c821be4fd68fac6d1
+
+texture/character/121_angela/angela_photo_haji.asset
+  Hash128: 8c8128db3742d672710dec2c2658d643
+
+texture/character/121_angela/angela_photo_hohoemi.asset
+  Hash128: 9ca6aa9c7de499d6b3d64d66c7c65b84
+
+texture/character/121_angela/angela_photo_ikari.asset
+  Hash128: 44123ce99559550543f03719c7b81039
+
+texture/character/121_angela/angela_photo_joudan.asset
+  Hash128: 269a4b5e61bc1a58ac7dd7bc7c3a66ae
+
+texture/character/121_angela/angela_photo_kanashimi.asset
+  Hash128: 94816de0af99ade7f63308e641e98b3a
+
+texture/character/121_angela/angela_photo_kitai.asset
+  Hash128: 247ac9cefbf007515f50fa5230e46fb6
+
+texture/character/121_angela/angela_photo_kyoton.asset
+  Hash128: 6d6d5c878fdcca41c969f5902797322c
+
+texture/character/121_angela/angela_photo_namidame.asset
+  Hash128: d884dafaa894232ac96a28f7e1a6ecb5
+
+texture/character/121_angela/angela_photo_utagai.asset
+  Hash128: 8b1d90eb578d85d8d4bf6dcbd431888e
+
+texture/character/121_angela/angela_photo_warai.asset
+  Hash128: 7be08b2a9e4d1426656be8c799d52a1f
+
+texture/character/122_hanae/hanae_350.asset
+  Hash128: f99bf4d93759ced5b61cda464d95276b
+
+texture/character/122_hanae/hanae_350_burikko.asset
+  Hash128: 883a08462bf86e32f2869080eaba35e5
+
+texture/character/122_hanae/hanae_350_fukigen.asset
+  Hash128: 6fcfe016ecc3a79d108ae80cc44cdaaa
+
+texture/character/122_hanae/hanae_350_kire.asset
+  Hash128: efe8f7819210f533867b1c6feae365dc
+
+texture/character/122_hanae/hanae_350_kiresakebi.asset
+  Hash128: cf60cddbe483136d94ad0287bb111677
+
+texture/character/122_hanae/hanae_350_kiresakebu.asset
+  Hash128: 59d1ba349718f90e5f4bf689e1aed56b
+
+texture/character/122_hanae/hanae_350_sakebi.asset
+  Hash128: 3e7da4967ba24690ebe326b5adac4e04
+
+texture/character/122_hanae/hanae_350_sakebu.asset
+  Hash128: b9a3b4e776d24bfebcf1075971a23ef6
+
+texture/character/122_hanae/hanae_350_sitauchi.asset
+  Hash128: 20574c43346d48bdfb0c04c95f12eb00
+
+texture/character/122_hanae/hanae_350_suimin.asset
+  Hash128: 565b60d8339d0a91f1d1af583948216b
+
+texture/character/122_hanae/hanae_350_yareyare.asset
+  Hash128: e6b506a0db21b344531cc97f270a5cc3
+
+texture/character/122_hanae/hanae_all.asset
+  Hash128: faebc8cae0db3e502caf893ff5e114fb
+
+texture/character/122_hanae/hanae_photo.asset
+  Hash128: e100a30d36bbc8a5aea88252a8af4976
+
+texture/character/122_hanae/hanae_photo_burikko.asset
+  Hash128: 007ddf33c3cf771a505d52dacf5611d1
+
+texture/character/122_hanae/hanae_photo_fukigen.asset
+  Hash128: b558c32a49d6d897cd70959d791c91f2
+
+texture/character/122_hanae/hanae_photo_kire.asset
+  Hash128: fc148390b4ed6a7136e3fed176651387
+
+texture/character/122_hanae/hanae_photo_kiresakebi.asset
+  Hash128: 0f67719727eacbeac858683e0c43515c
+
+texture/character/122_hanae/hanae_photo_sakebi.asset
+  Hash128: 041ad1435ac0ac8fddc5d96456783dba
+
+texture/character/122_hanae/hanae_photo_sitauchi.asset
+  Hash128: 572b3847acda9a2924e6a210da4fe508
+
+texture/character/122_hanae/hanae_photo_suimin.asset
+  Hash128: 57e55f823f7e806998e8ffe30f59edba
+
+texture/character/122_hanae/hanae_photo_yareyare.asset
+  Hash128: 922b15e88df9099d2920e185b7cd49d7
+
+texture/character/123_hanami/hanami_350.asset
+  Hash128: d353079f3e9a082109df6fb05bd229b2
+
+texture/character/123_hanami/hanami_350_hurue.asset
+  Hash128: 909c4affeba87ab25c08893a11a1fd84
+
+texture/character/123_hanami/hanami_350_kizuki.asset
+  Hash128: f32439d565ea91f0619e71bf81d07e71
+
+texture/character/123_hanami/hanami_350_naki.asset
+  Hash128: 32f318c60fb412fa70b58fd4502c1440
+
+texture/character/123_hanami/hanami_350_nemui.asset
+  Hash128: db28dff68ad926abf1171f186e9c0345
+
+texture/character/123_hanami/hanami_350_odoroki.asset
+  Hash128: 9741f65f3256ab41a5e13008d37a2498
+
+texture/character/123_hanami/hanami_350_sinpai.asset
+  Hash128: 1dc80d9b13f4b7a17c259c590b210c4f
+
+texture/character/123_hanami/hanami_350_suimin.asset
+  Hash128: b3b21ef2edb283cd8e1fc2ed54666894
+
+texture/character/123_hanami/hanami_350_warai.asset
+  Hash128: 85256ffaa7fd7213544ae0fccf9fe785
+
+texture/character/123_hanami/hanami_all.asset
+  Hash128: f97e50b75254483afa5f271125157bcb
+
+texture/character/123_hanami/hanami_photo.asset
+  Hash128: 64cfff402d30017fd02b7270f245d61e
+
+texture/character/123_hanami/hanami_photo_hurue.asset
+  Hash128: 1adf0a730828700eac98e02645e4259a
+
+texture/character/123_hanami/hanami_photo_kizuki.asset
+  Hash128: a15ae94a53539e800fd7130b32b67ae0
+
+texture/character/123_hanami/hanami_photo_naki.asset
+  Hash128: 27746328cfa49e4f144457314944d259
+
+texture/character/123_hanami/hanami_photo_nemui.asset
+  Hash128: b7f1db08105149c56cc89ca3025c67a0
+
+texture/character/123_hanami/hanami_photo_odoroki.asset
+  Hash128: 7eda419d00bc9251bc0a19e94ad25203
+
+texture/character/123_hanami/hanami_photo_sinpai.asset
+  Hash128: 395fee0416231cd94a53731e2afe809e
+
+texture/character/123_hanami/hanami_photo_suimin.asset
+  Hash128: 118a2fd6518a6dad4fb4dc7b6af7f5ae
+
+texture/character/123_hanami/hanami_photo_warai.asset
+  Hash128: 1976f33ae6d6bf095d7ad89f8379ff8d
+
+texture/character/124_kurou/kurou_350.asset
+  Hash128: f5a0f35a50200d3099e0189e8132c3a9
+
+texture/character/124_kurou/kurou_350_bisho.asset
+  Hash128: 9985b261492da036a13fb20ca2752b14
+
+texture/character/124_kurou/kurou_350_fukai.asset
+  Hash128: 407b1f3e55f5a884eb0274d3e7d4740b
+
+texture/character/124_kurou/kurou_350_kaiko.asset
+  Hash128: 0d30f4166643444ab772a2f2e15e0082
+
+texture/character/124_kurou/kurou_350_konwaku.asset
+  Hash128: 3f8c8ce953d91e45c9f58efad38ed94d
+
+texture/character/124_kurou/kurou_350_odoroki.asset
+  Hash128: f3541967010dde83c5a19d5673094c0c
+
+texture/character/124_kurou/kurou_350_shikame.asset
+  Hash128: 84b6d20f306d910052a0280207fd848a
+
+texture/character/124_kurou/kurou_350_tansoku.asset
+  Hash128: 071da2966901eaac6af16193a3cf6943
+
+texture/character/124_kurou/kurou_350_warai.asset
+  Hash128: 4b7bf184149017b781a0767042a63c69
+
+texture/character/124_kurou/kurou_all.asset
+  Hash128: bca64b6cad1ef0108c15f85bd2909414
+
+texture/character/124_kurou/kurou_photo.asset
+  Hash128: aa25d004a58b14dae76a1908c6424fb8
+
+texture/character/124_kurou/kurou_photo_bisho.asset
+  Hash128: 4208d8d46cddf824f6df20679d16b1f6
+
+texture/character/124_kurou/kurou_photo_fukai.asset
+  Hash128: f27784f7a6d228ba8615750350f9cf9f
+
+texture/character/124_kurou/kurou_photo_kaiko.asset
+  Hash128: a845beaa05582311e139cdd414490cd4
+
+texture/character/124_kurou/kurou_photo_konwaku.asset
+  Hash128: 31539dd48be897ef86e097a7a903c1ce
+
+texture/character/124_kurou/kurou_photo_odoroki.asset
+  Hash128: 689166710fc2ba3e37b437a5dd6c234c
+
+texture/character/124_kurou/kurou_photo_shikame.asset
+  Hash128: e294c60553035f3abb8de60219b3398b
+
+texture/character/124_kurou/kurou_photo_tansoku.asset
+  Hash128: 20ddbcfcca0b35c7d29387bf127ecd63
+
+texture/character/124_kurou/kurou_photo_warai.asset
+  Hash128: d17fba5b8404fcf1a9e341d248652b4a
+
+texture/character/12_hanako/hanako_350.asset
+  Hash128: c116ecd1273b3f7d1dbc7c3b5b54f2c8
+
+texture/character/12_hanako/hanako_350_egao.asset
+  Hash128: 7d36ebff75d7c78bf2a43e37facbcfc7
+
+texture/character/12_hanako/hanako_350_hukure.asset
+  Hash128: fcfe98681edfcab1668c92ebf3427c52
+
+texture/character/12_hanako/hanako_350_sekimen.asset
+  Hash128: 6633ae1d9487bff401a6d99959f4e96d
+
+texture/character/12_hanako/hanako_350_syonbori.asset
+  Hash128: 5c669df5b1abd8849e7392ae8248fd9a
+
+texture/character/12_hanako/hanako_350_yakedo.asset
+  Hash128: 189d877ab1b5947ada2f76b32e9c4e50
+
+texture/character/12_hanako/hanako_350_yakedokakushi.asset
+  Hash128: edbb150f79ff12d5ca9735e2a271707c
+
+texture/character/12_hanako/hanako_350_yakedokakushi_egao.asset
+  Hash128: f1b47fb50f13166b068ed3746715435d
+
+texture/character/12_hanako/hanako_350_yakedokakushi_kawaitaemi.asset
+  Hash128: 18510a7b838a43efbcd6ed16f17b7e5a
+
+texture/character/12_hanako/hanako_350_yakedokakushi_konwaku.asset
+  Hash128: 35bbef8677d2e6d7b5deb33e77a7525b
+
+texture/character/12_hanako/hanako_350_yakedokakushi_naki.asset
+  Hash128: 64379321fe4db7126a3d11716ab7f93b
+
+texture/character/12_hanako/hanako_all.asset
+  Hash128: b9178601e4ffab33a77e8308d02e2239
+
+texture/character/12_hanako/hanako_before_350.asset
+  Hash128: f19b84302d8ac92de435303b14fd92ad
+
+texture/character/12_hanako/hanako_before_460.asset
+  Hash128: 99f3fd1a54aaf4f8aef08f47a575255d
+
+texture/character/12_hanako/hanako_before_photo.asset
+  Hash128: 401c591b79f43b9dab154b835f662883
+
+texture/character/12_hanako/hanako_hs_350.asset
+  Hash128: 3a6a965fabe6ef77d7e0cb394f02e220
+
+texture/character/12_hanako/hanako_hs_350_ando.asset
+  Hash128: 544dd22ed24c5ab537e82ac10b5923b4
+
+texture/character/12_hanako/hanako_hs_350_aseri.asset
+  Hash128: ad1fc05dcf47c98eef62bf600b58ac15
+
+texture/character/12_hanako/hanako_hs_350_egao.asset
+  Hash128: 2217804b134a5714105ac830324721be
+
+texture/character/12_hanako/hanako_hs_350_hukure.asset
+  Hash128: 0f4d7e6587a60a4f064de6176362528a
+
+texture/character/12_hanako/hanako_hs_350_sekimen.asset
+  Hash128: 0134c6f055327012a3a9a1559d975a8e
+
+texture/character/12_hanako/hanako_hs_350_syonbori.asset
+  Hash128: 4b1796b17192d6be0ea0bbe9db646575
+
+texture/character/12_hanako/hanako_hs_photo.asset
+  Hash128: 875359145920dab7629e86d6a30580b9
+
+texture/character/12_hanako/hanako_hs_photo_ando.asset
+  Hash128: fa7f32e9546b95d08df2760dde141a1b
+
+texture/character/12_hanako/hanako_hs_photo_aseri.asset
+  Hash128: 96764e44fd923a29b9b6e62731b76af2
+
+texture/character/12_hanako/hanako_hs_photo_egao.asset
+  Hash128: 10ed10314fb82c9fbc95dc631ce1c42b
+
+texture/character/12_hanako/hanako_hs_photo_hukure.asset
+  Hash128: 53d3e34b3eaf99ccbe1897348e63d80f
+
+texture/character/12_hanako/hanako_hs_photo_sekimen.asset
+  Hash128: 048f19d25d8ffaa44cdd4aab1f07dea8
+
+texture/character/12_hanako/hanako_hs_photo_syonbori.asset
+  Hash128: 90262b5c6f7f93227fa4dfb0bd948959
+
+texture/character/12_hanako/hanako_photo.asset
+  Hash128: 70ddea435f65a6f32daa77bac849729f
+
+texture/character/12_hanako/hanako_photo_egao.asset
+  Hash128: e0361a885cf55c74a0c18c7fa8f45ca1
+
+texture/character/12_hanako/hanako_photo_hukure.asset
+  Hash128: f7b872532806e1162349485073ba16ab
+
+texture/character/12_hanako/hanako_photo_sekimen.asset
+  Hash128: d9f6c9c49f048e63cc0a13b0a7ef8e6d
+
+texture/character/12_hanako/hanako_photo_syonbori.asset
+  Hash128: cfd6519069ce42c19bac5d9114232a2e
+
+texture/character/12_hanako/hanako_photo_yakedo.asset
+  Hash128: 5890ffe6ff67f2704d61e42834d74da5
+
+texture/character/12_hanako/hanako_photo_yakedokakushi.asset
+  Hash128: 7962686ff273e481350138aa79fdf7ca
+
+texture/character/12_hanako/hanako_photo_yakedokakushi_egao.asset
+  Hash128: 642b8e00acaf141177d699ec60650a4c
+
+texture/character/12_hanako/hanako_photo_yakedokakushi_kawaitaemi.asset
+  Hash128: 293437d62cc9b2bfd28bbaa80fef0987
+
+texture/character/12_hanako/hanako_photo_yakedokakushi_konwaku.asset
+  Hash128: ee1acd4723e212c40483363b1402db4a
+
+texture/character/12_hanako/hanako_photo_yakedokakushi_naki.asset
+  Hash128: 868e13228e94e25095393039d24e1d8c
+
+texture/character/140_otogehero/otogehero_special.asset
+  Hash128: 0669e8b12be1c29b212e81be2b636c1d
+
+texture/character/141_otogeheroine/otogeheroine_special.asset
+  Hash128: 974214711cf4c804ccb2d0e93b442275
+
+texture/character/150_keikan/keikan_350.asset
+  Hash128: afec2b0aade30abac177abc845f43bf0
+
+texture/character/150_keikan/keikan_all.asset
+  Hash128: f7a38cd749d03a5245e092ef67ff5e21
+
+texture/character/150_keikan/keikan_photo.asset
+  Hash128: bd1973887ac0331c5600e8e08fc55246
+
+texture/character/200_smartphone/smartphone_350.asset
+  Hash128: 9ffc963608a2f04d011984b79aaa9a3f
+
+texture/character/200_smartphone/smartphone_photo.asset
+  Hash128: 5fcf62f71a2bb66b22f984af2ade1bb5
+
+texture/character/200_smartphone/smartphone_photo.png.asset
+  Hash128: ad1d5d439b238ff1cdc39b4c07fe22a8
+
+texture/character/201_radio/radio_350.asset
+  Hash128: e76364923af11f7a782c0f5f5fc1950d
+
+texture/character/202_ramen/ramen_350.asset
+  Hash128: 479b8a603e8275506959b3376a460434
+
+texture/character/202_ramen/ramen_350_a.asset
+  Hash128: 4bc5f9be907aabb7c7fbc202cbc3fb1c
+
+texture/character/202_ramen/ramen_350_b.asset
+  Hash128: 48239970809d1b38ca88ecc8432a8bb2
+
+texture/character/202_ramen/ramen_350_old.asset
+  Hash128: b000ce9e216368f6f95c39434b50bdec
+
+texture/character/203_aladdin/aladdin_350.asset
+  Hash128: 8740617c242077f4544e460a71400aee
+
+texture/character/204_beer/beer_350.asset
+  Hash128: 491258be545c3bdb0f042c3b9815f4e9
+
+texture/character/205_chocolate/205_chocolate.asset
+  Hash128: f965a7b630d592ebf1466dd06bef7a57
+
+texture/character/205_chocolate/chocolate_350.asset
+  Hash128: a2e8913e08fe87077d062a569e23d0a7
+
+texture/character/206_note/206_note.asset
+  Hash128: 70b899ecb073bece968e79ec05f22433
+
+texture/character/206_note/note_350.asset
+  Hash128: 32d1a6872bd113eaaf511de5fcab0936
+
+texture/character/207_harigane/207_harigane.asset
+  Hash128: e1cc877ba55fdde9739f6f4dcea9f928
+
+texture/character/207_harigane/harigane_350.asset
+  Hash128: 8f0854e2463d44be49ed57a4f648d57c
+
+texture/character/208_tank/208_tank.asset
+  Hash128: 2bcd6ea7229e2394773dccb324298e25
+
+texture/character/208_tank/tank_350.asset
+  Hash128: 756f6945b60ef45fccf2e0be22632d61
+
+texture/character/209_kennyou/209_kennyou.asset
+  Hash128: 415f760edf35cf28e92cc39a6b3ecfa0
+
+texture/character/209_kennyou/kennyou_350.asset
+  Hash128: 35b8d16b26787dbdd7e78e12ab191372
+
+texture/character/20_yoshio/yoshio_350.asset
+  Hash128: d889df9c271f2079c53b72d7be7e3a9d
+
+texture/character/20_yoshio/yoshio_350_azakeri.asset
+  Hash128: 29b7f38c65fde26375bf2f7a3300a097
+
+texture/character/20_yoshio/yoshio_350_deisui.asset
+  Hash128: 7b01575a6ca4270528e949af510c915c
+
+texture/character/20_yoshio/yoshio_350_ikari.asset
+  Hash128: 1868423a68bb205afcdd7e4642f621de
+
+texture/character/20_yoshio/yoshio_350_kanashimi.asset
+  Hash128: 31ea71997799d3385bd9b1c387976c22
+
+texture/character/20_yoshio/yoshio_350_konwaku.asset
+  Hash128: 820f2efb4e17ca62d06f0b0610ae7801
+
+texture/character/20_yoshio/yoshio_350_moushiwake.asset
+  Hash128: 879837c817dc9ab40cb53de8425c8609
+
+texture/character/20_yoshio/yoshio_350_odoroki.asset
+  Hash128: 091cdc4b2943c09853e1638fde4f286d
+
+texture/character/20_yoshio/yoshio_350_utagai.asset
+  Hash128: 1486502bd37e031071cae90209249890
+
+texture/character/20_yoshio/yoshio_350_warai.asset
+  Hash128: 0439b5fe160f7669ae733b6895e45477
+
+texture/character/20_yoshio/yoshio_350_youki.asset
+  Hash128: abc53dc3e07db8270fe51b4d42ec6edc
+
+texture/character/20_yoshio/yoshio_460.asset
+  Hash128: 03713107f006f93382e0ea7fbb33139e
+
+texture/character/20_yoshio/yoshio_460_azakeri.asset
+  Hash128: f335cc559f8772fe6a824cb5b8a14a53
+
+texture/character/20_yoshio/yoshio_460_bouga.asset
+  Hash128: 551f4ae458f2835f71e33bddc3944d8b
+
+texture/character/20_yoshio/yoshio_460_deisui.asset
+  Hash128: c5046eaba64a5e03974154d1f0661eb1
+
+texture/character/20_yoshio/yoshio_460_ikari.asset
+  Hash128: 0d314ccb55e0b7ff6166f1384d134cc4
+
+texture/character/20_yoshio/yoshio_460_kanashimi.asset
+  Hash128: c8c8a6fbda26aaf3de5b0c998afd696f
+
+texture/character/20_yoshio/yoshio_460_konwaku.asset
+  Hash128: 5ff5ac74b152c0f10382ac93c16882ac
+
+texture/character/20_yoshio/yoshio_460_moushiwake.asset
+  Hash128: 41cdf9a6db98ed7dd123968f417615b3
+
+texture/character/20_yoshio/yoshio_460_odoroki.asset
+  Hash128: e6ee2b22906c7d5dfe127f26c7a9ea53
+
+texture/character/20_yoshio/yoshio_460_utagai.asset
+  Hash128: fbf7c07f61c08b633f4cc81b35f3e3ac
+
+texture/character/20_yoshio/yoshio_460_warai.asset
+  Hash128: 4f5106ff90c1dbd9c9f0ac219a167d37
+
+texture/character/20_yoshio/yoshio_460_youki.asset
+  Hash128: 7347fe09c64d98691d749fc8aba5f385
+
+texture/character/20_yoshio/yoshio_photo.asset
+  Hash128: 7e8d6c915c0f6a0c32fa7dfe4f5002eb
+
+texture/character/20_yoshio/yoshio_photo_azakeri.asset
+  Hash128: 807932da70fa82039c653323888a6496
+
+texture/character/20_yoshio/yoshio_photo_bouga.asset
+  Hash128: 8507b9718d5b7dfa24571a6a90b5d85a
+
+texture/character/20_yoshio/yoshio_photo_deisui.asset
+  Hash128: 507b6645b1a5c3983fbfcba0a2080d9e
+
+texture/character/20_yoshio/yoshio_photo_ikari.asset
+  Hash128: d7e5425469330cae8e9ce78a8460f60a
+
+texture/character/20_yoshio/yoshio_photo_kanashimi.asset
+  Hash128: ccf691dc5aa14db8d8b1fa1b5865ff62
+
+texture/character/20_yoshio/yoshio_photo_konwaku.asset
+  Hash128: 724bd9fbe86a4dc7594d208f05f03ea1
+
+texture/character/20_yoshio/yoshio_photo_moushiwake.asset
+  Hash128: 3eb483080a6507ab0cfaebdbb0834d95
+
+texture/character/20_yoshio/yoshio_photo_odoroki.asset
+  Hash128: 7685a053f2b6fcc96bcfe3cb57891916
+
+texture/character/20_yoshio/yoshio_photo_utagai.asset
+  Hash128: 5543ccf90959ba8882600745f4b92b9e
+
+texture/character/20_yoshio/yoshio_photo_warai.asset
+  Hash128: a4797c0cdab7cc73925e6461a2f13ab5
+
+texture/character/20_yoshio/yoshio_photo_youki.asset
+  Hash128: b7d596bc2d898fdb27059912976432e5
+
+texture/character/20_yoshio/yosio_all.asset
+  Hash128: 345879288835f3bad18cb374e8437db7
+
+texture/character/210_carry/210_carry.asset
+  Hash128: 2eeeaa2deba019a0addf9e1891fb36c8
+
+texture/character/210_carry/carry_350.asset
+  Hash128: 28dcaf8e5f55e51b0bb8b97f6fa79587
+
+texture/character/211_coin/211_coin.asset
+  Hash128: 7ab95285a9f6393ad169d80423a1ca63
+
+texture/character/211_coin/coin_350.asset
+  Hash128: 5cab8eb7f2d38035af5caaf54067bae5
+
+texture/character/212_kona/kona_350.asset
+  Hash128: b6a32d7924850890c06647e5eb9216dc
+
+texture/character/213_huto/huto_350.asset
+  Hash128: 04710ad1bf77698cc53ba5382b6d00d4
+
+texture/character/214_idcard/idcard_350.asset
+  Hash128: 9ebbe31e42191f87c92b742e77236718
+
+texture/character/215_pancake/pancake_350.asset
+  Hash128: b80250b4940ba6536d0692557e7de100
+
+texture/character/216_soup/soup_350.asset
+  Hash128: c46bed87463e1e38e84364fc64cc3985
+
+texture/character/217_udewa/photo_udewa-nobur.asset
+  Hash128: 910d849684bfa7583e32e193673a556e
+
+texture/character/217_udewa/photo_udewa.asset
+  Hash128: 1369f6e3a728b61ac66dc03be02fe538
+
+texture/character/217_udewa/udewa_350.asset
+  Hash128: 4bfbfa7ef5a7357f12e347761dc300df
+
+texture/character/217_udewa/udewa_photo.asset
+  Hash128: ad16d1e5961a20c8ebc79e5a4c935c3c
+
+texture/character/218_earring/yearring_350.asset
+  Hash128: 74b62d2d9b8799ca20c20bc422d11754
+
+texture/character/219_base/base_350.asset
+  Hash128: b95a6854e422989d6ba549ab1ca96282
+
+texture/character/21_jirou/jirou_350.asset
+  Hash128: 592153442db3825738b5ba91a582e3c6
+
+texture/character/21_jirou/jirou_350_akire.asset
+  Hash128: 41c9ac1a06e0f26f9c3e26e8c8da831b
+
+texture/character/21_jirou/jirou_350_awateru.asset
+  Hash128: 79d264adf0b076c2831306c36963b78f
+
+texture/character/21_jirou/jirou_350_joudan.asset
+  Hash128: 8ed629fdf97d0b9da722debd831835d8
+
+texture/character/21_jirou/jirou_350_kanashimi.asset
+  Hash128: 8b03d1132a67e76648b5aeb3f9b4a519
+
+texture/character/21_jirou/jirou_350_konwaku.asset
+  Hash128: 574f3cfa15700bd99c9ceefbeff781f5
+
+texture/character/21_jirou/jirou_350_kurushisou.asset
+  Hash128: 1fce178bf169bf116e4ac5010d4cca83
+
+texture/character/21_jirou/jirou_350_odoroki.asset
+  Hash128: 971e847070b5eaa055e16ec4be9cd3a2
+
+texture/character/21_jirou/jirou_350_tanoshisou.asset
+  Hash128: 4ab1ab17b9ec6a12e9534bfce999f8a0
+
+texture/character/21_jirou/jirou_350_warai.asset
+  Hash128: 703261fdca96c6947eb3851475fb7873
+
+texture/character/21_jirou/jirou_all.asset
+  Hash128: 975c8dcef36b30d5419cdbb79f433af2
+
+texture/character/21_jirou/jirou_photo.asset
+  Hash128: 2563159f1ba676cfb05521166800d623
+
+texture/character/21_jirou/jirou_photo_akire.asset
+  Hash128: 72f62e94d5638fc11807fc9e5386a5d5
+
+texture/character/21_jirou/jirou_photo_awateru.asset
+  Hash128: e7f89db1624b138f12322673aa745ec3
+
+texture/character/21_jirou/jirou_photo_joudan.asset
+  Hash128: da07dfbfe951e830517144ebd5c623e2
+
+texture/character/21_jirou/jirou_photo_kanashimi.asset
+  Hash128: dea6a185e955da82bd767cc6d7824975
+
+texture/character/21_jirou/jirou_photo_konwaku.asset
+  Hash128: 8674f00474a460361698017307feaf7f
+
+texture/character/21_jirou/jirou_photo_kurushisou.asset
+  Hash128: c3ea9e6e527829b5e65395c919c9438f
+
+texture/character/21_jirou/jirou_photo_odoroki.asset
+  Hash128: a15ac05e5f3854a0dc59216942e12bbd
+
+texture/character/21_jirou/jirou_photo_tanoshisou.asset
+  Hash128: 81c1e373c77f139b456b0b60cb9032ee
+
+texture/character/21_jirou/jirou_photo_warai.asset
+  Hash128: e7f499221993404988bef94e7e2aa8d7
+
+texture/character/21_jirou/jirou_suit_350.asset
+  Hash128: 22ec69204824ec2e6fca423bc159b9c0
+
+texture/character/21_jirou/jirou_suit_350_akire.asset
+  Hash128: 5b2264c5052b624a231c8d3420973b9b
+
+texture/character/21_jirou/jirou_suit_350_awateru.asset
+  Hash128: 2545d395329391ca69714ff9e27a0d52
+
+texture/character/21_jirou/jirou_suit_350_kanashimi.asset
+  Hash128: 81b0fb0a557e1be7a96357be38f825e3
+
+texture/character/21_jirou/jirou_suit_350_konwaku.asset
+  Hash128: dc1b73ef4d7f63bc85502888da729b77
+
+texture/character/21_jirou/jirou_suit_350_kurushisou.asset
+  Hash128: 7889e6b8374766c8fbfef10de0c8996a
+
+texture/character/21_jirou/jirou_suit_350_odoroki.asset
+  Hash128: c117158f4ce81dba4793101aa482c072
+
+texture/character/21_jirou/jirou_suit_350_tanoshisou.asset
+  Hash128: 7a4d6d8cf5fbce99ad79816399136599
+
+texture/character/21_jirou/jirou_suit_350_warai.asset
+  Hash128: 22f2b0cfcf0c8aaca95ea02c432125c6
+
+texture/character/21_jirou/jirou_suit_photo.asset
+  Hash128: 355b70142741f469d19ae835830d82cd
+
+texture/character/21_jirou/jirou_suit_photo_akire.asset
+  Hash128: c9896c94671f19610bb47630bc57bd43
+
+texture/character/21_jirou/jirou_suit_photo_awateru.asset
+  Hash128: 51094cf37abfec3ccc81de58f21e02b6
+
+texture/character/21_jirou/jirou_suit_photo_kanashimi.asset
+  Hash128: 5c3a57443f504965f45eff5120d5a3fe
+
+texture/character/21_jirou/jirou_suit_photo_konwaku.asset
+  Hash128: 39580903e38dede80014cb8d6b8bb05b
+
+texture/character/21_jirou/jirou_suit_photo_kurushisou.asset
+  Hash128: e29dcac4719bbf00557b65af2cf1f6c7
+
+texture/character/21_jirou/jirou_suit_photo_odoroki.asset
+  Hash128: 39cd6a775bbe19e7e93ed42a3911c06a
+
+texture/character/21_jirou/jirou_suit_photo_tanoshisou.asset
+  Hash128: 1f82a1479d570a00b3aa5fdf58106d0d
+
+texture/character/21_jirou/jirou_suit_photo_warai.asset
+  Hash128: f8b597fe23defa36485fd5511bca360c
+
+texture/character/220_guitar/guitar_350.asset
+  Hash128: 31729a5818d02da73c177accaf7ce4d9
+
+texture/character/221_hand/hand_350.asset
+  Hash128: c8a482ce5068b83f5a306d4681a579ed
+
+texture/character/222_lyriccard/lyriccard_350.asset
+  Hash128: f8bfb9ce5019869d92800316ffc79abb
+
+texture/character/223_heroine_item/heroine_item_350.asset
+  Hash128: efa174a7c2aba5a28027f1c0b92100bf
+
+texture/character/22_mimamima/mimamima_350.asset
+  Hash128: e963294928eae01e71c8e3b15cb84df2
+
+texture/character/22_mimamima/mimamima_350_egao.asset
+  Hash128: ed502818f5c9f7b441a7687134fb8600
+
+texture/character/22_mimamima/mimamima_350_konwaku.asset
+  Hash128: 24ed3aadc5ac96a928926a7aca2174de
+
+texture/character/22_mimamima/mimamima_350_magao.asset
+  Hash128: 5ec46c5a558363df659915356a28f59e
+
+texture/character/22_mimamima/mimamima_all.asset
+  Hash128: ed49a0ca4746dd64b356c9bfeb847756
+
+texture/character/22_mimamima/mimamima_left_350.asset
+  Hash128: 133e7bfb99f4f0e094e131512d252ee9
+
+texture/character/22_mimamima/mimamima_left_350_egao.asset
+  Hash128: 80448a084a28e3c269c99db112b6258e
+
+texture/character/22_mimamima/mimamima_left_350_konwaku.asset
+  Hash128: 02730cc3c7955ab71f0b5d64b81e69e9
+
+texture/character/22_mimamima/mimamima_left_350_magao.asset
+  Hash128: e34f1db4eb8a64f5bfb373c21e921384
+
+texture/character/22_mimamima/mimamima_left_photo.asset
+  Hash128: a1e5a4f748f434df4e787da0d60e6aea
+
+texture/character/22_mimamima/mimamima_left_photo_egao.asset
+  Hash128: 0144868862c4c8e40a2c30ee64f84ece
+
+texture/character/22_mimamima/mimamima_left_photo_konwaku.asset
+  Hash128: e4259372a77c4f3ceb2ed638a99386ae
+
+texture/character/22_mimamima/mimamima_left_photo_magao.asset
+  Hash128: 050b35e3b498b3024f14bd7b443a69cf
+
+texture/character/22_mimamima/mimamima_photo.asset
+  Hash128: c9c9c0e3b94036cf9787c91ce2985a78
+
+texture/character/22_mimamima/mimamima_photo_egao.asset
+  Hash128: ad3e8ad413644b8717500c0dd5370316
+
+texture/character/22_mimamima/mimamima_photo_konwaku.asset
+  Hash128: 92777d137f3ac619d760de0581d36d62
+
+texture/character/22_mimamima/mimamima_photo_magao.asset
+  Hash128: 087e803accffef489254e0c420773133
+
+texture/character/23_mensetsu1/mensetsu1_350.asset
+  Hash128: 015d575e8a3070e4511b61d88a80574c
+
+texture/character/23_mensetsu1/mensetsu1_all.asset
+  Hash128: 55bd891df5de86222f53ea68a18eaf70
+
+texture/character/23_mensetsu1/mensetsu1_photo.asset
+  Hash128: 58bfd1354c5fb736a442840c0f8ffd8e
+
+texture/character/24_mensetsu2/mensetsu2_all.asset
+  Hash128: c45c82c34bc61efca939ee762e6be2ae
+
+texture/character/24_mensetsu2/mensetsu2_photo.asset
+  Hash128: ce5c4a0c4f4e717afe3ec86e3ceda0ba
+
+texture/character/24_mensetsu2/mensetsu_350.asset
+  Hash128: d78d329bf7f97239fcbf5cd78a48c4bd
+
+texture/character/250_unknown/unknown_boy_photo.asset
+  Hash128: 0a6bace5ff62f6f0440e224c82fa8fae
+
+texture/character/250_unknown/unknown_empty.asset
+  Hash128: be8d4d801e5c175a7e2e687f1bb75a69
+
+texture/character/250_unknown/unknown_girl_photo.asset
+  Hash128: f3ba4da904ea959a9f7aa803915b7aae
+
+texture/character/250_unknown/unknown_oldman_photo.asset
+  Hash128: e1922c5882347905678b6df926ef53c8
+
+texture/character/250_unknown/unknown_photo.asset
+  Hash128: 57dfaf9c900d5a179b3614809963cc9b
+
+texture/character/40_yoshimune/yoshimune_350.asset
+  Hash128: 53f84667f9a728bbe2d785e80dc0652d
+
+texture/character/40_yoshimune/yoshimune_460.asset
+  Hash128: f3e3b853ad588a8679d058c79c4a9b58
+
+texture/character/40_yoshimune/yoshimune_all.asset
+  Hash128: ad74bd4e028b103c5d07e77a9f317a70
+
+texture/character/40_yoshimune/yoshimune_photo.asset
+  Hash128: 02b93eb5e8d067dfc0577adfce9451f3
+
+texture/character/60_yoshihiko/yoshihiko_350.asset
+  Hash128: 1e71f8dd576e678fbd4713711cbb9f6a
+
+texture/character/60_yoshihiko/yoshihiko_350_akire.asset
+  Hash128: 231a7c0d1fae982a27cba1fd9995f8f0
+
+texture/character/60_yoshihiko/yoshihiko_350_aseri.asset
+  Hash128: 53c567479ad42af363f3beafb2067325
+
+texture/character/60_yoshihiko/yoshihiko_350_bouga.asset
+  Hash128: cad9097bc059ebea57ecad91d06ea8d8
+
+texture/character/60_yoshihiko/yoshihiko_350_doya.asset
+  Hash128: ccc0b59200f290c347dd2839ede3327c
+
+texture/character/60_yoshihiko/yoshihiko_350_ibukashimu.asset
+  Hash128: 7e2f95049506b2bb9e1e39b7e359853f
+
+texture/character/60_yoshihiko/yoshihiko_350_ikari.asset
+  Hash128: a5d8603995a50ca4dd0db08f499b3882
+
+texture/character/60_yoshihiko/yoshihiko_350_kanashimi.asset
+  Hash128: 97bf774213e68cbfc719c9ddef2f8348
+
+texture/character/60_yoshihiko/yoshihiko_350_konwaku.asset
+  Hash128: 8a90966ec64cf7826bf8f082050c700b
+
+texture/character/60_yoshihiko/yoshihiko_350_kuyashii.asset
+  Hash128: fe9159ce956120eef8647410060bef98
+
+texture/character/60_yoshihiko/yoshihiko_350_mu.asset
+  Hash128: 1da0c4d77ce7e25a6c4677d3022a5a83
+
+texture/character/60_yoshihiko/yoshihiko_350_ni.asset
+  Hash128: 08af049730af2c52cc8532a6bde212f9
+
+texture/character/60_yoshihiko/yoshihiko_350_odoroki.asset
+  Hash128: c89ba3f37bf205571bf8e9b30be322c4
+
+texture/character/60_yoshihiko/yoshihiko_350_okorigimi.asset
+  Hash128: a82ea843619bd5c6df36fdf55db49623
+
+texture/character/60_yoshihiko/yoshihiko_350_shinpaige.asset
+  Hash128: 48946d15c597cf61d06daf0e8ffef6d6
+
+texture/character/60_yoshihiko/yoshihiko_350_sinpaige.asset
+  Hash128: 4fc1bcaac3ff7520ee97843aaf0d26ed
+
+texture/character/60_yoshihiko/yoshihiko_350_warai.asset
+  Hash128: 20849f47befe0a6ee7e2602757ae3fa9
+
+texture/character/60_yoshihiko/yoshihiko_350_zetsubou.asset
+  Hash128: 7f4491155f9e675a891c6a969c375690
+
+texture/character/60_yoshihiko/yoshihiko_460.asset
+  Hash128: d4497c2c4abba184f9ce9f5928b8e544
+
+texture/character/60_yoshihiko/yoshihiko_460_akire.asset
+  Hash128: de99cb98da5b66a398eca5d988d2c220
+
+texture/character/60_yoshihiko/yoshihiko_460_aseri.asset
+  Hash128: 2ae820a4acbe2f5a1bc0f105d1a51428
+
+texture/character/60_yoshihiko/yoshihiko_460_bouga.asset
+  Hash128: 7c0e29ce705483809cf8294aa4af883b
+
+texture/character/60_yoshihiko/yoshihiko_460_doya.asset
+  Hash128: a451cb2769e1b0613e2263ace2297e19
+
+texture/character/60_yoshihiko/yoshihiko_460_ibukashimu.asset
+  Hash128: f1466152270df007eab45dabeb62e05e
+
+texture/character/60_yoshihiko/yoshihiko_460_ikari.asset
+  Hash128: c989442c93c852fbf66f223c593d44e0
+
+texture/character/60_yoshihiko/yoshihiko_460_kanashimi.asset
+  Hash128: 5c785a862a5ed68f148db3a7cb7bbdec
+
+texture/character/60_yoshihiko/yoshihiko_460_konwaku.asset
+  Hash128: 9da3e030255cbf20f95d48db0476fa75
+
+texture/character/60_yoshihiko/yoshihiko_460_kuyashii.asset
+  Hash128: 22792553250d0c4b1ec77979dcdc1628
+
+texture/character/60_yoshihiko/yoshihiko_460_mu.asset
+  Hash128: 04bbebf90133d5942e32d2857adf6b7f
+
+texture/character/60_yoshihiko/yoshihiko_460_ni.asset
+  Hash128: d0ad889813e850fec2e9109400d172bb
+
+texture/character/60_yoshihiko/yoshihiko_460_odoroki.asset
+  Hash128: c4c21f9131770db84ed4303997d28f2a
+
+texture/character/60_yoshihiko/yoshihiko_460_okorigimi.asset
+  Hash128: 13cca7ada172fe3e88d94a2de0831cf1
+
+texture/character/60_yoshihiko/yoshihiko_460_shinpaige.asset
+  Hash128: ad1c35f83e6e35dc62116ab383c964fe
+
+texture/character/60_yoshihiko/yoshihiko_460_warai.asset
+  Hash128: 2de2d46998ffbf0cab34ea7a554dcbe3
+
+texture/character/60_yoshihiko/yoshihiko_460_zetsubou.asset
+  Hash128: ec73adad7f164456764d620794310431
+
+texture/character/60_yoshihiko/yoshihiko_all.asset
+  Hash128: 424369e9e6fddea4dd7fe0b3fec64824
+
+texture/character/60_yoshihiko/yoshihiko_photo.asset
+  Hash128: ec6b6282a124322e4003025d5ac83d4e
+
+texture/character/60_yoshihiko/yoshihiko_photo_akire.asset
+  Hash128: f6b77d9e7ab99cd438aa68de9fddfe31
+
+texture/character/60_yoshihiko/yoshihiko_photo_aseri.asset
+  Hash128: f20fdcb3c7c6b8e50e1d62afa698942e
+
+texture/character/60_yoshihiko/yoshihiko_photo_bouga.asset
+  Hash128: c2a1f135d8c7a9cf04ddec874cd4846a
+
+texture/character/60_yoshihiko/yoshihiko_photo_boya.asset
+  Hash128: 4b37c4b775182ac4005b9b5d71c43304
+
+texture/character/60_yoshihiko/yoshihiko_photo_ibukashimu.asset
+  Hash128: 7a9202362acf64c5e75fd2de763a9d27
+
+texture/character/60_yoshihiko/yoshihiko_photo_ikari.asset
+  Hash128: cd42c5f4696c0625b20654218715b91e
+
+texture/character/60_yoshihiko/yoshihiko_photo_kanashimi.asset
+  Hash128: d3941e247e10dbfb16397b209eade667
+
+texture/character/60_yoshihiko/yoshihiko_photo_konwaku.asset
+  Hash128: 9d6f90d29534a5b0a112448254884f8a
+
+texture/character/60_yoshihiko/yoshihiko_photo_kuyashii.asset
+  Hash128: b30f9067bd987e5f854076b00fdbd926
+
+texture/character/60_yoshihiko/yoshihiko_photo_mu.asset
+  Hash128: 1c86cc6325d7076e19026de48b632273
+
+texture/character/60_yoshihiko/yoshihiko_photo_ni.asset
+  Hash128: 441b5aa25b35ce20acfe22a83dd7d344
+
+texture/character/60_yoshihiko/yoshihiko_photo_odoroki.asset
+  Hash128: 9c36e055a38e20dcaed916138d67a95c
+
+texture/character/60_yoshihiko/yoshihiko_photo_okorigimi.asset
+  Hash128: cde6d62cd8e9aaddf203c04b6b2c3694
+
+texture/character/60_yoshihiko/yoshihiko_photo_shinpaige.asset
+  Hash128: f4f05e48960d822bd1eb528988e48fa8
+
+texture/character/60_yoshihiko/yoshihiko_photo_sinpaige.asset
+  Hash128: 7b3b53a750372a8551cc396fe9d85faa
+
+texture/character/60_yoshihiko/yoshihiko_photo_warai.asset
+  Hash128: e2823194c3abf2ef4d12f835b5694941
+
+texture/character/60_yoshihiko/yoshihiko_photo_zetsubou.asset
+  Hash128: a2d39f3fd7c651c8cbf647a83e533d76
+
+texture/character/60_yoshihiko/yoshihiko_warai.asset
+  Hash128: c1a9a2e64d226110e462f131252541a7
+
+texture/character/61_rokurou/rokurou_350.asset
+  Hash128: 46720ce17d1f8faa165079688ba26da4
+
+texture/character/61_rokurou/rokurou_350_majime.asset
+  Hash128: 87890fa07558f49acb167273b7931bd1
+
+texture/character/61_rokurou/rokurou_350_warai.asset
+  Hash128: 35e9175dec56234395ab5c1926c8cb55
+
+texture/character/61_rokurou/rokurou_350_yamiaori.asset
+  Hash128: f38631cef2f8ef123d3668b588a45b8b
+
+texture/character/61_rokurou/rokurou_350_yamibisho.asset
+  Hash128: b8ab1aa557a084df2709caba0ff17b92
+
+texture/character/61_rokurou/rokurou_350_yaminirami.asset
+  Hash128: 74e4a505d2c7e7bdebae25f0282cd7a7
+
+texture/character/61_rokurou/rokurou_350_yamitoboke.asset
+  Hash128: 2ff87e878c7e9720ca6b589ff274aca5
+
+texture/character/61_rokurou/rokurou_350_yamiwarai.asset
+  Hash128: a1987615f451f0b19020560441d380a4
+
+texture/character/61_rokurou/rokurou_460.asset
+  Hash128: f87b36389ff5fc1a2136ccf7dc392957
+
+texture/character/61_rokurou/rokurou_all.asset
+  Hash128: 452010b612246736782cde066dd5f306
+
+texture/character/61_rokurou/rokurou_photo.asset
+  Hash128: 1a1053fdda1214e0c3e469f70ec31bee
+
+texture/character/61_rokurou/rokurou_photo_majime.asset
+  Hash128: f3019968fdc63e8f6760f95e006adad6
+
+texture/character/61_rokurou/rokurou_photo_warai.asset
+  Hash128: 5b6bfa74fd0ec2bf8f5d4b8bddb0514f
+
+texture/character/61_rokurou/rokurou_photo_yamiaori.asset
+  Hash128: 61eea77d94b60e4e8ee141d876f5eae7
+
+texture/character/61_rokurou/rokurou_photo_yamibisho.asset
+  Hash128: e702e252243ca3ce444373820d7109da
+
+texture/character/61_rokurou/rokurou_photo_yaminirami.asset
+  Hash128: 83bc607fd97f978b5bb9ee603237fe62
+
+texture/character/61_rokurou/rokurou_photo_yamitoboke.asset
+  Hash128: 8392398ab98b6c6d3ac4e4508cb0fe1a
+
+texture/character/61_rokurou/rokurou_photo_yamiwarai.asset
+  Hash128: bdc1f1a4d553a9327893b06e733c243a
+
+texture/character/62_gorou/gorou_350.asset
+  Hash128: c3353189df5b1229d123a3ccdb733b80
+
+texture/character/62_gorou/gorou_350_akire.asset
+  Hash128: 8cd42b2a5691c868375408fdf1b686bb
+
+texture/character/62_gorou/gorou_350_bisho.asset
+  Hash128: 9041ae424b935f96a015af2678745768
+
+texture/character/62_gorou/gorou_350_hatena.asset
+  Hash128: 74dea62e70903e4c55c1db6d60f3b80b
+
+texture/character/62_gorou/gorou_350_syobon.asset
+  Hash128: e135a19b1052c207a732b0db7f0186bf
+
+texture/character/62_gorou/gorou_350_wakuwaku.asset
+  Hash128: 5a890b8167271cdd125323f13042cd9a
+
+texture/character/62_gorou/gorou_350_warai.asset
+  Hash128: 92cf87b9c4f05ac3265790cd8f002317
+
+texture/character/62_gorou/gorou_460.asset
+  Hash128: ed1c3b8513d39adf4a74577e555b657c
+
+texture/character/62_gorou/gorou_all.asset
+  Hash128: f80adcac9c70152c519bc7429b674ee6
+
+texture/character/62_gorou/gorou_photo.asset
+  Hash128: d7ecdd06cc538693820bd69a3dd477bd
+
+texture/character/62_gorou/gorou_photo_akire.asset
+  Hash128: 819c44269730506e7c7eebf45183e8fb
+
+texture/character/62_gorou/gorou_photo_bisho.asset
+  Hash128: 014a91c6c78f388b6c5680e20b003d48
+
+texture/character/62_gorou/gorou_photo_hatena.asset
+  Hash128: 70b8fcd70a8d0049ae055f89325ce218
+
+texture/character/62_gorou/gorou_photo_syobon.asset
+  Hash128: da49a23e35433c7d0633c8657e58d275
+
+texture/character/62_gorou/gorou_photo_wakuwaku.asset
+  Hash128: ee4b99fc59f0574ea605fe976bfabbdb
+
+texture/character/62_gorou/gorou_photo_warai.asset
+  Hash128: e90df0449c86a3df1da67342714c0cca
+
+texture/character/71_garao/garao_350.asset
+  Hash128: 5de53b0fc7d8d4fe2f5c8c55e9780b1f
+
+texture/character/71_garao/garao_all.asset
+  Hash128: 56b7b9c60bbc92a4937a5101033a699c
+
+texture/character/71_garao/garao_photo.asset
+  Hash128: 1b88726f2df6814c19216ab20b58726d
+
+texture/character/72_rouba/rouba_350.asset
+  Hash128: 3821ab4145df35a55c177d9ea3de62df
+
+texture/character/72_rouba/rouba_350_konwaku.asset
+  Hash128: 8e957f99d85d69e4d10d85527907d8f2
+
+texture/character/72_rouba/rouba_all.asset
+  Hash128: ebdc48565b4eef84b9a74dfce03ebf94
+
+texture/character/72_rouba/rouba_photo.asset
+  Hash128: 1408a7385c02cb448a36314dc001ccfe
+
+texture/character/72_rouba/rouba_photo_konwaku.asset
+  Hash128: f9c95d573b4e143e9e9bcad938b2a61c
+
+texture/character/73_tenin/tenin_350.asset
+  Hash128: a4fe4f4d86091f9397ec6e2e083a2485
+
+texture/character/73_tenin/tenin_all.asset
+  Hash128: bc0a5c943a9f0b2be2974186195a4f26
+
+texture/character/73_tenin/tenin_photo.asset
+  Hash128: d0902864c3d7a6d2a0714203376e925f
+
+texture/character/80_yoshimi/yoshimi_350.asset
+  Hash128: 67fba36fa43541823eaf9faba774a331
+
+texture/character/80_yoshimi/yoshimi_350_bisho.asset
+  Hash128: f0688e8b4e10735638de13e9491e7eef
+
+texture/character/80_yoshimi/yoshimi_350_bouga.asset
+  Hash128: 8f9aacb7b87cf0689b3ddae814aabd1c
+
+texture/character/80_yoshimi/yoshimi_350_hazukashige.asset
+  Hash128: 36412669c9a74e955ecd636703a65c6d
+
+texture/character/80_yoshimi/yoshimi_350_kanashimi.asset
+  Hash128: 1a2b1fde1bf94d1a7db37a79eab5f780
+
+texture/character/80_yoshimi/yoshimi_350_keikai.asset
+  Hash128: 2b59e0ad3f7a0c736f23ea0cf6977200
+
+texture/character/80_yoshimi/yoshimi_350_keikan.asset
+  Hash128: 5e125ec7d7b6e9dd1bd2320f8a4d7508
+
+texture/character/80_yoshimi/yoshimi_350_konwaku.asset
+  Hash128: b9f2641337dc00c20ce1eb6b862fd465
+
+texture/character/80_yoshimi/yoshimi_350_shian.asset
+  Hash128: 8957378e79158b42252824d701f2c91d
+
+texture/character/80_yoshimi/yoshimi_350_warai.asset
+  Hash128: a47fcc35a0b1ec84c921ff9035c6495b
+
+texture/character/80_yoshimi/yoshimi_460.asset
+  Hash128: 4b0b39ac64cfe9702379a0c50093419e
+
+texture/character/80_yoshimi/yoshimi_460_bisho.asset
+  Hash128: 5d6b81f3a1a6480e031fdcf2e674c596
+
+texture/character/80_yoshimi/yoshimi_460_bouga.asset
+  Hash128: e674da2c0362d3198d16fe2d5179af19
+
+texture/character/80_yoshimi/yoshimi_460_hazukashige.asset
+  Hash128: 3ff6eb9bcb9846156dd7fa945db1c6f4
+
+texture/character/80_yoshimi/yoshimi_460_kanashimi.asset
+  Hash128: 565d2cc0195e3e2f7a8afd44134216f9
+
+texture/character/80_yoshimi/yoshimi_460_keikai.asset
+  Hash128: 6069a9d6411cf82d34706afbc5d52007
+
+texture/character/80_yoshimi/yoshimi_460_konwaku.asset
+  Hash128: 50871098121e3b40b30b831870182ad5
+
+texture/character/80_yoshimi/yoshimi_460_shian.asset
+  Hash128: 576c2c99b9d09150c394531c56b5df51
+
+texture/character/80_yoshimi/yoshimi_460_warai.asset
+  Hash128: 1a86b173bca10107f596534afdab5bf1
+
+texture/character/80_yoshimi/yoshimi_photo.asset
+  Hash128: 408bc76990c784f7d8efec3990db68ab
+
+texture/character/80_yoshimi/yoshimi_photo_bisho.asset
+  Hash128: 8a17ff8b6e66c726b7a8e3dd763b88fb
+
+texture/character/80_yoshimi/yoshimi_photo_bouga.asset
+  Hash128: 101c2ef0c8a672d0c4578c19cd356c3f
+
+texture/character/80_yoshimi/yoshimi_photo_hazukashige.asset
+  Hash128: 852bd40482c16486cecaf3b2e67dad87
+
+texture/character/80_yoshimi/yoshimi_photo_kanashimi.asset
+  Hash128: 88bee3eae42b38484251b832e505b741
+
+texture/character/80_yoshimi/yoshimi_photo_keikai.asset
+  Hash128: 4d2695d95019fe4078b9a1859e08b2aa
+
+texture/character/80_yoshimi/yoshimi_photo_konwaku.asset
+  Hash128: 5212df01fce93674f87ebb6ef047b0ff
+
+texture/character/80_yoshimi/yoshimi_photo_shian.asset
+  Hash128: 8e86127fe5795d13a74659baadf473cb
+
+texture/character/80_yoshimi/yoshimi_photo_warai.asset
+  Hash128: 71d61c1fe0a234006aa7fce2e04f59a5
+
+texture/character/80_yoshimi/yosimi460.asset
+  Hash128: cb78bca5ecad3979ff8568eefc1ed1a5
+
+texture/character/80_yoshimi/yosimi_all.asset
+  Hash128: 25d6d14aef795e3fc92647a38ecaf24a
+
+texture/character/81_saburou/saburou_350.asset
+  Hash128: 22519e47617846e53e172c3623e45a59
+
+texture/character/81_saburou/saburou_350_doya.asset
+  Hash128: 24ce1ecf79477b9e99674c83a235a7df
+
+texture/character/81_saburou/saburou_350_huan.asset
+  Hash128: 40f4ed2a73c073be3a10c7aad258ba52
+
+texture/character/81_saburou/saburou_350_keikai.asset
+  Hash128: 54809b9f9082660f547588c4321933a9
+
+texture/character/81_saburou/saburou_350_konwaku.asset
+  Hash128: 3993e7b7786cdaa8d9e1efb20172687a
+
+texture/character/81_saburou/saburou_350_shian.asset
+  Hash128: 26e277d39520d24aa725071e3a94da04
+
+texture/character/81_saburou/saburou_350_warai.asset
+  Hash128: 303432a881813dd74304cafe86ceb123
+
+texture/character/81_saburou/saburou_460.asset
+  Hash128: d80bc8173376bdfeae47b5c0e4eefb47
+
+texture/character/81_saburou/saburou_460_doya.asset
+  Hash128: 7c3cc090f7b30137b609420cd25762ad
+
+texture/character/81_saburou/saburou_460_huan.asset
+  Hash128: ec35cb06f6f6e03ce3d721326af82262
+
+texture/character/81_saburou/saburou_460_keikai.asset
+  Hash128: d16030d3a4dd255b92fe317cecc5e83c
+
+texture/character/81_saburou/saburou_460_konwaku.asset
+  Hash128: 68282af64dc1b45617cbd0f5631b860f
+
+texture/character/81_saburou/saburou_460_shian.asset
+  Hash128: ce095a83b606a64d5bc1075da1480285
+
+texture/character/81_saburou/saburou_460_warai.asset
+  Hash128: 42e8dc2eabb0c9243adcb0d3c9ce6251
+
+texture/character/81_saburou/saburou_all.asset
+  Hash128: 90518688c21787b3d42e98a8730033a1
+
+texture/character/81_saburou/saburou_photo.asset
+  Hash128: 3f9e4fa64572006195c41c88619874c2
+
+texture/character/81_saburou/saburou_photo_doya.asset
+  Hash128: 3e646223a7f19dea0574c10237ee1386
+
+texture/character/81_saburou/saburou_photo_huan.asset
+  Hash128: 07456f734c8fce1941c03ffb3856b39a
+
+texture/character/81_saburou/saburou_photo_keikai.asset
+  Hash128: 961dc7479b836bf78242db94d7566263
+
+texture/character/81_saburou/saburou_photo_konwaku.asset
+  Hash128: d9c24c1720cb3bf211002e132464d7c9
+
+texture/character/81_saburou/saburou_photo_shian.asset
+  Hash128: 11f8b3cbf45df5c94689d0a248774a00
+
+texture/character/81_saburou/saburou_photo_warai.asset
+  Hash128: 460fa9d638359f0ec4485568409baf8f
+
+texture/character/91_moumoku/moumoku_350.asset
+  Hash128: 7e2f1e6e2be066c0374c2ff55456fdbd
+
+texture/character/91_moumoku/moumoku_all.asset
+  Hash128: d057c5d4083a5d72ec2e82227f8f3eda
+
+texture/character/91_moumoku/moumoku_photo.asset
+  Hash128: 125b3c38748dd27b904876a42a9040c7
+

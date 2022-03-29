@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2794025939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d78d329bf7f97239fcbf5cd78a48c4bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/24_mensetsu2/mensetsu_350.png
+Dependencies: []

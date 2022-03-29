@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3216298865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f071ffdc178237b1a80862ba99fb8ec5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_460_kurushisou.png
+Dependencies: []

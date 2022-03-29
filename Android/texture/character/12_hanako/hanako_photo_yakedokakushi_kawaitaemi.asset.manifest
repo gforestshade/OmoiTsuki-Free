@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3235632026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 293437d62cc9b2bfd28bbaa80fef0987
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_photo_yakedokakushi_kawaitaemi.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 362218496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3ba4da904ea959a9f7aa803915b7aae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/250_unknown/unknown_girl_photo.png
+Dependencies: []

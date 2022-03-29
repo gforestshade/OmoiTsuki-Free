@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1343294302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43bdc09cfb8cb38911249e7bc3bbbd1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_photo_ando.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2613683182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd5a7adfab4b21ed62dacea6d9ecc460
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_adult_350_bisho.png
+Dependencies: []

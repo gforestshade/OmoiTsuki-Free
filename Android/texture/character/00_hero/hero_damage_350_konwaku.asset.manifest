@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2264197614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 365b2365dd3d2db43f4f85d5f42176eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_konwaku.png
+Dependencies: []

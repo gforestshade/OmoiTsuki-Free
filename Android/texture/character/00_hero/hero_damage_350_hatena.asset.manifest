@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2981153060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc10068f79f9428d605ac6a3e9b96f1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_hatena.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2251668918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cce6cfadb94e58019b7de3f6f3b58283
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_photo_warai.png
+Dependencies: []

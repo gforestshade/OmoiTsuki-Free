@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 667515468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3878c065afb89f5d9bfd2f2513ad6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/11_tarou/tarou_hs_photo.png
+Dependencies: []

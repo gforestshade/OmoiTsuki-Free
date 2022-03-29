@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1391636352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2fbd86c9f2d94ba99afea2452ab24a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/22_mimamima/mimamima_350_egao.png
+Dependencies: []

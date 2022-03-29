@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2161069598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8803e739c56e895e7625e76a075b6721
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_adult_photo_akirame.png
+Dependencies: []

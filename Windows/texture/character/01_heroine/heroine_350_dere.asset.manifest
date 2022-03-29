@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3021596027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfa1fa3011b7e0a3b1a614e9c04584b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_350_dere.png
+Dependencies: []

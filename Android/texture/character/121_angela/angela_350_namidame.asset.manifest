@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2125268367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 379368804507361b8f946b610774f468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_350_namidame.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3501917986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f99c1fe758131551853d96a9b960cadc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_bisho.png
+Dependencies: []

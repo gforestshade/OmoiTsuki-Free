@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1233406428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f19b84302d8ac92de435303b14fd92ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_before_350.png
+Dependencies: []

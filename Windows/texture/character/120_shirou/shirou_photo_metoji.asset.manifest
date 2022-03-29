@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2115955934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ecff62c88db1f9293fa7fe8d43d407d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/120_shirou/shirou_photo_metoji.png
+Dependencies: []

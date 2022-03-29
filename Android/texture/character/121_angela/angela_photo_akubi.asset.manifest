@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1379255586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e21fdc72cde0f577eff4a26fbc57d90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_photo_akubi.png
+Dependencies: []

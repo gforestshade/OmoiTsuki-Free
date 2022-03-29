@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2873967839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcea11bae86ddd985fc20185bd36b780
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/213_huto/huto_350.png
+Dependencies: []

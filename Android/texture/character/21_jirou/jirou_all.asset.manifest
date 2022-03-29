@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2039290826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 975c8dcef36b30d5419cdbb79f433af2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_all.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2518885573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3c1e5163899c185f45628750f6b1a08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_sekiwan_350_akubi.png
+Dependencies: []

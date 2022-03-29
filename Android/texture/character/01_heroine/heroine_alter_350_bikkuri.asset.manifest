@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1959179203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11064c1cf2f7962c695c2d3d825c018e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_350_bikkuri.png
+Dependencies: []

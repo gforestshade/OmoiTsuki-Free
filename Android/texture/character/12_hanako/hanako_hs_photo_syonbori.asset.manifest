@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2320463094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90262b5c6f7f93227fa4dfb0bd948959
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_hs_photo_syonbori.png
+Dependencies: []

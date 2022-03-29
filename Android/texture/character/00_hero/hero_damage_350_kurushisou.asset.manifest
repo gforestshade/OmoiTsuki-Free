@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3158488872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5810814fdd1bc62a74b4bf8389df53c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_damage_350_kurushisou.png
+Dependencies: []

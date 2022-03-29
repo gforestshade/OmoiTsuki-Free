@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1125458378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bca64b6cad1ef0108c15f85bd2909414
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/124_kurou/kurou_all.png
+Dependencies: []

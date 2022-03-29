@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 978103143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9c9c0e3b94036cf9787c91ce2985a78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/22_mimamima/mimamima_photo.png
+Dependencies: []

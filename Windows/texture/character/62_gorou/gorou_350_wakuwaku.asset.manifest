@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4286848699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bab1d759811a914f0dafc6e9c32481df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/62_gorou/gorou_350_wakuwaku.png
+Dependencies: []

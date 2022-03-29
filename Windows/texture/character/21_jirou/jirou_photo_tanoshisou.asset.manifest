@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1724582086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67fdec8dd9a9247c08e30dc2a699f0a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_photo_tanoshisou.png
+Dependencies: []

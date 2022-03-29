@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 708849920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 287d21deb44982e0b7a5e161d2003deb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_350_bouga.png
+Dependencies: []

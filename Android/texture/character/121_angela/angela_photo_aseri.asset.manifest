@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3981775516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35667cba3956f4d77b264177d9a30b7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_photo_aseri.png
+Dependencies: []

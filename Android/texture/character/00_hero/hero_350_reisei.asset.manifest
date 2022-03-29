@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4244128846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83f0ad4f47dd7a9f4c57fde3d977a7c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/00_Hero/hero_350_reisei.png
+Dependencies: []

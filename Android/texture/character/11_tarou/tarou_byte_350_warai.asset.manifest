@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 943042372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4895602d474de8179a8ea4b0d625b8b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/11_tarou/tarou_byte_350_warai.png
+Dependencies: []

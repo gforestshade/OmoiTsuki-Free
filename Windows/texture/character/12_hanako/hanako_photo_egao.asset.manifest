@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4020379355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fd96d86c75711193f5f875f37e277c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_photo_egao.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1765800726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26e277d39520d24aa725071e3a94da04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/81_saburou/saburou_350_shian.png
+Dependencies: []

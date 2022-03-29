@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3023975201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebdc48565b4eef84b9a74dfce03ebf94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/72_rouba/rouba_all.png
+Dependencies: []

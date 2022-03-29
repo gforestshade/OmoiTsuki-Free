@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4072698556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9656ef692016452c1c88366a8aed1f3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_350_bikkuri.png
+Dependencies: []

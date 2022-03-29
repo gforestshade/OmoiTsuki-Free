@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 457749502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c149f9f88253b1fa25117f9ae27619c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/216_soup/soup_350.png
+Dependencies: []

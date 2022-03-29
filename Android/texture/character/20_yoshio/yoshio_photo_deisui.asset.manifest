@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 805398286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 507b6645b1a5c3983fbfcba0a2080d9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_photo_deisui.png
+Dependencies: []

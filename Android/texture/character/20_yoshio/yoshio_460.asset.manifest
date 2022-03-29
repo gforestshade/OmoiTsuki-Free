@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 592868924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03713107f006f93382e0ea7fbb33139e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_460.png
+Dependencies: []

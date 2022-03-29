@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3774609817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36412669c9a74e955ecd636703a65c6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_350_hazukashige.png
+Dependencies: []

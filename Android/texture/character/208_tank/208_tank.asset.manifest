@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3504855762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bcd6ea7229e2394773dccb324298e25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/208_tank/208_tank.png
+Dependencies: []

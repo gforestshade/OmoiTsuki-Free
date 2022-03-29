@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1168566732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2611206be6717b73652275fb8a7d980
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_photo_hakike.png
+Dependencies: []

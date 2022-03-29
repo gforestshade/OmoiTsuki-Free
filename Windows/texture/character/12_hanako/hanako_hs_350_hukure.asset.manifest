@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 577780298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34bf2e1aa5fb00bfa3dab7622a746a43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/12_hanako/hanako_hs_350_hukure.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4056264637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e135a19b1052c207a732b0db7f0186bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/62_gorou/gorou_350_syobon.png
+Dependencies: []

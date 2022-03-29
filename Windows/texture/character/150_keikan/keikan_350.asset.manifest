@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3034141889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbacf70d40a924af1790836324c0ea79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/150_keikan/keikan_350.png
+Dependencies: []

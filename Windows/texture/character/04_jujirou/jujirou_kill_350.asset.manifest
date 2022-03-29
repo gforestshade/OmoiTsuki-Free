@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3337487879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75527bacdc773bf4c118fb2f86877b36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/04_jujirou/jujirou_kill_350.png
+Dependencies: []

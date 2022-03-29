@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1736263523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54330651e9a16d8631c12c6c7aaaf832
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/10_yoshiko/yoshiko_photo_bouga.png
+Dependencies: []

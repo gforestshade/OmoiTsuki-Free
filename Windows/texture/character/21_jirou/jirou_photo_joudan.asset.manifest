@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2245650179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f2f903f8a0df401e0e171b71db6300e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/21_jirou/jirou_photo_joudan.png
+Dependencies: []

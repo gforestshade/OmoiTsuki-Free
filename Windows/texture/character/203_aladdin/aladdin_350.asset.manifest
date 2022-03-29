@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3613361781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 380ca8bb333be609d4033fe577079c18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/203_aladdin/aladdin_350.png
+Dependencies: []

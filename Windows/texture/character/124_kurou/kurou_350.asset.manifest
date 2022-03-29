@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1043069689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9e45a2e9e099793dd3a6bfb345bcfb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/124_kurou/kurou_350.png
+Dependencies: []

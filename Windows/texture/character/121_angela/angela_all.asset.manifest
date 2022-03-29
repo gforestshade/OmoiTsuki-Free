@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4055373831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 450b5f060abc57b1611c933766a8435d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/121_angela/angela_all.png
+Dependencies: []

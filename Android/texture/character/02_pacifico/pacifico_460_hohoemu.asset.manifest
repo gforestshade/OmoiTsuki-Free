@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2729629400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee23db5792b4074296b767b2e1986bcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/02_pacifico/pacifico_460_hohoemu.png
+Dependencies: []

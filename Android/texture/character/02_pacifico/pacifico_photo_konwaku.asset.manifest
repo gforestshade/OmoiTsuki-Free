@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2485495459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b256c1ad2d77f4464b9a7379d966b8c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/02_pacifico/pacifico_photo_konwaku.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2370981444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2f1e6e2be066c0374c2ff55456fdbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/91_moumoku/moumoku_350.png
+Dependencies: []

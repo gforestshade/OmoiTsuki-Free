@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2273333019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3a48c2b83f600a779d3bc51d5b5a01f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/123_hanami/hanami_photo_naki.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 544128224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 961dc7479b836bf78242db94d7566263
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/81_saburou/saburou_photo_keikai.png
+Dependencies: []

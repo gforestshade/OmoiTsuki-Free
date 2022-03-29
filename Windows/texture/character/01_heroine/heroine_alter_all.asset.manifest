@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2344620903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71a2cf5d0d25f9095e888035be74144f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_alter_all.png
+Dependencies: []

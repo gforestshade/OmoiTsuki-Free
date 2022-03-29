@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2941819993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 576c2c99b9d09150c394531c56b5df51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/80_yoshimi/yoshimi_460_shian.png
+Dependencies: []

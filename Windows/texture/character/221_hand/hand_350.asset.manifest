@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 546585057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6596da7110f91347d466431cc7804f09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/221_hand/hand_350.png
+Dependencies: []

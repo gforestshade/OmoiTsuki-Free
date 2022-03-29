@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 375530973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41cdf9a6db98ed7dd123968f417615b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/20_yoshio/yoshio_460_moushiwake.png
+Dependencies: []

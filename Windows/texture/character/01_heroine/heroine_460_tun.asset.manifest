@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3016454666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d286f5c8f527ffbe533c8c953509e4b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_460_tun.png
+Dependencies: []

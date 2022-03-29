@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1113923986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2e8913e08fe87077d062a569e23d0a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/205_chocolate/chocolate_350.png
+Dependencies: []

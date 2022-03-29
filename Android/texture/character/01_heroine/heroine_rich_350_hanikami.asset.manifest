@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 254481393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8848e2d06cab4e30da13e9829170f54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_350_hanikami.png
+Dependencies: []

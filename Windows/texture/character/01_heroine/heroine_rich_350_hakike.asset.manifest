@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1104659013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f15b5bf9c3aa6ed62b66c0ea452c1a55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_350_hakike.png
+Dependencies: []

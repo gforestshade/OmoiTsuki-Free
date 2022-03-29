@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1565338255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 457da5e98b34739e0478287b8e69d122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/11_tarou/tarou_byte_photo.png
+Dependencies: []

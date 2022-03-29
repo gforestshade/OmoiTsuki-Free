@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2592235939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4a059b9b0f4006e86b3b3f2bef12baa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/124_kurou/kurou_350_kaiko.png
+Dependencies: []

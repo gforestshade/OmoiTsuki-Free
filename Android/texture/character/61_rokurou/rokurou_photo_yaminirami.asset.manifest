@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2411935851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83bc607fd97f978b5bb9ee603237fe62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/61_rokurou/rokurou_photo_yaminirami.png
+Dependencies: []

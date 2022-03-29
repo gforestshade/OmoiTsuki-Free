@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2510955052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51c09b0f4bfe97e2c7600b527ff21a3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/02_pacifico/pacifico_350_ikari.png
+Dependencies: []

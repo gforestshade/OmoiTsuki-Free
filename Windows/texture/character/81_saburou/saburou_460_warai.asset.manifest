@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2843795332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 062fa301e97454cfd84a26259f8f27f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/81_saburou/saburou_460_warai.png
+Dependencies: []

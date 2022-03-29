@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1375482120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1c1fede0c088ec2e3c3138f2a9f4fdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/01_heroine/heroine_rich_photo_gimon.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3524836362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd5485cb169edf9fa99a63873e917485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OmitsukiFree/Resources_/OmitsukiFree/Texture/Character/11_tarou/tarou_350.png
+Dependencies: []
