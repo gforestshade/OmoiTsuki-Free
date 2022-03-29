@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3374486565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a18222375312c12dcb08fccd2afc644
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61cd1525aa78e875c806e90e8b1e5226
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 16d9053a75362054598d72e1d8988bc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9856eecfcd6b8df42ac2ebd73cc36dff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74e889193e22a9747940ed2cfe192e6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Utage.AdvImportScenarioSheet
+- AssemblyName: Assembly-CSharp
+  ClassName: Utage.StringGrid
+- AssemblyName: Assembly-CSharp
+  ClassName: Utage.StringGridRow
+Assets:
+- Assets/OmitsukiFree/OmitsukiFree.scenarios.asset
+Dependencies: []

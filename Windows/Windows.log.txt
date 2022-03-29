@@ -1,0 +1,3 @@
+omitsukifree.scenarios.asset
+  Hash128: 5a18222375312c12dcb08fccd2afc644
+
